@@ -1,0 +1,41 @@
+package testCases;
+
+import org.testng.Assert;
+import org.testng.annotations.Test;
+
+import pageObjects.HomePage;
+import pageObjects.LoginPage;
+import testBase.BaseClass;
+
+public class TC003_AccountLoginTestWithInvalidCredentials extends BaseClass{
+	
+	@Test(priority=1)
+	public void Verify_LoginTestWithInvalidCredentials()
+	{
+		logger.info("*** Login Test ***");
+		
+		HomePage home = new HomePage(driver);
+		home.click_signUpLoginLink();
+		
+		LoginPage login = new LoginPage(driver);
+		
+		if(login.check_loginToYourAccMsg().equals("Login to your account"))
+		{
+			logger.info("Enter email Address");
+			login.send_LoginEmailAddress(p.getProperty("email"));
+			logger.info("Enter Password");
+			login.send_password(p.getProperty("password"));
+			logger.info("Click Login");
+			login.clickLogin();
+			logger.info("Verify Error message");
+			Assert.assertEquals(login.get_msg_IncorrectCredentials(), "Your email or password is incorrect!", "Error Message doesn't match");
+		}else
+		{
+			logger.error("Login failed");
+			logger.debug("Debug logs...");
+			Assert.assertTrue(false);
+		}
+		
+	}
+
+}

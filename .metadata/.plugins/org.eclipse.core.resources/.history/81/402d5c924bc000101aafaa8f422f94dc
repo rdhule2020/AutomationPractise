@@ -1,0 +1,35 @@
+package pageObjects;
+
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.support.FindBy;
+
+public class ProductsPage extends BasePage{
+
+	public ProductsPage(WebDriver driver)
+	{
+		super(driver);
+	}
+	
+	@FindBy(xpath="//*[text()='All Products']")WebElement Title_AllProducts;
+	@FindBy(xpath="//a[@href='/product_details/1']")WebElement btn_ViewProduct1;
+//	@FindBy(xpath="")WebElement ;
+//	@FindBy(xpath="")WebElement ;
+//	@FindBy(xpath="")WebElement ;
+//	@FindBy(xpath="")WebElement ;
+//	@FindBy(xpath="")WebElement ;
+//	@FindBy(xpath="")WebElement ;
+//
+//	@FindBy(xpath="")WebElement ;
+
+	
+	public boolean isAllProductsExists()
+	{
+		return Title_AllProducts.isDisplayed();
+	}
+	
+	public void click_BlueTop()
+	{
+		btn_ViewProduct1.click();
+	}
+}

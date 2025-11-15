@@ -1,0 +1,47 @@
+package testCases;
+
+import org.testng.Assert;
+import org.testng.annotations.Test;
+
+import pageObjects.HomePage;
+import pageObjects.LoginPage;
+import testBase.BaseClass;
+
+public class TC002_AccountLoginTest extends BaseClass{
+	
+	
+	
+
+	
+	@Test
+	public void Verify_LoginTestWithCorrectEmailAndPassword()
+	{
+		logger.info("*** Login Test ***");
+		
+		HomePage home = new HomePage(driver);
+		home.click_signUpLoginLink();
+		
+		LoginPage login = new LoginPage(driver);
+		
+		if(login.check_loginToYourAccMsg().equals("Login to your account"))
+		{
+			logger.info("Enter email Address");
+			login.send_LoginEmailAddress(p.getProperty("loginemail"));
+			logger.info("Enter Password");
+			login.send_password(p.getProperty("password"));
+			logger.info("Click Login");
+			login.clickLogin();
+			logger.info("Login button clicked Successfully");
+			logger.info("Click Logout");
+			home.click_Logout();
+			logger.info("User Logged out successfully");
+			
+		}else
+		{
+			logger.error("Login Test failed");
+			logger.debug("Debug logs...");
+			Assert.assertTrue(false);
+		}
+		
+	}
+}

@@ -1,0 +1,153 @@
+package testCases;
+
+import org.testng.Assert;
+import org.testng.annotations.Test;
+import org.testng.asserts.SoftAssert;
+
+import pageObjects.HomePage;
+import pageObjects.LoginPage;
+import pageObjects.SignUpPage;
+import testBase.BaseClass;
+
+public class TC001_AccountRegistrationTest extends BaseClass{
+
+	//SoftAssert sa = new SoftAssert();
+	@Test(priority=1)
+	public void Verify_account_registration() throws InterruptedException
+	{
+		
+		logger.info("*** Starting TC001_AccountRegistrationTest ***");
+		try {
+		HomePage hp = new HomePage(driver);
+		
+		logger.info("Verify that home page is visible successfully");
+		hp.click_signUpLoginLink();
+		
+		logger.info("Click on 'Signup / Login' button");
+		LoginPage login = new LoginPage(driver);
+		
+		logger.info("Verify 'New User Signup!' is visible");
+		//sa.assertEquals(login.Check_NewUserSignUpmsg(), "New User Signup!");
+		if(login.Check_NewUserSignUpmsg().equals("New User Signup!"))
+		{
+		logger.info(" Enter name and email address");
+		login.send_Name(randomString().toUpperCase());
+		login.send_SignupEmailAddress(randomString() + "@gmail.com");
+		Thread.sleep(5000);
+		
+		logger.info("Click 'Signup' button");
+		login.clickSignUp();
+		Assert.assertTrue(true);
+		}else
+			
+		{
+			logger.error("Test New User SignUp failed");
+			logger.debug("Debug logs...");
+			Assert.assertTrue(false);
+		}
+		}catch(Exception e)
+		{
+			e.printStackTrace();
+			
+			Assert.fail();
+		}
+		
+
+	
+	
+	}
+	
+	
+	
+	@Test(priority=2)
+	public void Verify_UserAccountInformationDetails()
+	{
+		//Part 2 :		
+				logger.info("Verify Enter Account information Message");
+				SignUpPage signup = new SignUpPage(driver);
+
+//				if(signup.get_msg_EnterAccountInformation().equals("Enter Account Information"))
+//				{
+				
+				logger.info("Select Title Mr/Mrs");
+				signup.select_Radio_Mr();
+				logger.info("Send password");
+				signup.set_password(p.getProperty("password"));
+				logger.info("Select Day");
+				signup.select_Day(12);
+				logger.info("Select Month");
+				signup.select_Month();
+				logger.info("Select Year");
+				signup.select_Year("2012");
+				logger.info("Check newsletter checkbox");
+				signup.Click_newslettarCheckbox();
+				logger.info("Check partner checkbox");
+				signup.click_OptionCheckbox();
+				logger.info("Enter First Name");
+				signup.send_FirstName(p.getProperty("FirstName"));
+				logger.info("Enter Last Name");
+				signup.send_FirstName(p.getProperty("LastName"));
+				logger.info("Enter Company");
+				signup.send_Address1(p.getProperty("Company"));
+				logger.info("Enter Address");
+				signup.send_Address1(p.getProperty("Address1"));
+				logger.info("Enter Address2");
+				signup.send_Address2(p.getProperty("Address2"));
+				logger.info("Select Country");
+				signup.select_Country("Canada");
+				logger.info("Select State");
+				signup.send_State(p.getProperty("State"));
+				logger.info("Select city");
+				signup.send_Zipcode(p.getProperty("City"));
+				logger.info("Enter Zipcode");
+				signup.send_Zipcode(p.getProperty("Zipcode"));
+				logger.info("Enter Mobile number");
+				signup.send_mobileNumber(p.getProperty("MobieNo"));
+				logger.info("Click on Create Account");
+				signup.click_CreateAccount();
+				logger.info("Verify Account Created Message");
+				if(signup.get_msg_AccountCreated().equals("ACCOUNT CREATED!"))
+				{
+					logger.info("Verify Congratulation message");
+					Assert.assertEquals(signup.get_msg_Congratulatons(),"Congratulations! Your new account has been successfully created!");
+				
+					logger.info("Click on Continue");
+					signup.click_Continue();
+					
+					logger.info("Verify LoggedInAsUsername is displayed");
+					Assert.assertEquals(signup.Is_confirm_LoggedInAs(), true, "User Not Logged In As.....");
+					
+					logger.info("Click delete Account button");
+					signup.clickDeleteAccount();
+					
+					logger.info("Verify that 'ACCOUNT DELETED!' is visible ");
+					Assert.assertEquals(signup.get_msg_AccountDeleted(), "ACCOUNT DELETED!", "ACCOUNT DELETED! is not displayed");
+					
+					logger.info("Click continue button");
+					signup.clickContinueAfterDelete();
+				}
+				
+				
+//				logger.info("");
+//				logger.info("");
+			
+				//sa.assertAll();
+			
+//			}else
+//			{
+//				{
+//					logger.error("Test Enter Account Information failed");
+//					logger.debug("Debug logs...");
+//					Assert.assertTrue(false);
+//				}
+//			}
+	}
+	
+	
+	}
+
+
+
+
+
+

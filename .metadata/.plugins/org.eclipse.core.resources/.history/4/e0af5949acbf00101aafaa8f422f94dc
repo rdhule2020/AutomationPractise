@@ -1,0 +1,15 @@
+package testCases;
+
+import org.testng.annotations.Test;
+
+import testBase.BaseClass;
+
+public class TC005_VerifyContactUsForm extends BaseClass{
+	
+	@Test
+	public void verify_ContactUsPage()
+	{
+		
+	}
+
+}

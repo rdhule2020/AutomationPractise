@@ -1,0 +1,104 @@
+package pageObjects;
+
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.support.FindBy;
+
+public class SignUpPage extends BasePage{
+	
+	public SignUpPage(WebDriver driver)
+	{
+		super(driver);
+	}
+	@FindBy(xpath="//*[text()='Enter Account Information']")WebElement txt_EnterAccInfo;
+	
+	public String get_msg_EnterAccountInformation()
+	{
+		try {
+		return (txt_EnterAccInfo.getText());
+		}catch(Exception e)
+		{
+			return (e.getMessage());
+		}
+		
+	}
+	@FindBy(xpath="//input[@value='Mr']")WebElement radio_Mr;
+	@FindBy(xpath="//input[@value='Mrs']")WebElement radio_Mrs;
+	@FindBy(xpath="//input[@id='name']")WebElement txt_name;
+	@FindBy(xpath="//input[@id='email']")WebElement txt_email;
+	@FindBy(xpath="//input[@id='password']")WebElement txt_password;
+	@FindBy(xpath="//select[@name='days']")WebElement drp_days;
+	@FindBy(xpath="//select[@name='months']")WebElement drp_months;
+	@FindBy(xpath="//select[@name='years']")WebElement drp_years;
+	@FindBy(xpath="//input[@id='newsletter']")WebElement chkbox_newsletter;
+	@FindBy(xpath="//input[@id='optin']")WebElement chkbox_option;
+	@FindBy(xpath="//input[@data-qa='first_name']")WebElement txt_FirstName;
+	@FindBy(xpath="//input[@data-qa='last_name']")WebElement txt_lastName;
+	@FindBy(xpath="//input[@data-qa='company']")WebElement txt_company;
+	@FindBy(xpath="//input[@name='address1']")WebElement txt_Address1;
+	@FindBy(xpath="//input[@name='address2']")WebElement txt_Address2;
+	@FindBy(xpath="//select[@id='country']")WebElement drp_country;
+	@FindBy(xpath="//input[@name='state']")WebElement txt_State;
+	@FindBy(xpath="//input[@name='city']")WebElement txt_city;
+	@FindBy(xpath="//input[@name='zipcode']")WebElement txt_zipcode;
+	@FindBy(xpath="//input[@name='mobile_number']")WebElement txt_MobNo;
+	@FindBy(xpath="//button[@data-qa='create-account']")WebElement btn_CreateAccount;
+	
+	@FindBy(xpath="//*[text()='Account Created!']")WebElement msg_AccountCreated;
+	public String get_msg_AccountCreated()
+	{
+		try {
+		return (msg_AccountCreated.getText());
+		}catch(Exception e)
+		{
+			return (e.getMessage());
+		}
+		
+	}
+	@FindBy(xpath="//p[contains(text(),'Congratulations! Your new account has been successfully created!')]")WebElement msg_Congratulatons;
+	public String get_msg_Congratulatons()
+	{
+		try {
+		return (msg_Congratulatons.getText());
+		}catch(Exception e)
+		{
+			return (e.getMessage());
+		}
+		
+	}
+	
+	@FindBy(xpath="//*[@class='btn btn-primary']")WebElement btn_Continue;
+	
+	@FindBy(xpath="//*[text()=' Logged in as ']")WebElement confirm_LoggedInAs;
+
+	@FindBy(xpath="//*[text()=' Delete Account']")WebElement btn_DeleteAccount;
+	
+	@FindBy(xpath="//*[text()='Account Deleted!']")WebElement msg_AccountDeleted;
+	public String get_msg_AccountDeleted()
+	{
+		try {
+		return (msg_AccountDeleted.getText());
+		}catch(Exception e)
+		{
+			return (e.getMessage());
+		}
+		
+	}
+	@FindBy(xpath="//*[text()='Your account has been permanently deleted!']")WebElement msg_AccDeleteConfirmation;
+	public String get_msg_AccountDeletedInformation()
+	{
+		try {
+		return (msg_AccDeleteConfirmation.getText());
+		}catch(Exception e)
+		{
+			return (e.getMessage());
+		}
+		
+	}
+	
+	@FindBy(xpath="//*[text()='Continue']")WebElement btn_ContinueAfterDelete;
+	public void clickContinueAfterDelete()
+	{
+		btn_ContinueAfterDelete.click();
+	}
+}

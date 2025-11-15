@@ -1,0 +1,62 @@
+package testCases;
+
+import java.awt.AWTException;
+
+import org.testng.Assert;
+import org.testng.annotations.Test;
+
+import pageObjects.ContactUsPage;
+import pageObjects.HomePage;
+import testBase.BaseClass;
+
+public class TC005_VerifyContactUsForm extends BaseClass{
+	
+	
+	// Note : upload functionality is not automated, Automate it
+	@Test
+	public void verify_ContactUsPage() throws AWTException, InterruptedException
+	{
+		HomePage hp = new HomePage(driver);
+		hp.click_ContactUs();
+		
+		ContactUsPage cu = new ContactUsPage(driver);
+		
+		try
+		{
+		if(cu.Is_msgGetInTouchExists())
+		{
+			logger.info("Send Name");
+			cu.send_Name(p.getProperty("name"));
+			logger.info("Send Email");
+			cu.send_Email(p.getProperty("email"));
+			logger.info("Send Subject");
+			cu.send_Subject(p.getProperty("Subject"));
+			logger.info("Send Message");
+			cu.send_Message(p.getProperty("Message"));
+			logger.info("Upload File");
+			cu.click_upload();
+			logger.info("Upload file");
+		//	cu.UploadFile();
+			logger.info("Click on Submit button");
+			cu.Submit();
+			logger.info("Click Ok on PopUp");
+			cu.Handle_Popup();
+			logger.info("Verify success message");
+			Assert.assertEquals(cu.isSuccessMessageExist(),true);
+			logger.info("Navigate to Home Page");
+			cu.click_Home();
+			
+		}
+		else
+		{
+			logger.error("Contact Us Page Verification Test failed");
+			logger.debug("Debug logs...");
+			Assert.assertTrue(false);
+		}
+		}catch(Exception e)
+		{
+			Assert.fail();
+		}
+	}
+
+}
