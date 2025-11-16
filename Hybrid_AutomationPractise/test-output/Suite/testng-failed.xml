@@ -5,13 +5,13 @@
     <parameter name="os" value="Windows"/>
     <parameter name="Browser" value="chrome"/>
     <classes>
-      <class name="testCases.TC003_AccountLoginTestWithInvalidCredentials">
+      <class name="testCases.TC005_VerifyContactUsForm">
         <methods>
           <include name="tearDown"/>
-          <include name="Verify_LoginTestWithInvalidCredentials"/>
           <include name="setup"/>
+          <include name="verify_ContactUsPage"/>
         </methods>
-      </class> <!-- testCases.TC003_AccountLoginTestWithInvalidCredentials -->
+      </class> <!-- testCases.TC005_VerifyContactUsForm -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Suite] -->

@@ -98,6 +98,7 @@ public class ProductsPage extends BasePage {
 	}
 	
 	
+
 	//Search product
 	@FindBy(xpath="//*[text()='All Products']")WebElement title_AllProducts;
 	@FindBy(xpath="//input[@id='search_product']")WebElement txt_searchProduct;
@@ -142,6 +143,13 @@ public class ProductsPage extends BasePage {
 	
 	
 	
+
+	
+//	@FindBy(xpath="")WebElement ;
+//	@FindBy(xpath="")WebElement ;
+//	@FindBy(xpath="")WebElement ;
+//	@FindBy(xpath="")WebElement ;
+
 //	@FindBy(xpath="")WebElement ;
 //
 //	@FindBy(xpath="")WebElement ;

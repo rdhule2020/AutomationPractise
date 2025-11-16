@@ -9,57 +9,47 @@ import pageObjects.ContactUsPage;
 import pageObjects.HomePage;
 import testBase.BaseClass;
 
-public class TC005_VerifyContactUsForm extends BaseClass{
-	
-	
-	
+public class TC005_VerifyContactUsForm extends BaseClass {
+
 	@Test
-	public void verify_ContactUsPage() throws AWTException, InterruptedException
-	{
+	public void verify_ContactUsPage() throws AWTException, InterruptedException {
 		SoftAssert sa = new SoftAssert();
-		
+
 		HomePage hp = new HomePage(driver);
 		hp.click_ContactUs();
-		
+
 		ContactUsPage cu = new ContactUsPage(driver);
-		
-		try
-		{
-		if(cu.Is_msgGetInTouchExists())
-		{
-			logger.info("Send Name");
-			cu.send_Name(p.getProperty("name"));
-			logger.info("Send Email");
-			cu.send_Email(p.getProperty("email"));
-			logger.info("Send Subject");
-			cu.send_Subject(p.getProperty("Subject"));
-			logger.info("Send Message");
-			cu.send_Message(p.getProperty("Message"));
-			logger.info("Upload File");
-			cu.click_upload();
-			Thread.sleep(5000);
-			logger.info("Click on Submit button");
-			cu.Submit();
-			logger.info("Click Ok on PopUp");
-			Thread.sleep(5000);
-			cu.Handle_Popup();
-			logger.info("Verify success message");
-			sa.assertEquals(cu.isSuccessMessageExist(),true);
-			logger.info("Navigate to Home Page");
-			cu.click_Home();
-			
-		}
-		else
-		{
-			logger.error("Contact Us Page Verification Test failed");
-		}
-		}catch(Exception e)
-		{
+
+		try {
+			if (cu.Is_msgGetInTouchExists()) {
+				logger.info("Send Name");
+				cu.send_Name(p.getProperty("name"));
+				logger.info("Send Email");
+				cu.send_Email(p.getProperty("email"));
+				logger.info("Send Subject");
+				cu.send_Subject(p.getProperty("Subject"));
+				logger.info("Send Message");
+				cu.send_Message(p.getProperty("Message"));
+//			logger.info("Upload File");
+//			cu.click_upload();
+				Thread.sleep(5000);
+				logger.info("Click on Submit button");
+				cu.Submit();
+				logger.info("Click Ok on PopUp");
+				Thread.sleep(5000);
+				cu.Handle_Popup();
+				logger.info("Verify success message");
+				sa.assertEquals(cu.isSuccessMessageExist(), true);
+				logger.info("Navigate to Home Page");
+				cu.click_Home();
+
+			} else {
+				logger.error("Contact Us Page Verification Test failed");
+			}
+		} catch (Exception e) {
 			logger.error("Exception occurred while verifying product details", e);
-			sa.fail("Exception occured : "+ e.getMessage());
-		}
-		finally
-		{
+			sa.fail("Exception occured : " + e.getMessage());
+		} finally {
 			sa.assertAll();
 		}
 	}

@@ -1,0 +1,18 @@
+package testCases;
+
+import org.testng.annotations.Test;
+
+import pageObjects.HomePage;
+import testBase.BaseClass;
+
+public class TC005_VerifyContactUsForm extends BaseClass{
+	
+	@Test
+	public void verify_ContactUsPage()
+	{
+		HomePage hp = new HomePage(driver);
+		
+		
+	}
+
+}

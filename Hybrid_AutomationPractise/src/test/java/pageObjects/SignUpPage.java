@@ -158,7 +158,7 @@ public class SignUpPage extends BasePage {
 	}
 
 	public void click_CreateAccount() {
-		btn_CreateAccount.click();
+		wait.until(ExpectedConditions.elementToBeClickable(btn_CreateAccount)).click();
 	}
 
 	// --------------------------------------------------------------------------------------

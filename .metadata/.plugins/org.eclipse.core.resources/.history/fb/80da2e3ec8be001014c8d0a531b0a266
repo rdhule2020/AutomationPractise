@@ -1,0 +1,94 @@
+package testCases;
+
+import org.testng.Assert;
+import org.testng.annotations.Test;
+import org.testng.asserts.SoftAssert;
+
+import pageObjects.HomePage;
+import pageObjects.LoginPage;
+import pageObjects.SignUpPage;
+import testBase.BaseClass;
+
+public class TC001_AccountRegistrationTest extends BaseClass{
+
+	//SoftAssert sa = new SoftAssert();
+	@Test
+	public void Verify_account_registration() throws InterruptedException
+	{
+		
+		logger.info("*** Starting TC001_AccountRegistrationTest ***");
+		try {
+		HomePage hp = new HomePage(driver);
+		
+		logger.info("Verify that home page is visible successfully");
+		hp.click_signUpLoginLink();
+		
+		logger.info("Click on 'Signup / Login' button");
+		LoginPage login = new LoginPage(driver);
+		
+		logger.info("Verify 'New User Signup!' is visible");
+		//sa.assertEquals(login.Check_NewUserSignUpmsg(), "New User Signup!");
+		if(login.Check_NewUserSignUpmsg().equals("New User Signup!"))
+		{
+		logger.info(" Enter name and email address");
+		login.send_Name(randomString().toUpperCase());
+		login.send_SignupEmailAddress(randomString() + "@gmail.com");
+		Thread.sleep(5000);
+		
+		logger.info("Click 'Signup' button");
+		login.clickSignUp();
+		Assert.assertTrue(true);
+		}else
+			
+		{
+			logger.error("Test failed");
+			logger.debug("Debug logs...");
+			Assert.assertTrue(false);
+		}
+		}catch(Exception e)
+		{
+			e.printStackTrace();
+			
+			Assert.fail();
+		}
+		
+//Part 2 :		
+		logger.info("Verify Enter Accoun information Message");
+		SignUpPage signup = new SignUpPage(driver);
+
+		if(signup.get_msg_EnterAccountInformation().equals("Enter Account Information"))
+		{
+		
+		logger.info("Select Title Mr/Mrs");
+				
+		
+		
+		logger.info("Send password");
+		logger.info("Select Day");
+		logger.info("Select Month");
+		logger.info("Select Year");
+		logger.info("Check newsletter checkbox");
+		logger.info("Check partner checkbox");
+		logger.info("Enter First Name");
+		logger.info("Enter Last Name");
+		logger.info("Enter Company");
+		logger.info("Enter Address");
+		logger.info("Enter Address2");
+		logger.info("Select Country");
+		logger.info("Select State");
+		logger.info("Select city");
+		logger.info("Enter Zipcode");
+		logger.info("Enter Mobile number");
+		logger.info("Click on Create Account");
+		logger.info("Verify Account Ceated Message");
+		logger.info("Verify Congratulation message");
+		logger.info("Click on Continue");
+		logger.info("");
+		logger.info("");
+	
+		//sa.assertAll();
+	
+	}
+	
+	
+}}

@@ -3,6 +3,7 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
+<<<<<<< HEAD
       <class name="testCases.TC008_VerifySearchProductModule">
         <methods>
           <include name="tearDown"/>
@@ -10,6 +11,15 @@
           <include name="verify_SearchProductModule"/>
         </methods>
       </class> <!-- testCases.TC008_VerifySearchProductModule -->
+=======
+      <class name="testCases.TC001_AccountRegistrationTest">
+        <methods>
+          <include name="tearDown"/>
+          <include name="setup"/>
+          <include name="Verify_account_registration"/>
+        </methods>
+      </class> <!-- testCases.TC001_AccountRegistrationTest -->
+>>>>>>> branch 'master' of https://github.com/rdhule2020/AutomationPractise.git
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

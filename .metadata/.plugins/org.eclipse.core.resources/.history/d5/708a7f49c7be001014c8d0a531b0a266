@@ -1,0 +1,56 @@
+package testCases;
+
+import org.testng.Assert;
+import org.testng.annotations.Test;
+import org.testng.asserts.SoftAssert;
+
+import pageObjects.HomePage;
+import pageObjects.LoginPage;
+import testBase.BaseClass;
+
+public class TC001_AccountRegistrationTest extends BaseClass{
+
+	//SoftAssert sa = new SoftAssert();
+	@Test
+	public void Verify_account_registration() throws InterruptedException
+	{
+		
+		logger.info("*** Starting TC001_AccountRegistrationTest ***");
+		try {
+		HomePage hp = new HomePage(driver);
+		
+		logger.info("Verify that home page is visible successfully");
+		hp.click_signUpLoginLink();
+		
+		logger.info("Click on 'Signup / Login' button");
+		LoginPage login = new LoginPage(driver);
+		
+		logger.info("Verify 'New User Signup!' is visible");
+		//sa.assertEquals(login.Check_NewUserSignUpmsg(), "New User Signup!");
+		if(login.Check_NewUserSignUpmsg().equals("New User Signup!"))
+		{
+		logger.info(" Enter name and email address");
+		login.send_Name(randomString().toUpperCase());
+		login.send_SignupEmailAddress(randomString() + "@gmail.com");
+		Thread.sleep(5000);
+		
+		logger.info("Click 'Signup' button");
+		login.clickSignUp();
+		Assert.assertTrue(true);
+		}else
+		{
+			logger.error("Test failed");
+			logger.debug("Debug logs...");
+			Assert.assertTrue(false);
+		}
+		//sa.assertAll();
+		}catch(Exception e)
+		{
+			e.printStackTrace();
+			
+			Assert.fail();
+		}
+	}
+	
+	
+}

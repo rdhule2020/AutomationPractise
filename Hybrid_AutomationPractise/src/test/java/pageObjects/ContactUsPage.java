@@ -20,11 +20,11 @@ public class ContactUsPage extends BasePage {
 	WebElement subject;
 	@FindBy(xpath = "//textarea[@name='message']")
 	WebElement message;
-	@FindBy(xpath = "//input[@name='upload_file']")
+	@FindBy(xpath = "//input[@type='file']")
 	WebElement btn_uploadFile;
 	@FindBy(xpath = "//input[@name='submit']")
 	WebElement btn_submit;
-	public String filepath = "C:\\Users\\RAHUL\\HybridAutomationFramework\\Hybrid_AutomationPractise\\testData\\index.txt.txt";
+	public String filepath = "C:\\Users\\RAHUL\\HybridAutomationFramework\\Hybrid_AutomationPractise\\testData\\index.txt";
 	@FindBy(xpath = "//*[@class='status alert alert-success']")
 	WebElement msg_success;
 	@FindBy(xpath = "//i[@class='fa fa-angle-double-left']")
@@ -51,10 +51,7 @@ public class ContactUsPage extends BasePage {
 	}
 
 	public void click_upload() {
-
-		btn_uploadFile.sendKeys(
-				"C:\\Users\\RAHUL\\HybridAutomationFramework\\Hybrid_AutomationPractise\\testData\\index.txt.txt");
-
+		btn_uploadFile.sendKeys(filepath);
 	}
 
 	public void Submit() {

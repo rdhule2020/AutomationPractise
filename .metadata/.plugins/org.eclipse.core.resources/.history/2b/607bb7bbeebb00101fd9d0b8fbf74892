@@ -1,0 +1,36 @@
+package pageObjects;
+
+import org.apache.commons.lang3.RandomStringUtils;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.support.PageFactory;
+
+public class BasePage{
+	WebDriver driver;
+	
+	public BasePage(WebDriver driver)
+	{
+		this.driver = driver;
+		PageFactory.initElements(driver, this);
+	}
+	
+	
+	public String randomString()
+	{
+		 String generatedString = RandomStringUtils.randomAlphabetic(6);
+		 return generatedString;
+	}
+	
+
+	public String randomnumber()
+	{
+		 String generatedNumber = RandomStringUtils.randomNumeric(10);
+		 return generatedNumber;
+	}
+	
+	public String randomalphanumeric()
+	{
+		 String generatedString = RandomStringUtils.randomAlphabetic(3);
+		 String generatedNumber = RandomStringUtils.randomNumeric(3);
+		 return (generatedString+"@"+generatedNumber);
+	}
+}

@@ -37,12 +37,13 @@ public class LoginPage extends BasePage{
 	
 	public void send_SignupEmailAddress(String email)
 	{
-		txt_signUpEmailAddress.sendKeys(email);
+		wait.until(ExpectedConditions.elementToBeClickable(txt_signUpEmailAddress)).sendKeys(email);
+	
 	}
 	
 	public void clickSignUp()
 	{
-		btn_SignUp.click();
+		wait.until(ExpectedConditions.elementToBeClickable(btn_SignUp)).click();
 	}
 	
 	public boolean is_EmailAlreadyExists()

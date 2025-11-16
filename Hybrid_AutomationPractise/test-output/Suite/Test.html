@@ -55,11 +55,11 @@ function toggleAllBoxes() {
 <body>
 <h2 align='center'>Test</h2><table border='1' align="center">
 <tr>
-<td>Tests passed/Failed/Skipped:</td><td>8/1/0</td>
+<td>Tests passed/Failed/Skipped:</td><td>1/0/0</td>
 </tr><tr>
-<td>Started on:</td><td>Sun Nov 16 11:28:01 IST 2025</td>
+<td>Started on:</td><td>Sun Nov 16 19:39:14 IST 2025</td>
 </tr>
-<tr><td>Total time:</td><td>533 seconds (533441 ms)</td>
+<tr><td>Total time:</td><td>38 seconds (38035 ms)</td>
 </tr><tr>
 <td>Included groups:</td><td></td>
 </tr><tr>
@@ -67,104 +67,6 @@ function toggleAllBoxes() {
 </tr>
 </table><p/>
 <small><i>(Hover the method name to see the test class name)</i></small><p/>
-<table width='100%' border='1' class='invocation-failed'>
-<tr><td colspan='4' align='center'><b>FAILED TESTS</b></td></tr>
-<tr><td><b>Test method</b></td>
-<td><b>Attribute(s)</b></td>
-<td width="30%"><b>Exception</b></td>
-<td width="10%"><b>Time (seconds)</b></td>
-<td><b>Instance</b></td>
-</tr>
-<tr>
-<td title='testCases.TC003_AccountLoginTestWithInvalidCredentials.Verify_LoginTestWithInvalidCredentials()'><b>Verify_LoginTestWithInvalidCredentials</b><br>Test class: testCases.TC003_AccountLoginTestWithInvalidCredentials</td>
-<td><div><pre>org.openqa.selenium.TimeoutException: java.util.concurrent.TimeoutException
-Build info: version: &apos;4.35.0&apos;, revision: &apos;1c58e5028b&apos;
-System info: os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;21.0.7&apos;
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Command: [fa3d0cd6dbeea66d436cbc54e4ccc4be, clickElement {id=f.BC87142F17C5EA694AF339631BC18EF6.d.DEC1ED3D838CAC2C8BDAFB22EF2C6646.e.9}]
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 142.0.7444.163, chrome: {chromedriverVersion: 142.0.7444.162 (c076baf266c..., userDataDir: C:\Users\RAHUL\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53380}, goog:processID: 7228, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53380/devtoo..., se:cdpVersion: 142.0.7444.163, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
-Element: [[ChromeDriver: chrome on windows (fa3d0cd6dbeea66d436cbc54e4ccc4be)] -&gt; xpath: //ul[@class=&apos;nav navbar-nav&apos;]/child::li//a[@href=&apos;/login&apos;]]
-Session ID: fa3d0cd6dbeea66d436cbc54e4ccc4be
-	at org.openqa.selenium.remote.http.jdk.JdkHttpClient.execute(JdkHttpClient.java:427)
-	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:212)
-	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216)
-	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174)
-	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:557)
-	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:223)
-	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:76)
-	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:51)
-	at jdk.proxy2/jdk.proxy2.$Proxy32.click(Unknown Source)
-	at pageObjects.HomePage.click_signUpLoginLink(HomePage.java:32)
-	at testCases.TC003_AccountLoginTestWithInvalidCredentials.Verify_LoginTestWithInvalidCredentials(TC003_AccountLoginTestWithInvalidCredentials.java:18)
-	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
-Caused by: java.util.concurrent.TimeoutException
-	at java.base/java.util.concurrent.CompletableFuture$Timeout.run(CompletableFuture.java:2920)
-	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
-	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
-	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:304)
-	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
-	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
-	at java.base/java.lang.Thread.run(Thread.java:1583)
-... Removed 27 stack frames</pre></div><a href='#' onClick='toggleBox("stack-trace805536380", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
-<div class='stack-trace' id='stack-trace805536380'><pre>org.openqa.selenium.TimeoutException: java.util.concurrent.TimeoutException
-Build info: version: &apos;4.35.0&apos;, revision: &apos;1c58e5028b&apos;
-System info: os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;21.0.7&apos;
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Command: [fa3d0cd6dbeea66d436cbc54e4ccc4be, clickElement {id=f.BC87142F17C5EA694AF339631BC18EF6.d.DEC1ED3D838CAC2C8BDAFB22EF2C6646.e.9}]
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 142.0.7444.163, chrome: {chromedriverVersion: 142.0.7444.162 (c076baf266c..., userDataDir: C:\Users\RAHUL\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53380}, goog:processID: 7228, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53380/devtoo..., se:cdpVersion: 142.0.7444.163, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
-Element: [[ChromeDriver: chrome on windows (fa3d0cd6dbeea66d436cbc54e4ccc4be)] -&gt; xpath: //ul[@class=&apos;nav navbar-nav&apos;]/child::li//a[@href=&apos;/login&apos;]]
-Session ID: fa3d0cd6dbeea66d436cbc54e4ccc4be
-	at org.openqa.selenium.remote.http.jdk.JdkHttpClient.execute(JdkHttpClient.java:427)
-	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:212)
-	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216)
-	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174)
-	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:557)
-	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:223)
-	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:76)
-	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
-	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
-	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:51)
-	at jdk.proxy2/jdk.proxy2.$Proxy32.click(Unknown Source)
-	at pageObjects.HomePage.click_signUpLoginLink(HomePage.java:32)
-	at testCases.TC003_AccountLoginTestWithInvalidCredentials.Verify_LoginTestWithInvalidCredentials(TC003_AccountLoginTestWithInvalidCredentials.java:18)
-	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
-	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
-	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
-	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:664)
-	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:227)
-	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
-	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:957)
-	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:200)
-	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
-	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
-	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
-	at org.testng.TestRunner.privateRun(TestRunner.java:848)
-	at org.testng.TestRunner.run(TestRunner.java:621)
-	at org.testng.SuiteRunner.runTest(SuiteRunner.java:443)
-	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:437)
-	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:397)
-	at org.testng.SuiteRunner.run(SuiteRunner.java:336)
-	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
-	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
-	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1280)
-	at org.testng.TestNG.runSuitesLocally(TestNG.java:1200)
-	at org.testng.TestNG.runSuites(TestNG.java:1114)
-	at org.testng.TestNG.run(TestNG.java:1082)
-	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
-	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
-	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
-Caused by: java.util.concurrent.TimeoutException
-	at java.base/java.util.concurrent.CompletableFuture$Timeout.run(CompletableFuture.java:2920)
-	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
-	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
-	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:304)
-	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
-	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
-	at java.base/java.lang.Thread.run(Thread.java:1583)
-</pre></div></td>
-<td>180</td>
-<td>testCases.TC003_AccountLoginTestWithInvalidCredentials@7adf16aa</td></tr>
-</table><p>
 <table width='100%' border='1' class='invocation-passed'>
 <tr><td colspan='4' align='center'><b>PASSED TESTS</b></td></tr>
 <tr><td><b>Test method</b></td>
@@ -174,45 +76,10 @@ Caused by: java.util.concurrent.TimeoutException
 <td><b>Instance</b></td>
 </tr>
 <tr>
-<td title='testCases.TC006_VerifyTestCasesPage.verify_TestCasesPage()'><b>verify_TestCasesPage</b><br>Test class: testCases.TC006_VerifyTestCasesPage</td>
-<td></td>
-<td>3</td>
-<td>testCases.TC006_VerifyTestCasesPage@73c60324</td></tr>
-<tr>
-<td title='testCases.TC008_VerifySearchProductModule.verify_SearchProductModule()'><b>verify_SearchProductModule</b><br>Test class: testCases.TC008_VerifySearchProductModule</td>
-<td></td>
-<td>31</td>
-<td>testCases.TC008_VerifySearchProductModule@4ba534b0</td></tr>
-<tr>
-<td title='testCases.TC001_AccountRegistrationTest.Verify_UserAccountInformationDetails()'><b>Verify_UserAccountInformationDetails</b><br>Test class: testCases.TC001_AccountRegistrationTest</td>
-<td></td>
-<td>22</td>
-<td>testCases.TC001_AccountRegistrationTest@e260766</td></tr>
-<tr>
-<td title='testCases.TC001_AccountRegistrationTest.Verify_account_registration()'><b>Verify_account_registration</b><br>Test class: testCases.TC001_AccountRegistrationTest</td>
-<td></td>
-<td>12</td>
-<td>testCases.TC001_AccountRegistrationTest@e260766</td></tr>
-<tr>
-<td title='testCases.TC007_VerifyAllProductsAndProductDetailPage.verifyAllProductsAndProductDetailPage()'><b>verifyAllProductsAndProductDetailPage</b><br>Test class: testCases.TC007_VerifyAllProductsAndProductDetailPage</td>
-<td></td>
-<td>23</td>
-<td>testCases.TC007_VerifyAllProductsAndProductDetailPage@71ae31b0</td></tr>
-<tr>
-<td title='testCases.TC004_RgisterUserWithExistingEmail.verify_RegistrationWithExistingEmail()'><b>verify_RegistrationWithExistingEmail</b><br>Test class: testCases.TC004_RgisterUserWithExistingEmail</td>
-<td></td>
-<td>7</td>
-<td>testCases.TC004_RgisterUserWithExistingEmail@34a1d21f</td></tr>
-<tr>
 <td title='testCases.TC005_VerifyContactUsForm.verify_ContactUsPage()'><b>verify_ContactUsPage</b><br>Test class: testCases.TC005_VerifyContactUsForm</td>
 <td></td>
-<td>56</td>
-<td>testCases.TC005_VerifyContactUsForm@58bf8650</td></tr>
-<tr>
-<td title='testCases.TC002_AccountLoginTest.Verify_LoginTestWithCorrectEmailAndPassword()'><b>Verify_LoginTestWithCorrectEmailAndPassword</b><br>Test class: testCases.TC002_AccountLoginTest</td>
-<td></td>
-<td>14</td>
-<td>testCases.TC002_AccountLoginTest@16f7b4af</td></tr>
+<td>22</td>
+<td>testCases.TC005_VerifyContactUsForm@426b6a74</td></tr>
 </table><p>
 </body>
 </html>

@@ -1,0 +1,15 @@
+package testCases;
+
+import org.testng.annotations.Test;
+
+import testBase.BaseClass;
+
+public class TC007_VerifyAllProductsAndProductDetailPage extends BaseClass{
+	
+	@Test
+	public void VerifyAllProductsAndProductDetailPage()
+	{
+		
+	}
+
+}

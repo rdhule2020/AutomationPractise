@@ -1,0 +1,97 @@
+/*
+ * package testCases;
+ * 
+ * import static org.testng.Assert.assertEquals;
+ * 
+ * import org.testng.Assert; import org.testng.annotations.Test;
+ * 
+ * import pageObjects.HomePage; import pageObjects.ProductsPage; import
+ * testBase.BaseClass;
+ * 
+ * public class TC007_VerifyAllProductsAndProductDetailPage extends BaseClass{
+ * 
+ * @Test public void VerifyAllProductsAndProductDetailPage() { HomePage hp = new
+ * HomePage(driver); hp.click_Products();
+ * 
+ * ProductsPage p = new ProductsPage(driver);
+ * Assert.assertEquals(p.isAllProductsExists(), true);
+ * 
+ * if(p.isAllProductsExists()==true) {
+ * logger.info("Click View Product of Product1"); 
+ * p.click_ViewProduct1();
+ * logger.info("Check Product Name"); 
+ * Assert.assertEquals(p.get_Product1_Name(),
+ * "Blue Top"); 
+ * logger.info("Check category");
+ * Assert.assertEquals(p.get_product1_Category(), "Category: Women > Tops");
+ * logger.info("Check price"); 
+ * Assert.assertEquals(p.get_product1_Price(),"Rs. 500"); 
+ * logger.info("Check Availability");
+ * Assert.assertEquals(p.get_product1_Availability(), " In Stock");
+ * logger.info("Check condition");
+ * Assert.assertEquals(p.get_product1_Condition(), " New");
+ * logger.info("Check Brand"); 
+ * Assert.assertEquals(p.get_product1_Brand(),
+ * " Polo"); 
+ * logger.info("Assertion passed"); }else {
+ * logger.error("Test Case failed"); 
+ * logger.debug("Debug logs..");
+ * Assert.fail(); }
+ * 
+ * 
+ * 
+ * }
+ * 
+ * }
+ */
+
+
+
+
+package testCases;
+
+import org.testng.Assert;
+import org.testng.annotations.Test;
+import pageObjects.HomePage;
+import pageObjects.ProductsPage;
+import testBase.BaseClass;
+
+public class TC007_VerifyAllProductsAndProductDetailPage extends BaseClass {
+
+    @Test
+    public void verifyAllProductsAndProductDetailPage() {
+        logger.info("===== Starting TC007_VerifyAllProductsAndProductDetailPage =====");
+        
+        try {
+        HomePage hp = new HomePage(driver);
+        hp.click_Products();
+
+        ProductsPage productsPage = new ProductsPage(driver);
+        boolean allProductsVisible = productsPage.isAllProductsExists();
+        
+        Assert.assertTrue(allProductsVisible, "All Products section is not visible on Products Page");
+        
+        if (allProductsVisible) {
+            logger.info("Clicking 'View Product' for Product 1");
+            productsPage.click_ViewProduct1();
+            
+            logger.info("Validating Product Details");
+            Assert.assertEquals(productsPage.get_Product1_Name(), "Blue Top  ", "Product name mismatch");
+            Assert.assertEquals(productsPage.get_product1_Category(), "Category: Women > Tops", "Category mismatch");
+            Assert.assertEquals(productsPage.get_product1_Price(), "Rs. 500", "Price mismatch");
+            Assert.assertEquals(productsPage.get_product1_Availability(), "Availability: In Stock", "Availability mismatch");
+            Assert.assertEquals(productsPage.get_product1_Condition(), "Condition: New", "Condition mismatch");
+            Assert.assertEquals(productsPage.get_product1_Brand(), "Brand: Polo", "Brand mismatch");
+            
+            logger.info("All product details verified successfully");
+        } else {
+            logger.error("All Products section was not found. Test failed.");
+           
+        }
+        }catch(Exception e) {
+        	 Assert.fail("All Products section was not found.");
+        	 e.getMessage();
+        }
+        logger.info("===== Completed TC007_VerifyAllProductsAndProductDetailPage =====");
+    }
+}

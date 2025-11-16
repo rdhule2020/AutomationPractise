@@ -1,0 +1,34 @@
+package testCases;
+
+import static org.testng.Assert.assertEquals;
+
+import org.testng.Assert;
+import org.testng.annotations.Test;
+
+import pageObjects.HomePage;
+import pageObjects.ProductsPage;
+import testBase.BaseClass;
+
+public class TC007_VerifyAllProductsAndProductDetailPage extends BaseClass{
+	
+	@Test
+	public void VerifyAllProductsAndProductDetailPage()
+	{
+		HomePage hp = new HomePage(driver);
+		hp.click_Products();
+		
+		ProductsPage p = new ProductsPage(driver);
+		Assert.assertEquals(p.isAllProductsExists(), true);
+		
+		if(p.isAllProductsExists()==true)
+		{
+			p.click_ViewProduct1();
+			Assert.assertEquals(p.get_Product1_Name(), "Blue Top");
+			
+		}
+		
+		
+		
+	}
+
+}
