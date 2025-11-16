@@ -1,0 +1,184 @@
+2025-11-16 11:28:00.295 [main] DEBUG
+			org.testng.TestNG:82 - suiteXmlPath: "C:\Users\RAHUL\HybridAutomationFramework\Hybrid_AutomationPractise\master.xml"
+2025-11-16 11:28:01.564 [main] INFO 
+			org.testng.internal.Utils:112 - [TestNG] Running:
+  C:\Users\RAHUL\HybridAutomationFramework\Hybrid_AutomationPractise\master.xml
+
+2025-11-16 11:28:01.706 [main] INFO 
+			testCases.TC001_AccountRegistrationTest:40 - Launch browser
+2025-11-16 11:28:08.538 [main] INFO 
+			testCases.TC001_AccountRegistrationTest:54 - Navigate to url 'http://automationexercise.com'
+2025-11-16 11:28:15.340 [main] INFO 
+			testCases.TC001_AccountRegistrationTest:17 - *** Starting TC001_AccountRegistrationTest ***
+2025-11-16 11:28:15.400 [main] INFO 
+			testCases.TC001_AccountRegistrationTest:21 - Verify that home page is visible successfully
+2025-11-16 11:28:17.316 [main] INFO 
+			testCases.TC001_AccountRegistrationTest:24 - Click on 'Signup / Login' button
+2025-11-16 11:28:17.324 [main] INFO 
+			testCases.TC001_AccountRegistrationTest:27 - Verify 'New User Signup!' is visible
+2025-11-16 11:28:17.408 [main] INFO 
+			testCases.TC001_AccountRegistrationTest:30 -  Enter name and email address
+2025-11-16 11:28:23.147 [main] INFO 
+			testCases.TC001_AccountRegistrationTest:35 - Click 'Signup' button
+2025-11-16 11:28:27.690 [main] INFO 
+			testCases.TC001_AccountRegistrationTest:56 - Verify Enter Account information Message
+2025-11-16 11:28:27.810 [main] INFO 
+			testCases.TC001_AccountRegistrationTest:61 - Select Title Mr/Mrs
+2025-11-16 11:28:28.020 [main] INFO 
+			testCases.TC001_AccountRegistrationTest:63 - Send password
+2025-11-16 11:28:28.312 [main] INFO 
+			testCases.TC001_AccountRegistrationTest:65 - Select Day
+2025-11-16 11:28:28.925 [main] INFO 
+			testCases.TC001_AccountRegistrationTest:67 - Select Month
+2025-11-16 11:28:29.270 [main] INFO 
+			testCases.TC001_AccountRegistrationTest:69 - Select Year
+2025-11-16 11:28:29.792 [main] INFO 
+			testCases.TC001_AccountRegistrationTest:71 - Check newsletter checkbox
+2025-11-16 11:28:30.175 [main] INFO 
+			testCases.TC001_AccountRegistrationTest:73 - Check partner checkbox
+2025-11-16 11:28:30.429 [main] INFO 
+			testCases.TC001_AccountRegistrationTest:75 - Enter First Name
+2025-11-16 11:28:30.710 [main] INFO 
+			testCases.TC001_AccountRegistrationTest:77 - Enter Last Name
+2025-11-16 11:28:30.951 [main] INFO 
+			testCases.TC001_AccountRegistrationTest:79 - Enter Company
+2025-11-16 11:28:31.200 [main] INFO 
+			testCases.TC001_AccountRegistrationTest:81 - Enter Address
+2025-11-16 11:28:31.534 [main] INFO 
+			testCases.TC001_AccountRegistrationTest:83 - Enter Address2
+2025-11-16 11:28:31.754 [main] INFO 
+			testCases.TC001_AccountRegistrationTest:85 - Select Country
+2025-11-16 11:28:32.034 [main] INFO 
+			testCases.TC001_AccountRegistrationTest:87 - Select State
+2025-11-16 11:28:32.233 [main] INFO 
+			testCases.TC001_AccountRegistrationTest:89 - Select city
+2025-11-16 11:28:32.418 [main] INFO 
+			testCases.TC001_AccountRegistrationTest:91 - Enter Zipcode
+2025-11-16 11:28:32.602 [main] INFO 
+			testCases.TC001_AccountRegistrationTest:93 - Enter Mobile number
+2025-11-16 11:28:32.775 [main] INFO 
+			testCases.TC001_AccountRegistrationTest:95 - Click on Create Account
+2025-11-16 11:28:35.405 [main] INFO 
+			testCases.TC001_AccountRegistrationTest:97 - Verify Account Created Message
+2025-11-16 11:28:35.479 [main] INFO 
+			testCases.TC001_AccountRegistrationTest:99 - Verify Congratulation message
+2025-11-16 11:28:35.525 [main] INFO 
+			testCases.TC001_AccountRegistrationTest:103 - Click on Continue
+2025-11-16 11:28:42.003 [main] INFO 
+			testCases.TC001_AccountRegistrationTest:106 - Verify LoggedInAsUsername is displayed
+2025-11-16 11:28:42.067 [main] INFO 
+			testCases.TC001_AccountRegistrationTest:109 - Click delete Account button
+2025-11-16 11:28:43.819 [main] INFO 
+			testCases.TC001_AccountRegistrationTest:112 - Verify that 'ACCOUNT DELETED!' is visible 
+2025-11-16 11:28:43.869 [main] INFO 
+			testCases.TC001_AccountRegistrationTest:116 - Click continue button
+2025-11-16 11:28:50.605 [main] INFO 
+			testCases.TC002_AccountLoginTest:40 - Launch browser
+2025-11-16 11:28:52.343 [main] INFO 
+			testCases.TC002_AccountLoginTest:54 - Navigate to url 'http://automationexercise.com'
+2025-11-16 11:28:58.485 [main] INFO 
+			testCases.TC002_AccountLoginTest:15 - *** Login Test ***
+2025-11-16 11:29:00.703 [main] INFO 
+			testCases.TC002_AccountLoginTest:24 - Enter email Address
+2025-11-16 11:29:01.141 [main] INFO 
+			testCases.TC002_AccountLoginTest:26 - Enter Password
+2025-11-16 11:29:01.457 [main] INFO 
+			testCases.TC002_AccountLoginTest:28 - Click Login
+2025-11-16 11:29:06.756 [main] INFO 
+			testCases.TC002_AccountLoginTest:30 - Login button clicked Successfully
+2025-11-16 11:29:06.756 [main] INFO 
+			testCases.TC002_AccountLoginTest:31 - Click Logout
+2025-11-16 11:29:12.482 [main] INFO 
+			testCases.TC002_AccountLoginTest:33 - User Logged out successfully
+2025-11-16 11:29:13.392 [main] INFO 
+			testCases.TC003_AccountLoginTestWithInvalidCredentials:40 - Launch browser
+2025-11-16 11:29:16.494 [main] INFO 
+			testCases.TC003_AccountLoginTestWithInvalidCredentials:54 - Navigate to url 'http://automationexercise.com'
+2025-11-16 11:29:23.943 [main] INFO 
+			testCases.TC003_AccountLoginTestWithInvalidCredentials:15 - *** Login Test with Incorrect email and Password ***
+2025-11-16 11:32:55.370 [main] INFO 
+			testCases.TC004_RgisterUserWithExistingEmail:40 - Launch browser
+2025-11-16 11:33:11.295 [main] INFO 
+			testCases.TC004_RgisterUserWithExistingEmail:54 - Navigate to url 'http://automationexercise.com'
+2025-11-16 11:33:28.580 [main] INFO 
+			testCases.TC004_RgisterUserWithExistingEmail:22 - Send name
+2025-11-16 11:33:29.558 [main] INFO 
+			testCases.TC004_RgisterUserWithExistingEmail:24 - Send Existing Email
+2025-11-16 11:33:29.826 [main] INFO 
+			testCases.TC004_RgisterUserWithExistingEmail:26 - Click signUp
+2025-11-16 11:33:31.883 [main] INFO 
+			testCases.TC004_RgisterUserWithExistingEmail:28 - Verify Error Message
+2025-11-16 11:33:31.938 [main] INFO 
+			testCases.TC004_RgisterUserWithExistingEmail:30 - Error Message displayed as 'Email Address already exist!' 
+2025-11-16 11:33:33.203 [main] INFO 
+			testCases.TC005_VerifyContactUsForm:40 - Launch browser
+2025-11-16 11:33:43.650 [main] INFO 
+			testCases.TC005_VerifyContactUsForm:54 - Navigate to url 'http://automationexercise.com'
+2025-11-16 11:34:16.642 [main] INFO 
+			testCases.TC005_VerifyContactUsForm:30 - Send Name
+2025-11-16 11:34:16.880 [main] INFO 
+			testCases.TC005_VerifyContactUsForm:32 - Send Email
+2025-11-16 11:34:17.380 [main] INFO 
+			testCases.TC005_VerifyContactUsForm:34 - Send Subject
+2025-11-16 11:34:17.598 [main] INFO 
+			testCases.TC005_VerifyContactUsForm:36 - Send Message
+2025-11-16 11:34:17.840 [main] INFO 
+			testCases.TC005_VerifyContactUsForm:38 - Upload File
+2025-11-16 11:34:22.974 [main] INFO 
+			testCases.TC005_VerifyContactUsForm:41 - Click on Submit button
+2025-11-16 11:34:23.220 [main] INFO 
+			testCases.TC005_VerifyContactUsForm:43 - Click Ok on PopUp
+2025-11-16 11:34:28.601 [main] INFO 
+			testCases.TC005_VerifyContactUsForm:46 - Verify success message
+2025-11-16 11:34:29.687 [main] INFO 
+			testCases.TC005_VerifyContactUsForm:48 - Navigate to Home Page
+2025-11-16 11:34:56.799 [main] INFO 
+			testCases.TC006_VerifyTestCasesPage:40 - Launch browser
+2025-11-16 11:35:07.985 [main] INFO 
+			testCases.TC006_VerifyTestCasesPage:54 - Navigate to url 'http://automationexercise.com'
+2025-11-16 11:35:26.314 [main] INFO 
+			testCases.TC007_VerifyAllProductsAndProductDetailPage:40 - Launch browser
+2025-11-16 11:35:33.610 [main] INFO 
+			testCases.TC007_VerifyAllProductsAndProductDetailPage:54 - Navigate to url 'http://automationexercise.com'
+2025-11-16 11:35:45.576 [main] INFO 
+			testCases.TC007_VerifyAllProductsAndProductDetailPage:15 - ===== Starting TC007_VerifyAllProductsAndProductDetailPage =====
+2025-11-16 11:36:05.282 [main] INFO 
+			testCases.TC007_VerifyAllProductsAndProductDetailPage:27 - Clicking 'View Product' for Product 1
+2025-11-16 11:36:08.262 [main] INFO 
+			testCases.TC007_VerifyAllProductsAndProductDetailPage:30 - Validating Product Details
+2025-11-16 11:36:08.266 [main] INFO 
+			testCases.TC007_VerifyAllProductsAndProductDetailPage:31 - Check Product Name
+2025-11-16 11:36:08.536 [main] INFO 
+			testCases.TC007_VerifyAllProductsAndProductDetailPage:33 - Check category
+2025-11-16 11:36:08.611 [main] INFO 
+			testCases.TC007_VerifyAllProductsAndProductDetailPage:35 - Check price
+2025-11-16 11:36:08.647 [main] INFO 
+			testCases.TC007_VerifyAllProductsAndProductDetailPage:37 - Check Availability
+2025-11-16 11:36:08.683 [main] INFO 
+			testCases.TC007_VerifyAllProductsAndProductDetailPage:40 - Check condition
+2025-11-16 11:36:08.716 [main] INFO 
+			testCases.TC007_VerifyAllProductsAndProductDetailPage:42 - Check Brand
+2025-11-16 11:36:08.749 [main] INFO 
+			testCases.TC007_VerifyAllProductsAndProductDetailPage:44 - All product details verified successfully
+2025-11-16 11:36:08.750 [main] INFO 
+			testCases.TC007_VerifyAllProductsAndProductDetailPage:56 - ===== Completed TC007_VerifyAllProductsAndProductDetailPage =====
+2025-11-16 11:36:09.534 [main] INFO 
+			testCases.TC008_VerifySearchProductModule:40 - Launch browser
+2025-11-16 11:36:11.764 [main] INFO 
+			testCases.TC008_VerifySearchProductModule:54 - Navigate to url 'http://automationexercise.com'
+2025-11-16 11:36:23.445 [main] INFO 
+			testCases.TC008_VerifySearchProductModule:15 - Start TC008_VerifySearchProductModule Verification
+2025-11-16 11:36:23.447 [main] INFO 
+			testCases.TC008_VerifySearchProductModule:19 - Click on Products button
+2025-11-16 11:36:51.559 [main] INFO 
+			testCases.TC008_VerifySearchProductModule:23 - Verify user is navigated to ALL PRODUCTS page successfully 
+2025-11-16 11:36:51.610 [main] INFO 
+			testCases.TC008_VerifySearchProductModule:26 - Enter product name in search input and click search button
+2025-11-16 11:36:51.611 [main] INFO 
+			testCases.TC008_VerifySearchProductModule:29 - Enter Products name
+2025-11-16 11:36:51.758 [main] INFO 
+			testCases.TC008_VerifySearchProductModule:31 - Click search button
+2025-11-16 11:36:54.295 [main] INFO 
+			testCases.TC008_VerifySearchProductModule:33 - Verify Searched Products Title
+2025-11-16 11:36:54.431 [main] INFO 
+			testCases.TC008_VerifySearchProductModule:48 - TC008_VerifySearchProductModule  Verified 

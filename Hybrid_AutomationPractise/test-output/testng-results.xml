@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="9" passed="8" failed="1" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-11-16T11:28:01 IST" name="Suite" finished-at="2025-11-16T11:36:55 IST" duration-ms="533441">
+    <groups>
+    </groups>
+    <test started-at="2025-11-16T11:28:01 IST" name="Test" finished-at="2025-11-16T11:36:55 IST" duration-ms="533441">
+      <class name="testCases.TC004_RgisterUserWithExistingEmail">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC004_RgisterUserWithExistingEmail@34a1d21f]" started-at="2025-11-16T11:32:55 IST" name="setup" finished-at="2025-11-16T11:33:24 IST" duration-ms="28674" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verify_RegistrationWithExistingEmail()[pri:0, instance:testCases.TC004_RgisterUserWithExistingEmail@34a1d21f]" started-at="2025-11-16T11:33:24 IST" name="verify_RegistrationWithExistingEmail" finished-at="2025-11-16T11:33:31 IST" duration-ms="7895" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_RegistrationWithExistingEmail -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC004_RgisterUserWithExistingEmail@34a1d21f]" started-at="2025-11-16T11:33:31 IST" name="tearDown" finished-at="2025-11-16T11:33:33 IST" duration-ms="1244" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.TC004_RgisterUserWithExistingEmail -->
+      <class name="testCases.TC005_VerifyContactUsForm">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC005_VerifyContactUsForm@58bf8650]" started-at="2025-11-16T11:33:33 IST" name="setup" finished-at="2025-11-16T11:33:59 IST" duration-ms="26057" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verify_ContactUsPage()[pri:0, instance:testCases.TC005_VerifyContactUsForm@58bf8650]" started-at="2025-11-16T11:33:59 IST" name="verify_ContactUsPage" finished-at="2025-11-16T11:34:55 IST" duration-ms="56482" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_ContactUsPage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC005_VerifyContactUsForm@58bf8650]" started-at="2025-11-16T11:34:55 IST" name="tearDown" finished-at="2025-11-16T11:34:56 IST" duration-ms="1048" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.TC005_VerifyContactUsForm -->
+      <class name="testCases.TC007_VerifyAllProductsAndProductDetailPage">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC007_VerifyAllProductsAndProductDetailPage@71ae31b0]" started-at="2025-11-16T11:35:26 IST" name="setup" finished-at="2025-11-16T11:35:45 IST" duration-ms="19242" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyAllProductsAndProductDetailPage()[pri:0, instance:testCases.TC007_VerifyAllProductsAndProductDetailPage@71ae31b0]" started-at="2025-11-16T11:35:45 IST" name="verifyAllProductsAndProductDetailPage" finished-at="2025-11-16T11:36:08 IST" duration-ms="23193" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyAllProductsAndProductDetailPage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC007_VerifyAllProductsAndProductDetailPage@71ae31b0]" started-at="2025-11-16T11:36:08 IST" name="tearDown" finished-at="2025-11-16T11:36:09 IST" duration-ms="772" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.TC007_VerifyAllProductsAndProductDetailPage -->
+      <class name="testCases.TC003_AccountLoginTestWithInvalidCredentials">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC003_AccountLoginTestWithInvalidCredentials@7adf16aa]" started-at="2025-11-16T11:29:13 IST" name="setup" finished-at="2025-11-16T11:29:23 IST" duration-ms="10543" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Verify_LoginTestWithInvalidCredentials()[pri:0, instance:testCases.TC003_AccountLoginTestWithInvalidCredentials@7adf16aa]" started-at="2025-11-16T11:29:23 IST" name="Verify_LoginTestWithInvalidCredentials" finished-at="2025-11-16T11:32:24 IST" duration-ms="180341" status="FAIL">
+          <exception class="org.openqa.selenium.TimeoutException">
+            <message>
+              <![CDATA[java.util.concurrent.TimeoutException
+Build info: version: '4.35.0', revision: '1c58e5028b'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.7'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [fa3d0cd6dbeea66d436cbc54e4ccc4be, clickElement {id=f.BC87142F17C5EA694AF339631BC18EF6.d.DEC1ED3D838CAC2C8BDAFB22EF2C6646.e.9}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 142.0.7444.163, chrome: {chromedriverVersion: 142.0.7444.162 (c076baf266c..., userDataDir: C:\Users\RAHUL\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53380}, goog:processID: 7228, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53380/devtoo..., se:cdpVersion: 142.0.7444.163, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (fa3d0cd6dbeea66d436cbc54e4ccc4be)] -> xpath: //ul[@class='nav navbar-nav']/child::li//a[@href='/login']]
+Session ID: fa3d0cd6dbeea66d436cbc54e4ccc4be]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.TimeoutException: java.util.concurrent.TimeoutException
+Build info: version: '4.35.0', revision: '1c58e5028b'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.7'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [fa3d0cd6dbeea66d436cbc54e4ccc4be, clickElement {id=f.BC87142F17C5EA694AF339631BC18EF6.d.DEC1ED3D838CAC2C8BDAFB22EF2C6646.e.9}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 142.0.7444.163, chrome: {chromedriverVersion: 142.0.7444.162 (c076baf266c..., userDataDir: C:\Users\RAHUL\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53380}, goog:processID: 7228, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53380/devtoo..., se:cdpVersion: 142.0.7444.163, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (fa3d0cd6dbeea66d436cbc54e4ccc4be)] -> xpath: //ul[@class='nav navbar-nav']/child::li//a[@href='/login']]
+Session ID: fa3d0cd6dbeea66d436cbc54e4ccc4be
+at org.openqa.selenium.remote.http.jdk.JdkHttpClient.execute(JdkHttpClient.java:427)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:212)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:557)
+at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:223)
+at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:76)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:51)
+at jdk.proxy2/jdk.proxy2.$Proxy32.click(Unknown Source)
+at pageObjects.HomePage.click_signUpLoginLink(HomePage.java:32)
+at testCases.TC003_AccountLoginTestWithInvalidCredentials.Verify_LoginTestWithInvalidCredentials(TC003_AccountLoginTestWithInvalidCredentials.java:18)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:664)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:227)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:957)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:200)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+at org.testng.TestRunner.privateRun(TestRunner.java:848)
+at org.testng.TestRunner.run(TestRunner.java:621)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:443)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:437)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:397)
+at org.testng.SuiteRunner.run(SuiteRunner.java:336)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1280)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1200)
+at org.testng.TestNG.runSuites(TestNG.java:1114)
+at org.testng.TestNG.run(TestNG.java:1082)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+Caused by: java.util.concurrent.TimeoutException
+at java.base/java.util.concurrent.CompletableFuture$Timeout.run(CompletableFuture.java:2920)
+at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:304)
+at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+at java.base/java.lang.Thread.run(Thread.java:1583)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.TimeoutException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_LoginTestWithInvalidCredentials -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC003_AccountLoginTestWithInvalidCredentials@7adf16aa]" started-at="2025-11-16T11:32:24 IST" name="tearDown" finished-at="2025-11-16T11:32:55 IST" duration-ms="31067" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.TC003_AccountLoginTestWithInvalidCredentials -->
+      <class name="testCases.TC008_VerifySearchProductModule">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC008_VerifySearchProductModule@4ba534b0]" started-at="2025-11-16T11:36:09 IST" name="setup" finished-at="2025-11-16T11:36:23 IST" duration-ms="13895" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verify_SearchProductModule()[pri:0, instance:testCases.TC008_VerifySearchProductModule@4ba534b0]" started-at="2025-11-16T11:36:23 IST" name="verify_SearchProductModule" finished-at="2025-11-16T11:36:54 IST" duration-ms="31005" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_SearchProductModule -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC008_VerifySearchProductModule@4ba534b0]" started-at="2025-11-16T11:36:54 IST" name="tearDown" finished-at="2025-11-16T11:36:55 IST" duration-ms="568" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.TC008_VerifySearchProductModule -->
+      <class name="testCases.TC001_AccountRegistrationTest">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC001_AccountRegistrationTest@e260766]" started-at="2025-11-16T11:28:01 IST" name="setup" finished-at="2025-11-16T11:28:15 IST" duration-ms="13527" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Verify_account_registration()[pri:1, instance:testCases.TC001_AccountRegistrationTest@e260766]" started-at="2025-11-16T11:28:15 IST" name="Verify_account_registration" finished-at="2025-11-16T11:28:27 IST" duration-ms="12054" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_account_registration -->
+        <test-method signature="Verify_UserAccountInformationDetails()[pri:2, instance:testCases.TC001_AccountRegistrationTest@e260766]" started-at="2025-11-16T11:28:27 IST" name="Verify_UserAccountInformationDetails" finished-at="2025-11-16T11:28:49 IST" duration-ms="22114" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_UserAccountInformationDetails -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC001_AccountRegistrationTest@e260766]" started-at="2025-11-16T11:28:49 IST" name="tearDown" finished-at="2025-11-16T11:28:50 IST" duration-ms="794" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.TC001_AccountRegistrationTest -->
+      <class name="testCases.TC006_VerifyTestCasesPage">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC006_VerifyTestCasesPage@73c60324]" started-at="2025-11-16T11:34:56 IST" name="setup" finished-at="2025-11-16T11:35:21 IST" duration-ms="25025" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verify_TestCasesPage()[pri:0, instance:testCases.TC006_VerifyTestCasesPage@73c60324]" started-at="2025-11-16T11:35:21 IST" name="verify_TestCasesPage" finished-at="2025-11-16T11:35:25 IST" duration-ms="3759" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_TestCasesPage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC006_VerifyTestCasesPage@73c60324]" started-at="2025-11-16T11:35:25 IST" name="tearDown" finished-at="2025-11-16T11:35:26 IST" duration-ms="721" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.TC006_VerifyTestCasesPage -->
+      <class name="testCases.TC002_AccountLoginTest">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC002_AccountLoginTest@16f7b4af]" started-at="2025-11-16T11:28:50 IST" name="setup" finished-at="2025-11-16T11:28:58 IST" duration-ms="7850" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Verify_LoginTestWithCorrectEmailAndPassword()[pri:0, instance:testCases.TC002_AccountLoginTest@16f7b4af]" started-at="2025-11-16T11:28:58 IST" name="Verify_LoginTestWithCorrectEmailAndPassword" finished-at="2025-11-16T11:29:12 IST" duration-ms="14025" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_LoginTestWithCorrectEmailAndPassword -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC002_AccountLoginTest@16f7b4af]" started-at="2025-11-16T11:29:12 IST" name="tearDown" finished-at="2025-11-16T11:29:13 IST" duration-ms="895" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.TC002_AccountLoginTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
