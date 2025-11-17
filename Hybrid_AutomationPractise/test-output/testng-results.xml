@@ -2,12 +2,12 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-11-16T19:39:14 IST" name="Suite" finished-at="2025-11-16T19:39:52 IST" duration-ms="38035">
+  <suite started-at="2025-11-17T15:30:33 IST" name="Suite" finished-at="2025-11-17T15:31:29 IST" duration-ms="55772">
     <groups>
     </groups>
-    <test started-at="2025-11-16T19:39:14 IST" name="Test" finished-at="2025-11-16T19:39:52 IST" duration-ms="38035">
-      <class name="testCases.TC005_VerifyContactUsForm">
-        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC005_VerifyContactUsForm@426b6a74]" started-at="2025-11-16T19:39:14 IST" name="setup" finished-at="2025-11-16T19:39:28 IST" duration-ms="14411" status="PASS">
+    <test started-at="2025-11-17T15:30:33 IST" name="Test" finished-at="2025-11-17T15:31:29 IST" duration-ms="55772">
+      <class name="testCases.TC011_Verify_Add_Products_in_Cart">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC011_Verify_Add_Products_in_Cart@878452d]" started-at="2025-11-17T15:30:33 IST" name="setup" finished-at="2025-11-17T15:31:02 IST" duration-ms="28841" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -23,15 +23,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="verify_ContactUsPage()[pri:0, instance:testCases.TC005_VerifyContactUsForm@426b6a74]" started-at="2025-11-16T19:39:28 IST" name="verify_ContactUsPage" finished-at="2025-11-16T19:39:50 IST" duration-ms="22057" status="PASS">
+        <test-method signature="Verify_Add_Products_in_Cart()[pri:0, instance:testCases.TC011_Verify_Add_Products_in_Cart@878452d]" started-at="2025-11-17T15:31:02 IST" name="Verify_Add_Products_in_Cart" finished-at="2025-11-17T15:31:25 IST" duration-ms="23051" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- verify_ContactUsPage -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC005_VerifyContactUsForm@426b6a74]" started-at="2025-11-16T19:39:50 IST" name="tearDown" finished-at="2025-11-16T19:39:52 IST" duration-ms="1240" status="PASS">
+        </test-method> <!-- Verify_Add_Products_in_Cart -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC011_Verify_Add_Products_in_Cart@878452d]" started-at="2025-11-17T15:31:26 IST" name="tearDown" finished-at="2025-11-17T15:31:29 IST" duration-ms="2953" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-      </class> <!-- testCases.TC005_VerifyContactUsForm -->
+      </class> <!-- testCases.TC011_Verify_Add_Products_in_Cart -->
     </test> <!-- Test -->
   </suite> <!-- Suite -->
 </testng-results>

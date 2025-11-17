@@ -45,13 +45,13 @@ public class ExtentReportManager implements ITestListener {
 		repName = "Test-Report-" + timeStamp + ".html";
 		sparkReporter = new ExtentSparkReporter(".\\reports\\" + repName);// specify location of the report
 
-		sparkReporter.config().setDocumentTitle("opencart Automation Report"); // Title of report
-		sparkReporter.config().setReportName("opencart Functional Testing"); // name of the report
+		sparkReporter.config().setDocumentTitle("Automation_Practise Automation Report"); // Title of report
+		sparkReporter.config().setReportName("Automation_Practise Functional Testing"); // name of the report
 		sparkReporter.config().setTheme(Theme.DARK);
 		
 		extent = new ExtentReports();
 		extent.attachReporter(sparkReporter);
-		extent.setSystemInfo("Application", "opencart");
+		extent.setSystemInfo("Application", "Automation_Practise");
 		extent.setSystemInfo("Module", "Admin");
 		extent.setSystemInfo("Sub Module", "Customers");
 		extent.setSystemInfo("User Name", System.getProperty("user.name"));
@@ -60,7 +60,7 @@ public class ExtentReportManager implements ITestListener {
 		String os = testContext.getCurrentXmlTest().getParameter("os");
 		extent.setSystemInfo("Operating System", os);
 		
-		String browser = testContext.getCurrentXmlTest().getParameter("browser");
+		String browser = testContext.getCurrentXmlTest().getParameter("Browser");
 		extent.setSystemInfo("Browser", browser);
 		
 		List<String> includedGroups = testContext.getCurrentXmlTest().getIncludedGroups();

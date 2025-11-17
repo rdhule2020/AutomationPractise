@@ -1,1519 +1,887 @@
-2025-11-16 13:24:10.451 [main] DEBUG
+2025-11-17 09:49:07.945 [main] DEBUG
+			org.testng.TestNG:82 - suiteXmlPath: "C:\Users\RAHUL\git\repository\Hybrid_AutomationPractise\testngTC11.xml"
+2025-11-17 09:49:08.966 [main] INFO 
+			org.testng.internal.Utils:112 - [TestNG] Running:
+  C:\Users\RAHUL\git\repository\Hybrid_AutomationPractise\testngTC11.xml
+
+2025-11-17 09:49:09.112 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:45 - Launch browser
+2025-11-17 09:49:14.723 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:59 - Navigate to url 'http://automationexercise.com'
+2025-11-17 09:49:19.446 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:19 - Click on product
+2025-11-17 09:49:22.644 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:23 - Add product 1 to cart
+2025-11-17 09:49:23.437 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:27 - Click on Continue Shpping
+2025-11-17 09:51:22.156 [main] DEBUG
+			org.testng.TestNG:82 - suiteXmlPath: "C:\Users\RAHUL\git\repository\Hybrid_AutomationPractise\testngTC11.xml"
+2025-11-17 09:51:23.005 [main] INFO 
+			org.testng.internal.Utils:112 - [TestNG] Running:
+  C:\Users\RAHUL\git\repository\Hybrid_AutomationPractise\testngTC11.xml
+
+2025-11-17 09:51:23.127 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:45 - Launch browser
+2025-11-17 09:51:26.208 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:59 - Navigate to url 'http://automationexercise.com'
+2025-11-17 09:51:32.159 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:19 - Click on product
+2025-11-17 09:51:36.750 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:23 - Add product 1 to cart
+2025-11-17 10:03:10.497 [main] DEBUG
+			org.testng.TestNG:82 - suiteXmlPath: "C:\Users\RAHUL\git\repository\Hybrid_AutomationPractise\testngTC11.xml"
+2025-11-17 10:03:11.408 [main] INFO 
+			org.testng.internal.Utils:112 - [TestNG] Running:
+  C:\Users\RAHUL\git\repository\Hybrid_AutomationPractise\testngTC11.xml
+
+2025-11-17 10:03:11.525 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:45 - Launch browser
+2025-11-17 10:03:25.189 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:59 - Navigate to url 'http://automationexercise.com'
+2025-11-17 10:03:39.290 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:19 - Click on product
+2025-11-17 10:03:54.333 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:23 - Click on View product 1
+2025-11-17 10:03:57.005 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:25 - Add product 1 to cart
+2025-11-17 10:03:57.249 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:30 - Click on Continue Shpping
+2025-11-17 10:03:58.283 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:32 - Click on View product 2
+2025-11-17 10:06:35.516 [main] DEBUG
+			org.testng.TestNG:82 - suiteXmlPath: "C:\Users\RAHUL\git\repository\Hybrid_AutomationPractise\testngTC11.xml"
+2025-11-17 10:06:36.569 [main] INFO 
+			org.testng.internal.Utils:112 - [TestNG] Running:
+  C:\Users\RAHUL\git\repository\Hybrid_AutomationPractise\testngTC11.xml
+
+2025-11-17 10:06:36.726 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:45 - Launch browser
+2025-11-17 10:06:40.196 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:59 - Navigate to url 'http://automationexercise.com'
+2025-11-17 10:06:47.163 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:19 - Click on product
+2025-11-17 10:06:58.246 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:23 - Click on View product 1
+2025-11-17 10:07:00.216 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:25 - Add product 1 to cart
+2025-11-17 10:07:00.632 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:30 - Click on Continue Shpping
+2025-11-17 10:07:02.825 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:32 - Click on View product 2
+2025-11-17 10:07:05.041 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:34 - Add product 2 to cart
+2025-11-17 10:18:05.535 [main] DEBUG
+			org.testng.TestNG:82 - suiteXmlPath: "C:\Users\RAHUL\git\repository\Hybrid_AutomationPractise\testngTC11.xml"
+2025-11-17 10:18:06.470 [main] INFO 
+			org.testng.internal.Utils:112 - [TestNG] Running:
+  C:\Users\RAHUL\git\repository\Hybrid_AutomationPractise\testngTC11.xml
+
+2025-11-17 10:18:06.617 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:45 - Launch browser
+2025-11-17 10:18:09.818 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:59 - Navigate to url 'http://automationexercise.com'
+2025-11-17 10:18:16.534 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:19 - Click on product
+2025-11-17 10:19:38.902 [main] DEBUG
+			org.testng.TestNG:82 - suiteXmlPath: "C:\Users\RAHUL\git\repository\Hybrid_AutomationPractise\testngTC11.xml"
+2025-11-17 10:19:39.762 [main] INFO 
+			org.testng.internal.Utils:112 - [TestNG] Running:
+  C:\Users\RAHUL\git\repository\Hybrid_AutomationPractise\testngTC11.xml
+
+2025-11-17 10:19:39.886 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:45 - Launch browser
+2025-11-17 10:19:43.223 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:59 - Navigate to url 'http://automationexercise.com'
+2025-11-17 10:19:48.605 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:19 - Click on product
+2025-11-17 10:19:52.976 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:23 - Click on View product 1
+2025-11-17 10:19:55.072 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:25 - Add product 1 to cart
+2025-11-17 10:19:55.543 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:30 - Click on Continue Shpping
+2025-11-17 10:19:57.708 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:32 - Click on View product 2
+2025-11-17 10:19:59.446 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:34 - Add product 2 to cart
+2025-11-17 10:21:57.478 [main] DEBUG
+			org.testng.TestNG:82 - suiteXmlPath: "C:\Users\RAHUL\git\repository\Hybrid_AutomationPractise\testngTC11.xml"
+2025-11-17 10:21:58.378 [main] INFO 
+			org.testng.internal.Utils:112 - [TestNG] Running:
+  C:\Users\RAHUL\git\repository\Hybrid_AutomationPractise\testngTC11.xml
+
+2025-11-17 10:21:58.503 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:45 - Launch browser
+2025-11-17 10:22:01.937 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:59 - Navigate to url 'http://automationexercise.com'
+2025-11-17 10:22:06.985 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:19 - Click on product
+2025-11-17 10:22:10.275 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:23 - Click on View product 1
+2025-11-17 10:22:12.771 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:25 - Add product 1 to cart
+2025-11-17 10:22:13.283 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:29 - Click on Continue Shpping
+2025-11-17 10:22:17.627 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:31 - Click on View product 2
+2025-11-17 10:22:19.269 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:33 - Add product 2 to cart
+2025-11-17 10:22:20.056 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:37 - Click on View product
+2025-11-17 10:29:21.633 [main] DEBUG
+			org.testng.TestNG:82 - suiteXmlPath: "C:\Users\RAHUL\git\repository\Hybrid_AutomationPractise\testngTC11.xml"
+2025-11-17 10:29:22.540 [main] INFO 
+			org.testng.internal.Utils:112 - [TestNG] Running:
+  C:\Users\RAHUL\git\repository\Hybrid_AutomationPractise\testngTC11.xml
+
+2025-11-17 10:29:22.658 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:45 - Launch browser
+2025-11-17 10:29:25.688 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:59 - Navigate to url 'http://automationexercise.com'
+2025-11-17 10:29:30.116 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:19 - Click on product
+2025-11-17 10:29:33.867 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:23 - Click on View product 1
+2025-11-17 10:30:05.096 [main] DEBUG
+			org.testng.TestNG:82 - suiteXmlPath: "C:\Users\RAHUL\git\repository\Hybrid_AutomationPractise\testngTC11.xml"
+2025-11-17 10:30:05.960 [main] INFO 
+			org.testng.internal.Utils:112 - [TestNG] Running:
+  C:\Users\RAHUL\git\repository\Hybrid_AutomationPractise\testngTC11.xml
+
+2025-11-17 10:30:06.082 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:45 - Launch browser
+2025-11-17 10:30:09.073 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:59 - Navigate to url 'http://automationexercise.com'
+2025-11-17 10:30:13.311 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:19 - Click on product
+2025-11-17 10:30:24.611 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:23 - Click on View product 1
+2025-11-17 10:30:37.731 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:25 - Add product 1 to cart
+2025-11-17 10:30:38.098 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:29 - Click on Continue Shpping
+2025-11-17 10:30:39.887 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:31 - Click on View product 2
+2025-11-17 10:30:43.401 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:33 - Add product 2 to cart
+2025-11-17 10:30:43.852 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:37 - Click on View product
+2025-11-17 10:34:16.506 [main] DEBUG
+			org.testng.TestNG:82 - suiteXmlPath: "C:\Users\RAHUL\git\repository\Hybrid_AutomationPractise\testngTC11.xml"
+2025-11-17 10:34:17.377 [main] INFO 
+			org.testng.internal.Utils:112 - [TestNG] Running:
+  C:\Users\RAHUL\git\repository\Hybrid_AutomationPractise\testngTC11.xml
+
+2025-11-17 10:34:17.511 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:45 - Launch browser
+2025-11-17 10:34:20.535 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:59 - Navigate to url 'http://automationexercise.com'
+2025-11-17 10:34:35.847 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:19 - Click on product
+2025-11-17 10:34:41.226 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:23 - Click on View product 1
+2025-11-17 10:34:43.341 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:25 - Add product 1 to cart
+2025-11-17 10:34:43.731 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:29 - Click on Continue Shpping
+2025-11-17 10:34:47.392 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:31 - Click on View product 2
+2025-11-17 10:34:48.979 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:33 - Add product 2 to cart
+2025-11-17 10:34:49.457 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:37 - Click on View product
+2025-11-17 10:50:42.105 [main] DEBUG
+			org.testng.TestNG:82 - suiteXmlPath: "C:\Users\RAHUL\git\repository\Hybrid_AutomationPractise\testngTC11.xml"
+2025-11-17 10:50:43.221 [main] INFO 
+			org.testng.internal.Utils:112 - [TestNG] Running:
+  C:\Users\RAHUL\git\repository\Hybrid_AutomationPractise\testngTC11.xml
+
+2025-11-17 10:50:43.370 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:45 - Launch browser
+2025-11-17 10:50:48.458 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:59 - Navigate to url 'http://automationexercise.com'
+2025-11-17 10:50:53.353 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:19 - Click on product
+2025-11-17 10:51:17.962 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:23 - Click on View product 1
+2025-11-17 10:51:19.980 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:25 - Add product 1 to cart
+2025-11-17 10:51:20.362 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:29 - Click on Continue Shpping
+2025-11-17 10:51:22.855 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:31 - Click on View product 2
+2025-11-17 10:51:25.259 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:33 - Add product 2 to cart
+2025-11-17 10:51:25.699 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:37 - Click on View product
+2025-11-17 10:52:44.030 [main] DEBUG
+			org.testng.TestNG:82 - suiteXmlPath: "C:\Users\RAHUL\git\repository\Hybrid_AutomationPractise\testngTC11.xml"
+2025-11-17 10:52:44.943 [main] INFO 
+			org.testng.internal.Utils:112 - [TestNG] Running:
+  C:\Users\RAHUL\git\repository\Hybrid_AutomationPractise\testngTC11.xml
+
+2025-11-17 10:52:45.096 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:45 - Launch browser
+2025-11-17 10:52:48.356 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:59 - Navigate to url 'http://automationexercise.com'
+2025-11-17 10:52:54.283 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:19 - Click on product
+2025-11-17 10:53:04.575 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:23 - Click on View product 1
+2025-11-17 10:53:08.547 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:25 - Add product 1 to cart
+2025-11-17 10:53:09.023 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:29 - Click on Continue Shpping
+2025-11-17 10:53:13.145 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:31 - Click on View product 2
+2025-11-17 10:53:16.183 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:33 - Add product 2 to cart
+2025-11-17 10:53:16.617 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:37 - Click on View product
+2025-11-17 10:53:54.478 [main] DEBUG
+			org.testng.TestNG:82 - suiteXmlPath: "C:\Users\RAHUL\git\repository\Hybrid_AutomationPractise\testngTC11.xml"
+2025-11-17 10:53:55.350 [main] INFO 
+			org.testng.internal.Utils:112 - [TestNG] Running:
+  C:\Users\RAHUL\git\repository\Hybrid_AutomationPractise\testngTC11.xml
+
+2025-11-17 10:53:55.502 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:45 - Launch browser
+2025-11-17 10:53:58.502 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:59 - Navigate to url 'http://automationexercise.com'
+2025-11-17 10:54:06.206 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:19 - Click on product
+2025-11-17 10:54:11.999 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:23 - Click on View product 1
+2025-11-17 10:54:14.207 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:25 - Add product 1 to cart
+2025-11-17 10:54:14.356 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:27 - Click on Continue Shpping
+2025-11-17 10:54:17.168 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:29 - Click on View product 2
+2025-11-17 10:54:18.890 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:31 - Add product 2 to cart
+2025-11-17 10:54:19.281 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:34 - Click on View product
+2025-11-17 12:35:51.086 [main] DEBUG
 			org.testng.TestNG:82 - suiteXmlPath: "C:\Users\RAHUL\git\repository\Hybrid_AutomationPractise\master.xml"
-2025-11-16 13:24:12.029 [main] INFO 
+2025-11-17 12:35:52.705 [main] INFO 
 			org.testng.internal.Utils:112 - [TestNG] Running:
   C:\Users\RAHUL\git\repository\Hybrid_AutomationPractise\master.xml
 
-2025-11-16 13:24:12.420 [main] INFO 
-			testCases.TC001_AccountRegistrationTest:40 - Launch browser
-2025-11-16 13:24:19.803 [main] INFO 
-			testCases.TC001_AccountRegistrationTest:54 - Navigate to url 'http://automationexercise.com'
-2025-11-16 13:25:39.026 [main] DEBUG
-			org.testng.TestNG:82 - suiteXmlPath: "C:\Users\RAHUL\git\repository\Hybrid_AutomationPractise\TC009.xml"
-2025-11-16 13:25:40.044 [main] INFO 
-			org.testng.internal.Utils:112 - [TestNG] Running:
-  C:\Users\RAHUL\git\repository\Hybrid_AutomationPractise\TC009.xml
-
-2025-11-16 13:25:40.182 [main] INFO 
-			testCases.TC009_Verify_SubscriptionInHomePage:40 - Launch browser
-2025-11-16 13:25:43.416 [main] INFO 
-			testCases.TC009_Verify_SubscriptionInHomePage:54 - Navigate to url 'http://automationexercise.com'
-2025-11-16 13:25:53.446 [main] INFO 
-			testCases.TC009_Verify_SubscriptionInHomePage:16 - Start executing Test Case TC009_Verify_SubscriptionInHomePage 
-2025-11-16 13:25:53.449 [main] INFO 
-			testCases.TC009_Verify_SubscriptionInHomePage:17 - Scroll Down to Footer
-2025-11-16 13:25:53.657 [main] INFO 
-			testCases.TC009_Verify_SubscriptionInHomePage:20 - Verify Subscription Title
-2025-11-16 13:25:53.881 [main] INFO 
-			testCases.TC009_Verify_SubscriptionInHomePage:23 - Send Subscription email
-2025-11-16 13:25:54.493 [main] INFO 
-			testCases.TC009_Verify_SubscriptionInHomePage:25 - Click Subscribe
-2025-11-16 13:25:54.954 [main] INFO 
-			testCases.TC009_Verify_SubscriptionInHomePage:27 - Verify success message 'You have been successfully subscribed!' is visible
-2025-11-16 13:25:55.045 [main] INFO 
-			testCases.TC009_Verify_SubscriptionInHomePage:35 - Test Case TC009_Verify_SubscriptionInHomePage Executed Successfully
-2025-11-16 13:28:03.209 [main] DEBUG
-			org.testng.TestNG:82 - suiteXmlPath: "C:\Users\RAHUL\git\repository\Hybrid_AutomationPractise\TC009.xml"
-2025-11-16 13:28:04.271 [main] INFO 
-			org.testng.internal.Utils:112 - [TestNG] Running:
-  C:\Users\RAHUL\git\repository\Hybrid_AutomationPractise\TC009.xml
-
-2025-11-16 13:28:04.410 [main] INFO 
-			testCases.TC009_Verify_SubscriptionInHomePage:40 - Launch browser
-2025-11-16 13:28:07.830 [main] INFO 
-			testCases.TC009_Verify_SubscriptionInHomePage:54 - Navigate to url 'http://automationexercise.com'
-2025-11-16 13:28:39.301 [main] INFO 
-			testCases.TC009_Verify_SubscriptionInHomePage:20 - Start executing Test Case TC009_Verify_SubscriptionInHomePage 
-2025-11-16 13:28:39.302 [main] INFO 
-			testCases.TC009_Verify_SubscriptionInHomePage:21 - Scroll Down to Footer
-2025-11-16 13:28:39.629 [main] INFO 
-			testCases.TC009_Verify_SubscriptionInHomePage:24 - Verify Subscription Title
-2025-11-16 13:28:39.754 [main] INFO 
-			testCases.TC009_Verify_SubscriptionInHomePage:27 - Send Subscription email
-2025-11-16 13:28:41.243 [main] INFO 
-			testCases.TC009_Verify_SubscriptionInHomePage:29 - Click Subscribe
-2025-11-16 13:28:41.516 [main] INFO 
-			testCases.TC009_Verify_SubscriptionInHomePage:31 - Verify success message 'You have been successfully subscribed!' is visible
-2025-11-16 13:28:41.623 [main] INFO 
-			testCases.TC009_Verify_SubscriptionInHomePage:46 - Test Case TC009_Verify_SubscriptionInHomePage Executed Successfully
-2025-11-16 13:50:07.120 [main] DEBUG
-			org.testng.TestNG:82 - suiteXmlPath: "C:\Users\RAHUL\git\repository\Hybrid_AutomationPractise\TC010.xml"
-2025-11-16 13:50:08.044 [main] INFO 
-			org.testng.internal.Utils:112 - [TestNG] Running:
-  C:\Users\RAHUL\git\repository\Hybrid_AutomationPractise\TC010.xml
-
-2025-11-16 13:50:08.180 [main] INFO 
-			testCases.TC010_Verify_SubscriptionInCartPage:40 - Launch browser
-2025-11-16 13:50:11.213 [main] INFO 
-			testCases.TC010_Verify_SubscriptionInCartPage:54 - Navigate to url 'http://automationexercise.com'
-2025-11-16 13:52:51.677 [main] DEBUG
-			org.testng.TestNG:82 - suiteXmlPath: "C:\Users\RAHUL\git\repository\Hybrid_AutomationPractise\TC010.xml"
-2025-11-16 13:52:52.560 [main] INFO 
-			org.testng.internal.Utils:112 - [TestNG] Running:
-  C:\Users\RAHUL\git\repository\Hybrid_AutomationPractise\TC010.xml
-
-2025-11-16 13:52:52.685 [main] INFO 
-			testCases.TC010_Verify_SubscriptionInCartPage:40 - Launch browser
-2025-11-16 13:52:55.633 [main] INFO 
-			testCases.TC010_Verify_SubscriptionInCartPage:54 - Navigate to url 'http://automationexercise.com'
-2025-11-16 13:53:33.554 [main] INFO 
-			testCases.TC010_Verify_SubscriptionInCartPage:16 - Strted Executing TC010_Verify_SubscriptionInCartPage
-2025-11-16 13:53:33.558 [main] INFO 
-			testCases.TC010_Verify_SubscriptionInCartPage:17 - Navigate to Home Page
-2025-11-16 13:53:33.597 [main] INFO 
-			testCases.TC010_Verify_SubscriptionInCartPage:19 - Click on Cart
-2025-11-16 13:53:36.259 [main] INFO 
-			testCases.TC010_Verify_SubscriptionInCartPage:21 -  Scroll down to subscription
-2025-11-16 13:53:36.327 [main] INFO 
-			testCases.TC010_Verify_SubscriptionInCartPage:25 -  Enter email address in input and click arrow button
-2025-11-16 13:56:53.787 [main] DEBUG
-			org.testng.TestNG:82 - suiteXmlPath: "C:\Users\RAHUL\git\repository\Hybrid_AutomationPractise\TC010.xml"
-2025-11-16 13:56:54.671 [main] INFO 
-			org.testng.internal.Utils:112 - [TestNG] Running:
-  C:\Users\RAHUL\git\repository\Hybrid_AutomationPractise\TC010.xml
-
-2025-11-16 13:56:54.795 [main] INFO 
-			testCases.TC010_Verify_SubscriptionInCartPage:40 - Launch browser
-2025-11-16 13:56:57.929 [main] INFO 
-			testCases.TC010_Verify_SubscriptionInCartPage:54 - Navigate to url 'http://automationexercise.com'
-2025-11-16 13:57:32.989 [main] DEBUG
-			org.testng.TestNG:82 - suiteXmlPath: "C:\Users\RAHUL\git\repository\Hybrid_AutomationPractise\TC010.xml"
-2025-11-16 13:57:33.949 [main] INFO 
-			org.testng.internal.Utils:112 - [TestNG] Running:
-  C:\Users\RAHUL\git\repository\Hybrid_AutomationPractise\TC010.xml
-
-2025-11-16 13:57:34.093 [main] INFO 
-			testCases.TC010_Verify_SubscriptionInCartPage:40 - Launch browser
-2025-11-16 13:57:37.068 [main] INFO 
-			testCases.TC010_Verify_SubscriptionInCartPage:54 - Navigate to url 'http://automationexercise.com'
-2025-11-16 13:57:45.706 [main] INFO 
-			testCases.TC010_Verify_SubscriptionInCartPage:16 - Strted Executing TC010_Verify_SubscriptionInCartPage
-2025-11-16 13:57:45.706 [main] INFO 
-			testCases.TC010_Verify_SubscriptionInCartPage:17 - Navigate to Home Page
-2025-11-16 13:57:45.771 [main] INFO 
-			testCases.TC010_Verify_SubscriptionInCartPage:19 - Click on Cart
-2025-11-16 13:57:48.321 [main] INFO 
-			testCases.TC010_Verify_SubscriptionInCartPage:21 -  Scroll down to subscription
-2025-11-16 13:57:48.423 [main] INFO 
-			testCases.TC010_Verify_SubscriptionInCartPage:25 -  Enter email address in input and click arrow button
-2025-11-16 13:57:49.463 [main] INFO 
-			testCases.TC010_Verify_SubscriptionInCartPage:28 - Verify Subscription Success message
-2025-11-16 14:00:15.477 [main] DEBUG
-			org.testng.TestNG:82 - suiteXmlPath: "C:\Users\RAHUL\git\repository\Hybrid_AutomationPractise\TC010.xml"
-2025-11-16 14:00:16.370 [main] INFO 
-			org.testng.internal.Utils:112 - [TestNG] Running:
-  C:\Users\RAHUL\git\repository\Hybrid_AutomationPractise\TC010.xml
-
-2025-11-16 14:00:16.488 [main] INFO 
-			testCases.TC010_Verify_SubscriptionInCartPage:40 - Launch browser
-2025-11-16 14:00:19.478 [main] INFO 
-			testCases.TC010_Verify_SubscriptionInCartPage:54 - Navigate to url 'http://automationexercise.com'
-2025-11-16 14:00:27.804 [main] INFO 
-			testCases.TC010_Verify_SubscriptionInCartPage:20 - Strted Executing TC010_Verify_SubscriptionInCartPage
-2025-11-16 14:00:27.804 [main] INFO 
-			testCases.TC010_Verify_SubscriptionInCartPage:21 - Navigate to Home Page
-2025-11-16 14:00:27.845 [main] INFO 
-			testCases.TC010_Verify_SubscriptionInCartPage:23 - Click on Cart
-2025-11-16 14:00:30.241 [main] INFO 
-			testCases.TC010_Verify_SubscriptionInCartPage:25 -  Scroll down to subscription
-2025-11-16 14:00:30.350 [main] INFO 
-			testCases.TC010_Verify_SubscriptionInCartPage:29 -  Enter email address in input and click arrow button
-2025-11-16 14:00:31.882 [main] INFO 
-			testCases.TC010_Verify_SubscriptionInCartPage:32 - Verify Subscription Success message
-2025-11-16 14:00:32.069 [main] INFO 
-			testCases.TC010_Verify_SubscriptionInCartPage:45 - Executed TC010_Verify_SubscriptionInCartPage Successfully
-2025-11-16 18:37:46.577 [main] DEBUG
-			org.testng.TestNG:82 - suiteXmlPath: "C:\Users\RAHUL\git\repository\Hybrid_AutomationPractise\master.xml"
-2025-11-16 18:37:48.092 [main] INFO 
-			org.testng.internal.Utils:112 - [TestNG] Running:
-  C:\Users\RAHUL\git\repository\Hybrid_AutomationPractise\master.xml
-
-2025-11-16 18:37:49.184 [main] INFO 
+2025-11-17 12:35:53.756 [main] INFO 
 			testCases.TC001_AccountRegistrationTest:45 - Launch browser
-2025-11-16 18:37:56.198 [main] INFO 
+2025-11-17 12:36:07.561 [main] INFO 
 			testCases.TC001_AccountRegistrationTest:59 - Navigate to url 'http://automationexercise.com'
-2025-11-16 18:37:58.180 [main] INFO 
+2025-11-17 12:36:43.088 [main] INFO 
 			testCases.TC001_AccountRegistrationTest:17 - *** Starting TC001_AccountRegistrationTest ***
-2025-11-16 18:37:58.246 [main] INFO 
+2025-11-17 12:36:43.172 [main] INFO 
 			testCases.TC001_AccountRegistrationTest:21 - Verify that home page is visible successfully
-2025-11-16 18:38:40.323 [main] DEBUG
-			org.testng.TestNG:82 - suiteXmlPath: "C:\Users\RAHUL\git\repository\Hybrid_AutomationPractise\master.xml"
-2025-11-16 18:38:41.650 [main] INFO 
-			org.testng.internal.Utils:112 - [TestNG] Running:
-  C:\Users\RAHUL\git\repository\Hybrid_AutomationPractise\master.xml
-
-2025-11-16 18:38:42.283 [main] INFO 
-			testCases.TC001_AccountRegistrationTest:45 - Launch browser
-2025-11-16 18:38:45.458 [main] INFO 
-			testCases.TC001_AccountRegistrationTest:59 - Navigate to url 'http://automationexercise.com'
-2025-11-16 18:38:52.941 [main] INFO 
-			testCases.TC001_AccountRegistrationTest:17 - *** Starting TC001_AccountRegistrationTest ***
-2025-11-16 18:38:53.067 [main] INFO 
-			testCases.TC001_AccountRegistrationTest:21 - Verify that home page is visible successfully
-2025-11-16 18:38:56.666 [main] INFO 
+2025-11-17 12:36:45.071 [main] INFO 
 			testCases.TC001_AccountRegistrationTest:24 - Click on 'Signup / Login' button
-2025-11-16 18:38:56.690 [main] INFO 
+2025-11-17 12:36:45.084 [main] INFO 
 			testCases.TC001_AccountRegistrationTest:27 - Verify 'New User Signup!' is visible
-2025-11-16 18:38:56.770 [main] INFO 
+2025-11-17 12:36:45.201 [main] INFO 
 			testCases.TC001_AccountRegistrationTest:30 -  Enter name and email address
-2025-11-16 18:39:03.040 [main] INFO 
+2025-11-17 12:36:51.118 [main] INFO 
 			testCases.TC001_AccountRegistrationTest:35 - Click 'Signup' button
-2025-11-16 18:39:09.365 [main] INFO 
+2025-11-17 12:36:54.384 [main] INFO 
 			testCases.TC001_AccountRegistrationTest:56 - Verify Enter Account information Message
-2025-11-16 18:39:09.478 [main] INFO 
+2025-11-17 12:36:54.542 [main] INFO 
 			testCases.TC001_AccountRegistrationTest:61 - Select Title Mr/Mrs
-2025-11-16 18:39:09.651 [main] INFO 
+2025-11-17 12:36:54.971 [main] INFO 
 			testCases.TC001_AccountRegistrationTest:63 - Send password
-2025-11-16 18:39:09.927 [main] INFO 
+2025-11-17 12:36:55.502 [main] INFO 
 			testCases.TC001_AccountRegistrationTest:65 - Select Day
-2025-11-16 18:39:10.493 [main] INFO 
+2025-11-17 12:36:56.568 [main] INFO 
 			testCases.TC001_AccountRegistrationTest:67 - Select Month
-2025-11-16 18:39:10.740 [main] INFO 
+2025-11-17 12:36:57.114 [main] INFO 
 			testCases.TC001_AccountRegistrationTest:69 - Select Year
-2025-11-16 18:39:11.033 [main] INFO 
+2025-11-17 12:36:57.714 [main] INFO 
 			testCases.TC001_AccountRegistrationTest:71 - Check newsletter checkbox
-2025-11-16 18:39:11.190 [main] INFO 
+2025-11-17 12:36:57.982 [main] INFO 
 			testCases.TC001_AccountRegistrationTest:73 - Check partner checkbox
-2025-11-16 18:39:11.317 [main] INFO 
+2025-11-17 12:36:58.271 [main] INFO 
 			testCases.TC001_AccountRegistrationTest:75 - Enter First Name
-2025-11-16 18:39:11.488 [main] INFO 
+2025-11-17 12:36:58.559 [main] INFO 
 			testCases.TC001_AccountRegistrationTest:77 - Enter Last Name
-2025-11-16 18:39:11.668 [main] INFO 
+2025-11-17 12:36:58.830 [main] INFO 
 			testCases.TC001_AccountRegistrationTest:79 - Enter Company
-2025-11-16 18:39:11.818 [main] INFO 
+2025-11-17 12:36:59.087 [main] INFO 
 			testCases.TC001_AccountRegistrationTest:81 - Enter Address
-2025-11-16 18:39:12.046 [main] INFO 
+2025-11-17 12:36:59.474 [main] INFO 
 			testCases.TC001_AccountRegistrationTest:83 - Enter Address2
-2025-11-16 18:39:12.228 [main] INFO 
+2025-11-17 12:36:59.754 [main] INFO 
 			testCases.TC001_AccountRegistrationTest:85 - Select Country
-2025-11-16 18:39:12.408 [main] INFO 
+2025-11-17 12:37:00.092 [main] INFO 
 			testCases.TC001_AccountRegistrationTest:87 - Select State
-2025-11-16 18:39:12.564 [main] INFO 
+2025-11-17 12:37:00.396 [main] INFO 
 			testCases.TC001_AccountRegistrationTest:89 - Select city
-2025-11-16 18:39:12.723 [main] INFO 
+2025-11-17 12:37:00.711 [main] INFO 
 			testCases.TC001_AccountRegistrationTest:91 - Enter Zipcode
-2025-11-16 18:39:12.871 [main] INFO 
+2025-11-17 12:37:01.062 [main] INFO 
 			testCases.TC001_AccountRegistrationTest:93 - Enter Mobile number
-2025-11-16 18:39:13.035 [main] INFO 
+2025-11-17 12:37:01.478 [main] INFO 
 			testCases.TC001_AccountRegistrationTest:95 - Click on Create Account
-2025-11-16 18:39:15.739 [main] INFO 
+2025-11-17 12:37:04.668 [main] INFO 
 			testCases.TC001_AccountRegistrationTest:97 - Verify Account Created Message
-2025-11-16 18:39:15.826 [main] INFO 
+2025-11-17 12:37:04.758 [main] INFO 
 			testCases.TC001_AccountRegistrationTest:99 - Verify Congratulation message
-2025-11-16 18:39:15.950 [main] INFO 
+2025-11-17 12:37:04.921 [main] INFO 
 			testCases.TC001_AccountRegistrationTest:103 - Click on Continue
-2025-11-16 18:39:20.806 [main] INFO 
+2025-11-17 12:37:11.327 [main] INFO 
 			testCases.TC001_AccountRegistrationTest:106 - Verify LoggedInAsUsername is displayed
-2025-11-16 18:39:20.880 [main] INFO 
+2025-11-17 12:37:11.413 [main] INFO 
 			testCases.TC001_AccountRegistrationTest:109 - Click delete Account button
-2025-11-16 18:39:22.569 [main] INFO 
+2025-11-17 12:37:13.735 [main] INFO 
 			testCases.TC001_AccountRegistrationTest:112 - Verify that 'ACCOUNT DELETED!' is visible 
-2025-11-16 18:39:22.621 [main] INFO 
+2025-11-17 12:37:13.805 [main] INFO 
 			testCases.TC001_AccountRegistrationTest:116 - Click continue button
-2025-11-16 18:39:26.933 [main] INFO 
+2025-11-17 12:37:19.435 [main] INFO 
 			testCases.TC002_AccountLoginTest:45 - Launch browser
-2025-11-16 18:39:35.528 [main] INFO 
+2025-11-17 12:37:22.288 [main] INFO 
 			testCases.TC002_AccountLoginTest:59 - Navigate to url 'http://automationexercise.com'
-2025-11-16 18:39:39.790 [main] INFO 
+2025-11-17 12:37:28.526 [main] INFO 
 			testCases.TC002_AccountLoginTest:15 - *** Login Test ***
-2025-11-16 18:39:41.429 [main] INFO 
+2025-11-17 12:37:30.822 [main] INFO 
 			testCases.TC002_AccountLoginTest:24 - Enter email Address
-2025-11-16 18:39:42.572 [main] INFO 
+2025-11-17 12:37:31.533 [main] INFO 
 			testCases.TC002_AccountLoginTest:26 - Enter Password
-2025-11-16 18:39:43.014 [main] INFO 
+2025-11-17 12:37:31.797 [main] INFO 
 			testCases.TC002_AccountLoginTest:28 - Click Login
-2025-11-16 18:39:43.258 [main] INFO 
+2025-11-17 12:37:37.921 [main] INFO 
 			testCases.TC002_AccountLoginTest:30 - Login button clicked Successfully
-2025-11-16 18:39:43.260 [main] INFO 
+2025-11-17 12:37:37.923 [main] INFO 
 			testCases.TC002_AccountLoginTest:31 - Click Logout
-2025-11-16 18:39:49.118 [main] INFO 
+2025-11-17 12:37:40.322 [main] INFO 
 			testCases.TC002_AccountLoginTest:33 - User Logged out successfully
-2025-11-16 18:39:49.794 [main] INFO 
+2025-11-17 12:37:41.122 [main] INFO 
 			testCases.TC003_AccountLoginTestWithInvalidCredentials:45 - Launch browser
-2025-11-16 18:39:51.488 [main] INFO 
+2025-11-17 12:37:43.612 [main] INFO 
 			testCases.TC003_AccountLoginTestWithInvalidCredentials:59 - Navigate to url 'http://automationexercise.com'
-2025-11-16 18:39:57.058 [main] INFO 
-			testCases.TC003_AccountLoginTestWithInvalidCredentials:15 - *** Login Test with Incorrect email and Password ***
-2025-11-16 18:39:58.654 [main] INFO 
-			testCases.TC003_AccountLoginTestWithInvalidCredentials:24 - Enter email Address
-2025-11-16 18:39:59.642 [main] INFO 
-			testCases.TC003_AccountLoginTestWithInvalidCredentials:26 - Enter Password
-2025-11-16 18:40:00.215 [main] INFO 
-			testCases.TC003_AccountLoginTestWithInvalidCredentials:28 - Click Login
-2025-11-16 18:47:33.510 [main] DEBUG
-			org.testng.TestNG:82 - suiteXmlPath: "C:\Users\RAHUL\git\repository\Hybrid_AutomationPractise\master.xml"
-2025-11-16 18:47:34.559 [main] INFO 
-			org.testng.internal.Utils:112 - [TestNG] Running:
-  C:\Users\RAHUL\git\repository\Hybrid_AutomationPractise\master.xml
-
-2025-11-16 18:47:35.165 [main] INFO 
-			testCases.TC001_AccountRegistrationTest:45 - Launch browser
-2025-11-16 18:47:38.267 [main] INFO 
-			testCases.TC001_AccountRegistrationTest:59 - Navigate to url 'http://automationexercise.com'
-2025-11-16 18:47:44.789 [main] INFO 
-			testCases.TC001_AccountRegistrationTest:17 - *** Starting TC001_AccountRegistrationTest ***
-2025-11-16 18:47:44.843 [main] INFO 
-			testCases.TC001_AccountRegistrationTest:21 - Verify that home page is visible successfully
-2025-11-16 18:47:47.139 [main] INFO 
-			testCases.TC001_AccountRegistrationTest:24 - Click on 'Signup / Login' button
-2025-11-16 18:47:47.154 [main] INFO 
-			testCases.TC001_AccountRegistrationTest:27 - Verify 'New User Signup!' is visible
-2025-11-16 18:47:47.260 [main] INFO 
-			testCases.TC001_AccountRegistrationTest:30 -  Enter name and email address
-2025-11-16 18:47:53.258 [main] INFO 
-			testCases.TC001_AccountRegistrationTest:35 - Click 'Signup' button
-2025-11-16 18:47:56.426 [main] INFO 
-			testCases.TC001_AccountRegistrationTest:56 - Verify Enter Account information Message
-2025-11-16 18:48:02.620 [main] INFO 
-			testCases.TC001_AccountRegistrationTest:61 - Select Title Mr/Mrs
-2025-11-16 18:48:03.088 [main] INFO 
-			testCases.TC001_AccountRegistrationTest:63 - Send password
-2025-11-16 18:48:04.099 [main] INFO 
-			testCases.TC001_AccountRegistrationTest:65 - Select Day
-2025-11-16 18:48:05.626 [main] INFO 
-			testCases.TC001_AccountRegistrationTest:67 - Select Month
-2025-11-16 18:48:06.693 [main] INFO 
-			testCases.TC001_AccountRegistrationTest:69 - Select Year
-2025-11-16 18:48:07.491 [main] INFO 
-			testCases.TC001_AccountRegistrationTest:71 - Check newsletter checkbox
-2025-11-16 18:48:08.161 [main] INFO 
-			testCases.TC001_AccountRegistrationTest:73 - Check partner checkbox
-2025-11-16 18:48:08.566 [main] INFO 
-			testCases.TC001_AccountRegistrationTest:75 - Enter First Name
-2025-11-16 18:48:08.890 [main] INFO 
-			testCases.TC001_AccountRegistrationTest:77 - Enter Last Name
-2025-11-16 18:48:09.241 [main] INFO 
-			testCases.TC001_AccountRegistrationTest:79 - Enter Company
-2025-11-16 18:48:09.447 [main] INFO 
-			testCases.TC001_AccountRegistrationTest:81 - Enter Address
-2025-11-16 18:48:09.840 [main] INFO 
-			testCases.TC001_AccountRegistrationTest:83 - Enter Address2
-2025-11-16 18:48:10.148 [main] INFO 
-			testCases.TC001_AccountRegistrationTest:85 - Select Country
-2025-11-16 18:48:10.521 [main] INFO 
-			testCases.TC001_AccountRegistrationTest:87 - Select State
-2025-11-16 18:48:10.833 [main] INFO 
-			testCases.TC001_AccountRegistrationTest:89 - Select city
-2025-11-16 18:48:11.073 [main] INFO 
-			testCases.TC001_AccountRegistrationTest:91 - Enter Zipcode
-2025-11-16 18:48:11.330 [main] INFO 
-			testCases.TC001_AccountRegistrationTest:93 - Enter Mobile number
-2025-11-16 18:48:11.588 [main] INFO 
-			testCases.TC001_AccountRegistrationTest:95 - Click on Create Account
-2025-11-16 18:48:13.865 [main] INFO 
-			testCases.TC002_AccountLoginTest:45 - Launch browser
-2025-11-16 18:48:15.808 [main] INFO 
-			testCases.TC002_AccountLoginTest:59 - Navigate to url 'http://automationexercise.com'
-2025-11-16 18:48:20.520 [main] INFO 
-			testCases.TC002_AccountLoginTest:15 - *** Login Test ***
-2025-11-16 18:48:23.178 [main] INFO 
-			testCases.TC002_AccountLoginTest:24 - Enter email Address
-2025-11-16 18:48:23.846 [main] INFO 
-			testCases.TC002_AccountLoginTest:26 - Enter Password
-2025-11-16 18:48:24.309 [main] INFO 
-			testCases.TC002_AccountLoginTest:28 - Click Login
-2025-11-16 18:48:29.293 [main] INFO 
-			testCases.TC002_AccountLoginTest:30 - Login button clicked Successfully
-2025-11-16 18:48:29.294 [main] INFO 
-			testCases.TC002_AccountLoginTest:31 - Click Logout
-2025-11-16 18:48:32.858 [main] INFO 
-			testCases.TC002_AccountLoginTest:33 - User Logged out successfully
-2025-11-16 18:48:33.539 [main] INFO 
-			testCases.TC003_AccountLoginTestWithInvalidCredentials:45 - Launch browser
-2025-11-16 18:48:35.246 [main] INFO 
-			testCases.TC003_AccountLoginTestWithInvalidCredentials:59 - Navigate to url 'http://automationexercise.com'
-2025-11-16 18:48:41.249 [main] INFO 
+2025-11-17 12:37:52.809 [main] INFO 
 			testCases.TC003_AccountLoginTestWithInvalidCredentials:17 - *** Login Test with Incorrect email and Password ***
-2025-11-16 18:48:44.760 [main] INFO 
+2025-11-17 12:37:55.812 [main] INFO 
 			testCases.TC003_AccountLoginTestWithInvalidCredentials:29 - Enter email Address
-2025-11-16 18:48:45.899 [main] INFO 
+2025-11-17 12:37:56.452 [main] INFO 
 			testCases.TC003_AccountLoginTestWithInvalidCredentials:31 - Enter Password
-2025-11-16 18:48:46.603 [main] INFO 
+2025-11-17 12:37:56.717 [main] INFO 
 			testCases.TC003_AccountLoginTestWithInvalidCredentials:33 - Click Login
-2025-11-16 18:48:46.877 [main] INFO 
+2025-11-17 12:37:58.516 [main] INFO 
 			testCases.TC003_AccountLoginTestWithInvalidCredentials:35 - Verify Error message
-2025-11-16 18:48:53.756 [main] INFO 
+2025-11-17 12:37:58.659 [main] INFO 
 			testCases.TC003_AccountLoginTestWithInvalidCredentials:37 - Test Case Passed
-2025-11-16 18:48:54.936 [main] INFO 
+2025-11-17 12:38:02.346 [main] INFO 
 			testCases.TC004_RgisterUserWithExistingEmail:45 - Launch browser
-2025-11-16 18:48:56.708 [main] INFO 
+2025-11-17 12:38:04.949 [main] INFO 
 			testCases.TC004_RgisterUserWithExistingEmail:59 - Navigate to url 'http://automationexercise.com'
-2025-11-16 18:49:05.785 [main] INFO 
+2025-11-17 12:38:12.976 [main] INFO 
 			testCases.TC004_RgisterUserWithExistingEmail:22 - Send name
-2025-11-16 18:49:06.340 [main] INFO 
+2025-11-17 12:38:13.544 [main] INFO 
 			testCases.TC004_RgisterUserWithExistingEmail:24 - Send Existing Email
-2025-11-16 18:49:06.649 [main] INFO 
+2025-11-17 12:38:13.848 [main] INFO 
 			testCases.TC004_RgisterUserWithExistingEmail:26 - Click signUp
-2025-11-16 18:49:08.390 [main] INFO 
+2025-11-17 12:38:15.492 [main] INFO 
 			testCases.TC004_RgisterUserWithExistingEmail:28 - Verify Error Message
-2025-11-16 18:49:08.425 [main] INFO 
+2025-11-17 12:38:15.542 [main] INFO 
 			testCases.TC004_RgisterUserWithExistingEmail:30 - Error Message displayed as 'Email Address already exist!' 
-2025-11-16 18:49:08.904 [main] INFO 
+2025-11-17 12:38:16.320 [main] INFO 
 			testCases.TC005_VerifyContactUsForm:45 - Launch browser
-2025-11-16 18:49:10.637 [main] INFO 
+2025-11-17 12:38:18.847 [main] INFO 
 			testCases.TC005_VerifyContactUsForm:59 - Navigate to url 'http://automationexercise.com'
-2025-11-16 18:49:20.589 [main] INFO 
-			testCases.TC005_VerifyContactUsForm:30 - Send Name
-2025-11-16 18:49:20.818 [main] INFO 
-			testCases.TC005_VerifyContactUsForm:32 - Send Email
-2025-11-16 18:49:21.325 [main] INFO 
-			testCases.TC005_VerifyContactUsForm:34 - Send Subject
-2025-11-16 18:49:21.610 [main] INFO 
-			testCases.TC005_VerifyContactUsForm:36 - Send Message
-2025-11-16 18:49:22.193 [main] INFO 
-			testCases.TC005_VerifyContactUsForm:38 - Upload File
-2025-11-16 18:49:22.337 [main] ERROR
-			testCases.TC005_VerifyContactUsForm:58 - Exception occurred while verifying product details
-org.openqa.selenium.InvalidArgumentException: invalid argument: File not found : C:\Users\RAHUL\HybridAutomationFramework\Hybrid_AutomationPractise\testData\index.txt.txt
-  (Session info: chrome=142.0.7444.163)
-Build info: version: '4.35.0', revision: '1c58e5028b'
-System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.7'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Command: [99c9c1afba8456aa707baba0a86ce5f0, sendKeysToElement {id=f.2EAD070372DB411BE3200A9ECE26947E.d.1FCEB04BAE044C2207CF19EFED5F5677.e.55, value=[Ljava.lang.CharSequence;@4d464510}]
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 142.0.7444.163, chrome: {chromedriverVersion: 142.0.7444.162 (c076baf266c..., userDataDir: C:\Users\RAHUL\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:49480}, goog:processID: 14676, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:49480/devtoo..., se:cdpVersion: 142.0.7444.163, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
-Element: [[ChromeDriver: chrome on windows (99c9c1afba8456aa707baba0a86ce5f0)] -> xpath: //input[@name='upload_file']]
-Session ID: 99c9c1afba8456aa707baba0a86ce5f0
-	at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62)
-	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:502)
-	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:486)
-	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167)
-	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138)
-	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50)
-	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:215)
-	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216)
-	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174)
-	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:557)
-	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:223)
-	at org.openqa.selenium.remote.RemoteWebElement.sendKeys(RemoteWebElement.java:110)
-	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
-	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
-	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:51)
-	at jdk.proxy2/jdk.proxy2.$Proxy33.sendKeys(Unknown Source)
-	at pageObjects.ContactUsPage.click_upload(ContactUsPage.java:55)
-	at testCases.TC005_VerifyContactUsForm.verify_ContactUsPage(TC005_VerifyContactUsForm.java:39)
-	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
-	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
-	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
-	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:664)
-	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:227)
-	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
-	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:957)
-	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:200)
-	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
-	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
-	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
-	at org.testng.TestRunner.privateRun(TestRunner.java:848)
-	at org.testng.TestRunner.run(TestRunner.java:621)
-	at org.testng.SuiteRunner.runTest(SuiteRunner.java:443)
-	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:437)
-	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:397)
-	at org.testng.SuiteRunner.run(SuiteRunner.java:336)
-	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
-	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
-	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1280)
-	at org.testng.TestNG.runSuitesLocally(TestNG.java:1200)
-	at org.testng.TestNG.runSuites(TestNG.java:1114)
-	at org.testng.TestNG.run(TestNG.java:1082)
-	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
-	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
-	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
-2025-11-16 18:49:23.474 [main] INFO 
+2025-11-17 12:38:29.506 [main] INFO 
+			testCases.TC005_VerifyContactUsForm:25 - Send Name
+2025-11-17 12:38:30.197 [main] INFO 
+			testCases.TC005_VerifyContactUsForm:27 - Send Email
+2025-11-17 12:38:30.517 [main] INFO 
+			testCases.TC005_VerifyContactUsForm:29 - Send Subject
+2025-11-17 12:38:30.903 [main] INFO 
+			testCases.TC005_VerifyContactUsForm:31 - Send Message
+2025-11-17 12:38:36.282 [main] INFO 
+			testCases.TC005_VerifyContactUsForm:36 - Click on Submit button
+2025-11-17 12:38:36.579 [main] INFO 
+			testCases.TC005_VerifyContactUsForm:38 - Click Ok on PopUp
+2025-11-17 12:38:41.632 [main] INFO 
+			testCases.TC005_VerifyContactUsForm:41 - Verify success message
+2025-11-17 12:38:41.833 [main] INFO 
+			testCases.TC005_VerifyContactUsForm:43 - Navigate to Home Page
+2025-11-17 12:38:47.965 [main] INFO 
 			testCases.TC006_VerifyTestCasesPage:45 - Launch browser
-2025-11-16 18:49:25.129 [main] INFO 
+2025-11-17 12:38:50.536 [main] INFO 
 			testCases.TC006_VerifyTestCasesPage:59 - Navigate to url 'http://automationexercise.com'
-2025-11-16 18:49:37.966 [main] INFO 
+2025-11-17 12:39:07.662 [main] INFO 
 			testCases.TC007_VerifyAllProductsAndProductDetailPage:45 - Launch browser
-2025-11-16 18:49:39.690 [main] INFO 
+2025-11-17 12:39:10.802 [main] INFO 
 			testCases.TC007_VerifyAllProductsAndProductDetailPage:59 - Navigate to url 'http://automationexercise.com'
-2025-11-16 18:49:47.625 [main] INFO 
+2025-11-17 12:40:53.131 [main] INFO 
 			testCases.TC007_VerifyAllProductsAndProductDetailPage:15 - ===== Starting TC007_VerifyAllProductsAndProductDetailPage =====
-2025-11-16 18:49:55.879 [main] INFO 
+2025-11-17 12:42:23.567 [main] INFO 
 			testCases.TC007_VerifyAllProductsAndProductDetailPage:27 - Clicking 'View Product' for Product 1
-2025-11-16 18:50:00.400 [main] INFO 
+2025-11-17 12:42:27.617 [main] INFO 
 			testCases.TC007_VerifyAllProductsAndProductDetailPage:30 - Validating Product Details
-2025-11-16 18:50:00.420 [main] INFO 
+2025-11-17 12:42:27.618 [main] INFO 
 			testCases.TC007_VerifyAllProductsAndProductDetailPage:31 - Check Product Name
-2025-11-16 18:50:00.699 [main] INFO 
+2025-11-17 12:42:27.703 [main] INFO 
 			testCases.TC007_VerifyAllProductsAndProductDetailPage:33 - Check category
-2025-11-16 18:50:00.880 [main] INFO 
+2025-11-17 12:42:27.895 [main] INFO 
 			testCases.TC007_VerifyAllProductsAndProductDetailPage:35 - Check price
-2025-11-16 18:50:00.928 [main] INFO 
+2025-11-17 12:42:27.974 [main] INFO 
 			testCases.TC007_VerifyAllProductsAndProductDetailPage:37 - Check Availability
-2025-11-16 18:50:00.992 [main] INFO 
+2025-11-17 12:42:28.018 [main] INFO 
 			testCases.TC007_VerifyAllProductsAndProductDetailPage:40 - Check condition
-2025-11-16 18:50:01.051 [main] INFO 
+2025-11-17 12:42:28.067 [main] INFO 
 			testCases.TC007_VerifyAllProductsAndProductDetailPage:42 - Check Brand
-2025-11-16 18:50:01.122 [main] INFO 
+2025-11-17 12:42:28.121 [main] INFO 
 			testCases.TC007_VerifyAllProductsAndProductDetailPage:44 - All product details verified successfully
-2025-11-16 18:50:01.125 [main] INFO 
+2025-11-17 12:42:28.122 [main] INFO 
 			testCases.TC007_VerifyAllProductsAndProductDetailPage:56 - ===== Completed TC007_VerifyAllProductsAndProductDetailPage =====
-2025-11-16 18:50:01.883 [main] INFO 
+2025-11-17 12:42:29.197 [main] INFO 
 			testCases.TC008_VerifySearchProductModule:45 - Launch browser
-2025-11-16 18:50:03.690 [main] INFO 
+2025-11-17 12:42:32.508 [main] INFO 
 			testCases.TC008_VerifySearchProductModule:59 - Navigate to url 'http://automationexercise.com'
-2025-11-16 18:50:10.707 [main] INFO 
+2025-11-17 12:43:45.178 [main] INFO 
 			testCases.TC008_VerifySearchProductModule:15 - Start TC008_VerifySearchProductModule Verification
-2025-11-16 18:50:10.709 [main] INFO 
+2025-11-17 12:43:45.186 [main] INFO 
 			testCases.TC008_VerifySearchProductModule:19 - Click on Products button
-2025-11-16 18:50:15.013 [main] INFO 
+2025-11-17 12:45:04.940 [main] INFO 
 			testCases.TC008_VerifySearchProductModule:23 - Verify user is navigated to ALL PRODUCTS page successfully 
-2025-11-16 18:50:15.130 [main] INFO 
+2025-11-17 12:45:05.043 [main] INFO 
 			testCases.TC008_VerifySearchProductModule:26 - Enter product name in search input and click search button
-2025-11-16 18:50:15.132 [main] INFO 
+2025-11-17 12:45:05.044 [main] INFO 
 			testCases.TC008_VerifySearchProductModule:29 - Enter Products name
-2025-11-16 18:50:15.511 [main] INFO 
+2025-11-17 12:45:05.407 [main] INFO 
 			testCases.TC008_VerifySearchProductModule:31 - Click search button
-2025-11-16 18:50:17.808 [main] INFO 
+2025-11-17 12:45:11.199 [main] INFO 
 			testCases.TC008_VerifySearchProductModule:33 - Verify Searched Products Title
-2025-11-16 18:50:17.889 [main] INFO 
+2025-11-17 12:45:11.318 [main] INFO 
 			testCases.TC008_VerifySearchProductModule:48 - TC008_VerifySearchProductModule  Verified 
-2025-11-16 18:50:18.342 [main] INFO 
+2025-11-17 12:45:12.148 [main] INFO 
 			testCases.TC009_Verify_SubscriptionInHomePage:45 - Launch browser
-2025-11-16 18:50:20.094 [main] INFO 
+2025-11-17 12:45:14.711 [main] INFO 
 			testCases.TC009_Verify_SubscriptionInHomePage:59 - Navigate to url 'http://automationexercise.com'
-2025-11-16 18:50:25.522 [main] INFO 
+2025-11-17 12:45:21.861 [main] INFO 
 			testCases.TC009_Verify_SubscriptionInHomePage:19 - Start executing Test Case TC009_Verify_SubscriptionInHomePage 
-2025-11-16 18:50:25.522 [main] INFO 
+2025-11-17 12:45:21.866 [main] INFO 
 			testCases.TC009_Verify_SubscriptionInHomePage:20 - Scroll Down to Footer
-2025-11-16 18:50:25.567 [main] INFO 
+2025-11-17 12:45:21.952 [main] INFO 
 			testCases.TC009_Verify_SubscriptionInHomePage:23 - Verify Subscription Title
-2025-11-16 18:50:25.645 [main] INFO 
+2025-11-17 12:45:22.057 [main] INFO 
 			testCases.TC009_Verify_SubscriptionInHomePage:26 - Send Subscription email
-2025-11-16 18:50:26.128 [main] INFO 
+2025-11-17 12:45:22.339 [main] INFO 
 			testCases.TC009_Verify_SubscriptionInHomePage:28 - Click Subscribe
-2025-11-16 18:50:26.670 [main] INFO 
+2025-11-17 12:45:22.926 [main] INFO 
 			testCases.TC009_Verify_SubscriptionInHomePage:30 - Verify success message 'You have been successfully subscribed!' is visible
-2025-11-16 18:50:26.803 [main] INFO 
+2025-11-17 12:45:22.977 [main] INFO 
 			testCases.TC009_Verify_SubscriptionInHomePage:42 - Test Case TC009_Verify_SubscriptionInHomePage Executed Successfully
-2025-11-16 18:50:27.465 [main] INFO 
+2025-11-17 12:45:23.720 [main] INFO 
 			testCases.TC010_Verify_SubscriptionInCartPage:45 - Launch browser
-2025-11-16 18:50:29.121 [main] INFO 
+2025-11-17 12:45:26.261 [main] INFO 
 			testCases.TC010_Verify_SubscriptionInCartPage:59 - Navigate to url 'http://automationexercise.com'
-2025-11-16 18:50:35.509 [main] INFO 
+2025-11-17 12:45:32.235 [main] INFO 
 			testCases.TC010_Verify_SubscriptionInCartPage:19 - Strted Executing TC010_Verify_SubscriptionInCartPage
-2025-11-16 18:50:35.510 [main] INFO 
+2025-11-17 12:45:32.236 [main] INFO 
 			testCases.TC010_Verify_SubscriptionInCartPage:20 - Navigate to Home Page
-2025-11-16 18:50:35.514 [main] INFO 
+2025-11-17 12:45:32.246 [main] INFO 
 			testCases.TC010_Verify_SubscriptionInCartPage:22 - Click on Cart
-2025-11-16 18:50:37.254 [main] INFO 
+2025-11-17 12:45:35.670 [main] INFO 
 			testCases.TC010_Verify_SubscriptionInCartPage:24 -  Scroll down to subscription
-2025-11-16 18:50:37.415 [main] INFO 
+2025-11-17 12:45:36.223 [main] INFO 
 			testCases.TC010_Verify_SubscriptionInCartPage:28 -  Enter email address in input and click arrow button
-2025-11-16 18:50:38.464 [main] INFO 
+2025-11-17 12:45:37.175 [main] INFO 
 			testCases.TC010_Verify_SubscriptionInCartPage:31 - Verify Subscription Success message
-2025-11-16 18:50:38.502 [main] INFO 
+2025-11-17 12:45:37.245 [main] INFO 
 			testCases.TC010_Verify_SubscriptionInCartPage:44 - Executed TC010_Verify_SubscriptionInCartPage Successfully
-2025-11-16 18:57:36.682 [main] DEBUG
-			org.testng.TestNG:82 - suiteXmlPath: "C:\Users\RAHUL\git\repository\Hybrid_AutomationPractise\master.xml"
-2025-11-16 18:57:37.780 [main] INFO 
+2025-11-17 12:45:38.108 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:45 - Launch browser
+2025-11-17 12:45:40.611 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:59 - Navigate to url 'http://automationexercise.com'
+2025-11-17 12:45:46.653 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:19 - Click on product
+2025-11-17 12:46:02.010 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:23 - Click on View product 1
+2025-11-17 12:46:04.713 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:25 - Add product 1 to cart
+2025-11-17 12:46:05.231 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:27 - Click on Continue Shpping
+2025-11-17 12:46:06.434 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:29 - Click on View product 2
+2025-11-17 12:46:08.238 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:31 - Add product 2 to cart
+2025-11-17 12:46:08.778 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:34 - Click on View product
+2025-11-17 12:51:38.332 [main] DEBUG
+			org.testng.TestNG:82 - suiteXmlPath: "C:\Users\RAHUL\git\repository\Hybrid_AutomationPractise\testngTC11.xml"
+2025-11-17 12:51:39.538 [main] INFO 
 			org.testng.internal.Utils:112 - [TestNG] Running:
-  C:\Users\RAHUL\git\repository\Hybrid_AutomationPractise\master.xml
+  C:\Users\RAHUL\git\repository\Hybrid_AutomationPractise\testngTC11.xml
 
-2025-11-16 18:57:38.382 [main] INFO 
-			testCases.TC001_AccountRegistrationTest:45 - Launch browser
-2025-11-16 18:57:41.712 [main] INFO 
-			testCases.TC001_AccountRegistrationTest:59 - Navigate to url 'http://automationexercise.com'
-2025-11-16 18:57:48.653 [main] INFO 
-			testCases.TC001_AccountRegistrationTest:17 - *** Starting TC001_AccountRegistrationTest ***
-2025-11-16 18:57:48.722 [main] INFO 
-			testCases.TC001_AccountRegistrationTest:21 - Verify that home page is visible successfully
-2025-11-16 18:57:50.959 [main] INFO 
-			testCases.TC001_AccountRegistrationTest:24 - Click on 'Signup / Login' button
-2025-11-16 18:57:50.967 [main] INFO 
-			testCases.TC001_AccountRegistrationTest:27 - Verify 'New User Signup!' is visible
-2025-11-16 18:57:51.026 [main] INFO 
-			testCases.TC001_AccountRegistrationTest:30 -  Enter name and email address
-2025-11-16 18:57:56.709 [main] INFO 
-			testCases.TC001_AccountRegistrationTest:35 - Click 'Signup' button
-2025-11-16 18:57:59.516 [main] INFO 
-			testCases.TC001_AccountRegistrationTest:56 - Verify Enter Account information Message
-2025-11-16 18:58:00.101 [main] INFO 
-			testCases.TC001_AccountRegistrationTest:61 - Select Title Mr/Mrs
-2025-11-16 18:58:00.794 [main] INFO 
-			testCases.TC001_AccountRegistrationTest:63 - Send password
-2025-11-16 18:58:01.211 [main] INFO 
-			testCases.TC001_AccountRegistrationTest:65 - Select Day
-2025-11-16 18:58:02.051 [main] INFO 
-			testCases.TC001_AccountRegistrationTest:67 - Select Month
-2025-11-16 18:58:02.479 [main] INFO 
-			testCases.TC001_AccountRegistrationTest:69 - Select Year
-2025-11-16 18:58:03.164 [main] INFO 
-			testCases.TC001_AccountRegistrationTest:71 - Check newsletter checkbox
-2025-11-16 18:58:03.449 [main] INFO 
-			testCases.TC001_AccountRegistrationTest:73 - Check partner checkbox
-2025-11-16 18:58:03.771 [main] INFO 
-			testCases.TC001_AccountRegistrationTest:75 - Enter First Name
-2025-11-16 18:58:04.122 [main] INFO 
-			testCases.TC001_AccountRegistrationTest:77 - Enter Last Name
-2025-11-16 18:58:04.559 [main] INFO 
-			testCases.TC001_AccountRegistrationTest:79 - Enter Company
-2025-11-16 18:58:04.882 [main] INFO 
-			testCases.TC001_AccountRegistrationTest:81 - Enter Address
-2025-11-16 18:58:05.713 [main] INFO 
-			testCases.TC001_AccountRegistrationTest:83 - Enter Address2
-2025-11-16 18:58:06.438 [main] INFO 
-			testCases.TC001_AccountRegistrationTest:85 - Select Country
-2025-11-16 18:58:06.782 [main] INFO 
-			testCases.TC001_AccountRegistrationTest:87 - Select State
-2025-11-16 18:58:07.054 [main] INFO 
-			testCases.TC001_AccountRegistrationTest:89 - Select city
-2025-11-16 18:58:07.266 [main] INFO 
-			testCases.TC001_AccountRegistrationTest:91 - Enter Zipcode
-2025-11-16 18:58:07.643 [main] INFO 
-			testCases.TC001_AccountRegistrationTest:93 - Enter Mobile number
-2025-11-16 18:58:07.978 [main] INFO 
-			testCases.TC001_AccountRegistrationTest:95 - Click on Create Account
-2025-11-16 18:58:10.309 [main] INFO 
-			testCases.TC002_AccountLoginTest:45 - Launch browser
-2025-11-16 18:58:13.384 [main] INFO 
-			testCases.TC002_AccountLoginTest:59 - Navigate to url 'http://automationexercise.com'
-2025-11-16 18:58:20.226 [main] INFO 
-			testCases.TC002_AccountLoginTest:15 - *** Login Test ***
-2025-11-16 18:58:23.220 [main] INFO 
-			testCases.TC002_AccountLoginTest:24 - Enter email Address
-2025-11-16 18:58:23.629 [main] INFO 
-			testCases.TC002_AccountLoginTest:26 - Enter Password
-2025-11-16 18:58:23.803 [main] INFO 
-			testCases.TC002_AccountLoginTest:28 - Click Login
-2025-11-16 18:58:26.687 [main] INFO 
-			testCases.TC002_AccountLoginTest:30 - Login button clicked Successfully
-2025-11-16 18:58:26.688 [main] INFO 
-			testCases.TC002_AccountLoginTest:31 - Click Logout
-2025-11-16 18:58:28.748 [main] INFO 
-			testCases.TC002_AccountLoginTest:33 - User Logged out successfully
-2025-11-16 18:58:29.217 [main] INFO 
-			testCases.TC003_AccountLoginTestWithInvalidCredentials:45 - Launch browser
-2025-11-16 18:58:31.062 [main] INFO 
-			testCases.TC003_AccountLoginTestWithInvalidCredentials:59 - Navigate to url 'http://automationexercise.com'
-2025-11-16 18:58:37.009 [main] INFO 
-			testCases.TC003_AccountLoginTestWithInvalidCredentials:17 - *** Login Test with Incorrect email and Password ***
-2025-11-16 18:58:39.777 [main] INFO 
-			testCases.TC003_AccountLoginTestWithInvalidCredentials:29 - Enter email Address
-2025-11-16 18:58:40.186 [main] INFO 
-			testCases.TC003_AccountLoginTestWithInvalidCredentials:31 - Enter Password
-2025-11-16 18:58:40.380 [main] INFO 
-			testCases.TC003_AccountLoginTestWithInvalidCredentials:33 - Click Login
-2025-11-16 18:58:41.713 [main] INFO 
-			testCases.TC003_AccountLoginTestWithInvalidCredentials:35 - Verify Error message
-2025-11-16 18:58:41.784 [main] INFO 
-			testCases.TC003_AccountLoginTestWithInvalidCredentials:37 - Test Case Passed
-2025-11-16 18:58:42.279 [main] INFO 
-			testCases.TC004_RgisterUserWithExistingEmail:45 - Launch browser
-2025-11-16 18:58:44.000 [main] INFO 
-			testCases.TC004_RgisterUserWithExistingEmail:59 - Navigate to url 'http://automationexercise.com'
-2025-11-16 19:05:23.832 [main] DEBUG
-			org.testng.TestNG:82 - suiteXmlPath: "C:\Users\RAHUL\git\repository\Hybrid_AutomationPractise\master.xml"
-2025-11-16 19:05:24.986 [main] INFO 
+2025-11-17 12:51:40.228 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:45 - Launch browser
+2025-11-17 12:51:44.674 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:59 - Navigate to url 'http://automationexercise.com'
+2025-11-17 12:51:57.394 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:19 - Click on product
+2025-11-17 12:52:04.567 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:23 - Click on View product 1
+2025-11-17 12:52:06.740 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:25 - Add product 1 to cart
+2025-11-17 12:52:07.419 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:27 - Click on Continue Shpping
+2025-11-17 12:52:08.715 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:29 - Click on View product 2
+2025-11-17 12:52:10.440 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:31 - Add product 2 to cart
+2025-11-17 12:52:11.006 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:34 - Click on View product
+2025-11-17 12:54:56.411 [main] DEBUG
+			org.testng.TestNG:82 - suiteXmlPath: "C:\Users\RAHUL\git\repository\Hybrid_AutomationPractise\testngTC11.xml"
+2025-11-17 12:54:57.806 [main] INFO 
 			org.testng.internal.Utils:112 - [TestNG] Running:
-  C:\Users\RAHUL\git\repository\Hybrid_AutomationPractise\master.xml
+  C:\Users\RAHUL\git\repository\Hybrid_AutomationPractise\testngTC11.xml
 
-2025-11-16 19:05:25.564 [main] INFO 
-			testCases.TC001_AccountRegistrationTest:45 - Launch browser
-2025-11-16 19:05:28.459 [main] INFO 
-			testCases.TC001_AccountRegistrationTest:59 - Navigate to url 'http://automationexercise.com'
-2025-11-16 19:05:32.580 [main] INFO 
-			testCases.TC001_AccountRegistrationTest:17 - *** Starting TC001_AccountRegistrationTest ***
-2025-11-16 19:05:32.630 [main] INFO 
-			testCases.TC001_AccountRegistrationTest:21 - Verify that home page is visible successfully
-2025-11-16 19:05:35.704 [main] INFO 
-			testCases.TC001_AccountRegistrationTest:24 - Click on 'Signup / Login' button
-2025-11-16 19:05:35.718 [main] INFO 
-			testCases.TC001_AccountRegistrationTest:27 - Verify 'New User Signup!' is visible
-2025-11-16 19:05:35.794 [main] INFO 
-			testCases.TC001_AccountRegistrationTest:30 -  Enter name and email address
-2025-11-16 19:05:42.014 [main] INFO 
-			testCases.TC001_AccountRegistrationTest:35 - Click 'Signup' button
-2025-11-16 19:05:44.470 [main] INFO 
-			testCases.TC001_AccountRegistrationTest:56 - Verify Enter Account information Message
-2025-11-16 19:05:44.971 [main] INFO 
-			testCases.TC001_AccountRegistrationTest:61 - Select Title Mr/Mrs
-2025-11-16 19:05:46.081 [main] INFO 
-			testCases.TC001_AccountRegistrationTest:63 - Send password
-2025-11-16 19:05:46.959 [main] INFO 
-			testCases.TC001_AccountRegistrationTest:65 - Select Day
-2025-11-16 19:05:49.806 [main] INFO 
-			testCases.TC001_AccountRegistrationTest:67 - Select Month
-2025-11-16 19:05:50.430 [main] INFO 
-			testCases.TC001_AccountRegistrationTest:69 - Select Year
-2025-11-16 19:05:50.944 [main] INFO 
-			testCases.TC001_AccountRegistrationTest:71 - Check newsletter checkbox
-2025-11-16 19:05:51.222 [main] INFO 
-			testCases.TC001_AccountRegistrationTest:73 - Check partner checkbox
-2025-11-16 19:05:51.557 [main] INFO 
-			testCases.TC001_AccountRegistrationTest:75 - Enter First Name
-2025-11-16 19:05:51.832 [main] INFO 
-			testCases.TC001_AccountRegistrationTest:77 - Enter Last Name
-2025-11-16 19:05:52.217 [main] INFO 
-			testCases.TC001_AccountRegistrationTest:79 - Enter Company
-2025-11-16 19:05:52.446 [main] INFO 
-			testCases.TC001_AccountRegistrationTest:81 - Enter Address
-2025-11-16 19:05:52.981 [main] INFO 
-			testCases.TC001_AccountRegistrationTest:83 - Enter Address2
-2025-11-16 19:05:53.307 [main] INFO 
-			testCases.TC001_AccountRegistrationTest:85 - Select Country
-2025-11-16 19:05:53.598 [main] INFO 
-			testCases.TC001_AccountRegistrationTest:87 - Select State
-2025-11-16 19:05:53.907 [main] INFO 
-			testCases.TC001_AccountRegistrationTest:89 - Select city
-2025-11-16 19:05:54.208 [main] INFO 
-			testCases.TC001_AccountRegistrationTest:91 - Enter Zipcode
-2025-11-16 19:05:54.524 [main] INFO 
-			testCases.TC001_AccountRegistrationTest:93 - Enter Mobile number
-2025-11-16 19:05:54.795 [main] INFO 
-			testCases.TC001_AccountRegistrationTest:95 - Click on Create Account
-2025-11-16 19:05:57.089 [main] INFO 
-			testCases.TC002_AccountLoginTest:45 - Launch browser
-2025-11-16 19:05:58.970 [main] INFO 
-			testCases.TC002_AccountLoginTest:59 - Navigate to url 'http://automationexercise.com'
-2025-11-16 19:06:06.879 [main] INFO 
-			testCases.TC002_AccountLoginTest:15 - *** Login Test ***
-2025-11-16 19:06:09.297 [main] INFO 
-			testCases.TC002_AccountLoginTest:24 - Enter email Address
-2025-11-16 19:06:09.776 [main] INFO 
-			testCases.TC002_AccountLoginTest:26 - Enter Password
-2025-11-16 19:06:09.955 [main] INFO 
-			testCases.TC002_AccountLoginTest:28 - Click Login
-2025-11-16 19:06:13.377 [main] INFO 
-			testCases.TC002_AccountLoginTest:30 - Login button clicked Successfully
-2025-11-16 19:06:13.377 [main] INFO 
-			testCases.TC002_AccountLoginTest:31 - Click Logout
-2025-11-16 19:06:18.089 [main] INFO 
-			testCases.TC002_AccountLoginTest:33 - User Logged out successfully
-2025-11-16 19:06:19.552 [main] INFO 
-			testCases.TC003_AccountLoginTestWithInvalidCredentials:45 - Launch browser
-2025-11-16 19:06:22.101 [main] INFO 
-			testCases.TC003_AccountLoginTestWithInvalidCredentials:59 - Navigate to url 'http://automationexercise.com'
-2025-11-16 19:06:27.279 [main] INFO 
-			testCases.TC003_AccountLoginTestWithInvalidCredentials:17 - *** Login Test with Incorrect email and Password ***
-2025-11-16 19:06:29.319 [main] INFO 
-			testCases.TC003_AccountLoginTestWithInvalidCredentials:29 - Enter email Address
-2025-11-16 19:06:29.940 [main] INFO 
-			testCases.TC003_AccountLoginTestWithInvalidCredentials:31 - Enter Password
-2025-11-16 19:06:30.160 [main] INFO 
-			testCases.TC003_AccountLoginTestWithInvalidCredentials:33 - Click Login
-2025-11-16 19:06:31.192 [main] INFO 
-			testCases.TC003_AccountLoginTestWithInvalidCredentials:35 - Verify Error message
-2025-11-16 19:06:31.248 [main] INFO 
-			testCases.TC003_AccountLoginTestWithInvalidCredentials:37 - Test Case Passed
-2025-11-16 19:06:31.823 [main] INFO 
-			testCases.TC004_RgisterUserWithExistingEmail:45 - Launch browser
-2025-11-16 19:06:33.567 [main] INFO 
-			testCases.TC004_RgisterUserWithExistingEmail:59 - Navigate to url 'http://automationexercise.com'
-2025-11-16 19:06:43.060 [main] INFO 
-			testCases.TC004_RgisterUserWithExistingEmail:22 - Send name
-2025-11-16 19:06:43.545 [main] INFO 
-			testCases.TC004_RgisterUserWithExistingEmail:24 - Send Existing Email
-2025-11-16 19:06:43.794 [main] INFO 
-			testCases.TC004_RgisterUserWithExistingEmail:26 - Click signUp
-2025-11-16 19:06:45.111 [main] INFO 
-			testCases.TC004_RgisterUserWithExistingEmail:28 - Verify Error Message
-2025-11-16 19:06:45.152 [main] INFO 
-			testCases.TC004_RgisterUserWithExistingEmail:30 - Error Message displayed as 'Email Address already exist!' 
-2025-11-16 19:06:45.721 [main] INFO 
-			testCases.TC005_VerifyContactUsForm:45 - Launch browser
-2025-11-16 19:06:47.593 [main] INFO 
-			testCases.TC005_VerifyContactUsForm:59 - Navigate to url 'http://automationexercise.com'
-2025-11-16 19:06:57.783 [main] INFO 
-			testCases.TC005_VerifyContactUsForm:30 - Send Name
-2025-11-16 19:06:58.492 [main] INFO 
-			testCases.TC005_VerifyContactUsForm:32 - Send Email
-2025-11-16 19:06:58.796 [main] INFO 
-			testCases.TC005_VerifyContactUsForm:34 - Send Subject
-2025-11-16 19:06:59.165 [main] INFO 
-			testCases.TC005_VerifyContactUsForm:36 - Send Message
-2025-11-16 19:06:59.820 [main] INFO 
-			testCases.TC005_VerifyContactUsForm:38 - Upload File
-2025-11-16 19:07:00.093 [main] ERROR
-			testCases.TC005_VerifyContactUsForm:58 - Exception occurred while verifying product details
-org.openqa.selenium.InvalidArgumentException: invalid argument: File not found : C:\Users\RAHUL\HybridAutomationFramework\Hybrid_AutomationPractise\testData\index.txt.txt
-  (Session info: chrome=142.0.7444.163)
+2025-11-17 12:54:58.581 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:45 - Launch browser
+2025-11-17 12:55:03.057 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:59 - Navigate to url 'http://automationexercise.com'
+2025-11-17 12:55:08.865 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:19 - Click on product
+2025-11-17 12:55:17.890 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:23 - Click on View product 1
+2025-11-17 12:55:21.102 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:25 - Add product 1 to cart
+2025-11-17 12:55:21.598 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:27 - Click on Continue Shpping
+2025-11-17 12:55:22.777 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:29 - Click on View product 2
+2025-11-17 12:55:24.799 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:31 - Add product 2 to cart
+2025-11-17 12:55:25.299 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:34 - Click on View product
+2025-11-17 12:56:07.697 [main] DEBUG
+			org.testng.TestNG:82 - suiteXmlPath: "C:\Users\RAHUL\git\repository\Hybrid_AutomationPractise\testngTC11.xml"
+2025-11-17 12:56:08.893 [main] INFO 
+			org.testng.internal.Utils:112 - [TestNG] Running:
+  C:\Users\RAHUL\git\repository\Hybrid_AutomationPractise\testngTC11.xml
+
+2025-11-17 12:56:09.579 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:45 - Launch browser
+2025-11-17 12:56:13.882 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:59 - Navigate to url 'http://automationexercise.com'
+2025-11-17 12:56:21.816 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:19 - Click on product
+2025-11-17 12:56:36.075 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:23 - Click on View product 1
+2025-11-17 12:56:38.543 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:25 - Add product 1 to cart
+2025-11-17 12:56:39.054 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:27 - Click on Continue Shpping
+2025-11-17 12:56:40.949 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:29 - Click on View product 2
+2025-11-17 12:56:42.567 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:31 - Add product 2 to cart
+2025-11-17 12:56:43.166 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:34 - Click on View product
+2025-11-17 14:38:29.163 [main] DEBUG
+			org.testng.TestNG:82 - suiteXmlPath: "C:\Users\RAHUL\git\repository\Hybrid_AutomationPractise\testngTC11.xml"
+2025-11-17 14:38:30.067 [main] INFO 
+			org.testng.internal.Utils:112 - [TestNG] Running:
+  C:\Users\RAHUL\git\repository\Hybrid_AutomationPractise\testngTC11.xml
+
+2025-11-17 14:38:30.625 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:45 - Launch browser
+2025-11-17 14:38:37.376 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:59 - Navigate to url 'http://automationexercise.com'
+2025-11-17 14:39:05.697 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:21 - Click on product
+2025-11-17 14:39:24.866 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:25 - Click on View product 1
+2025-11-17 14:39:30.095 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:27 - Add product 1 to cart
+2025-11-17 14:39:30.325 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:29 - Click on Continue Shpping
+2025-11-17 14:39:33.354 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:31 - Click on View product 2
+2025-11-17 14:40:36.823 [main] DEBUG
+			org.testng.TestNG:82 - suiteXmlPath: "C:\Users\RAHUL\git\repository\Hybrid_AutomationPractise\testngTC11.xml"
+2025-11-17 14:40:37.743 [main] INFO 
+			org.testng.internal.Utils:112 - [TestNG] Running:
+  C:\Users\RAHUL\git\repository\Hybrid_AutomationPractise\testngTC11.xml
+
+2025-11-17 14:40:38.304 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:45 - Launch browser
+2025-11-17 14:40:41.648 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:59 - Navigate to url 'http://automationexercise.com'
+2025-11-17 14:41:01.695 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:21 - Click on product
+2025-11-17 14:42:03.204 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:25 - Click on View product 1
+2025-11-17 14:42:09.425 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:27 - Add product 1 to cart
+2025-11-17 14:42:09.565 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:29 - Click on Continue Shpping
+2025-11-17 14:42:12.209 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:31 - Click on View product 2
+2025-11-17 14:42:17.025 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:33 - Add product 2 to cart
+2025-11-17 14:42:17.482 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:36 - Click on View product
+2025-11-17 14:42:33.663 [main] ERROR
+			testCases.TC011_Verify_Add_Products_in_Cart:40 - Error occured while adding product 1 in Cartorg.openqa.selenium.TimeoutException: java.util.concurrent.TimeoutException
 Build info: version: '4.35.0', revision: '1c58e5028b'
 System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.7'
 Driver info: org.openqa.selenium.chrome.ChromeDriver
-Command: [922adc721e40d130343dfaaea62e0cb6, sendKeysToElement {value=[Ljava.lang.CharSequence;@1320e68a, id=f.BEE620176EA73D4FA977002EF86F72E7.d.454F977233597FF455DA07BC5A678FDC.e.69}]
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 142.0.7444.163, chrome: {chromedriverVersion: 142.0.7444.162 (c076baf266c..., userDataDir: C:\Users\RAHUL\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:51466}, goog:processID: 10284, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:51466/devtoo..., se:cdpVersion: 142.0.7444.163, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
-Element: [[ChromeDriver: chrome on windows (922adc721e40d130343dfaaea62e0cb6)] -> xpath: //input[@name='upload_file']]
-Session ID: 922adc721e40d130343dfaaea62e0cb6
-	at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62)
-	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:502)
-	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:486)
-	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167)
-	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138)
-	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50)
-	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:215)
-	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216)
-	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174)
-	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:557)
-	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:223)
-	at org.openqa.selenium.remote.RemoteWebElement.sendKeys(RemoteWebElement.java:110)
-	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
-	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
-	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:51)
-	at jdk.proxy2/jdk.proxy2.$Proxy33.sendKeys(Unknown Source)
-	at pageObjects.ContactUsPage.click_upload(ContactUsPage.java:56)
-	at testCases.TC005_VerifyContactUsForm.verify_ContactUsPage(TC005_VerifyContactUsForm.java:39)
-	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
-	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
-	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
-	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:664)
-	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:227)
-	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
-	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:957)
-	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:200)
-	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
-	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
-	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
-	at org.testng.TestRunner.privateRun(TestRunner.java:848)
-	at org.testng.TestRunner.run(TestRunner.java:621)
-	at org.testng.SuiteRunner.runTest(SuiteRunner.java:443)
-	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:437)
-	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:397)
-	at org.testng.SuiteRunner.run(SuiteRunner.java:336)
-	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
-	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
-	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1280)
-	at org.testng.TestNG.runSuitesLocally(TestNG.java:1200)
-	at org.testng.TestNG.runSuites(TestNG.java:1114)
-	at org.testng.TestNG.run(TestNG.java:1082)
-	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
-	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
-	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
-2025-11-16 19:07:01.223 [main] INFO 
-			testCases.TC006_VerifyTestCasesPage:45 - Launch browser
-2025-11-16 19:07:02.917 [main] INFO 
-			testCases.TC006_VerifyTestCasesPage:59 - Navigate to url 'http://automationexercise.com'
-2025-11-16 19:07:15.673 [main] INFO 
-			testCases.TC007_VerifyAllProductsAndProductDetailPage:45 - Launch browser
-2025-11-16 19:07:17.358 [main] INFO 
-			testCases.TC007_VerifyAllProductsAndProductDetailPage:59 - Navigate to url 'http://automationexercise.com'
-2025-11-16 19:07:24.413 [main] INFO 
-			testCases.TC007_VerifyAllProductsAndProductDetailPage:15 - ===== Starting TC007_VerifyAllProductsAndProductDetailPage =====
-2025-11-16 19:07:27.219 [main] INFO 
-			testCases.TC007_VerifyAllProductsAndProductDetailPage:27 - Clicking 'View Product' for Product 1
-2025-11-16 19:07:29.712 [main] INFO 
-			testCases.TC007_VerifyAllProductsAndProductDetailPage:30 - Validating Product Details
-2025-11-16 19:07:29.713 [main] INFO 
-			testCases.TC007_VerifyAllProductsAndProductDetailPage:31 - Check Product Name
-2025-11-16 19:07:29.817 [main] INFO 
-			testCases.TC007_VerifyAllProductsAndProductDetailPage:33 - Check category
-2025-11-16 19:07:30.177 [main] INFO 
-			testCases.TC007_VerifyAllProductsAndProductDetailPage:35 - Check price
-2025-11-16 19:07:30.225 [main] INFO 
-			testCases.TC007_VerifyAllProductsAndProductDetailPage:37 - Check Availability
-2025-11-16 19:07:30.347 [main] INFO 
-			testCases.TC007_VerifyAllProductsAndProductDetailPage:40 - Check condition
-2025-11-16 19:07:30.394 [main] INFO 
-			testCases.TC007_VerifyAllProductsAndProductDetailPage:42 - Check Brand
-2025-11-16 19:07:30.544 [main] INFO 
-			testCases.TC007_VerifyAllProductsAndProductDetailPage:44 - All product details verified successfully
-2025-11-16 19:07:30.546 [main] INFO 
-			testCases.TC007_VerifyAllProductsAndProductDetailPage:56 - ===== Completed TC007_VerifyAllProductsAndProductDetailPage =====
-2025-11-16 19:07:31.292 [main] INFO 
-			testCases.TC008_VerifySearchProductModule:45 - Launch browser
-2025-11-16 19:07:33.042 [main] INFO 
-			testCases.TC008_VerifySearchProductModule:59 - Navigate to url 'http://automationexercise.com'
-2025-11-16 19:07:39.363 [main] INFO 
-			testCases.TC008_VerifySearchProductModule:15 - Start TC008_VerifySearchProductModule Verification
-2025-11-16 19:07:39.365 [main] INFO 
-			testCases.TC008_VerifySearchProductModule:19 - Click on Products button
-2025-11-16 19:07:46.346 [main] INFO 
-			testCases.TC008_VerifySearchProductModule:23 - Verify user is navigated to ALL PRODUCTS page successfully 
-2025-11-16 19:07:46.459 [main] INFO 
-			testCases.TC008_VerifySearchProductModule:26 - Enter product name in search input and click search button
-2025-11-16 19:07:46.460 [main] INFO 
-			testCases.TC008_VerifySearchProductModule:29 - Enter Products name
-2025-11-16 19:07:46.958 [main] INFO 
-			testCases.TC008_VerifySearchProductModule:31 - Click search button
-2025-11-16 19:07:48.784 [main] INFO 
-			testCases.TC008_VerifySearchProductModule:33 - Verify Searched Products Title
-2025-11-16 19:07:49.002 [main] INFO 
-			testCases.TC008_VerifySearchProductModule:48 - TC008_VerifySearchProductModule  Verified 
-2025-11-16 19:07:49.722 [main] INFO 
-			testCases.TC009_Verify_SubscriptionInHomePage:45 - Launch browser
-2025-11-16 19:07:51.418 [main] INFO 
-			testCases.TC009_Verify_SubscriptionInHomePage:59 - Navigate to url 'http://automationexercise.com'
-2025-11-16 19:07:56.838 [main] INFO 
-			testCases.TC009_Verify_SubscriptionInHomePage:19 - Start executing Test Case TC009_Verify_SubscriptionInHomePage 
-2025-11-16 19:07:56.842 [main] INFO 
-			testCases.TC009_Verify_SubscriptionInHomePage:20 - Scroll Down to Footer
-2025-11-16 19:07:56.921 [main] INFO 
-			testCases.TC009_Verify_SubscriptionInHomePage:23 - Verify Subscription Title
-2025-11-16 19:07:57.051 [main] INFO 
-			testCases.TC009_Verify_SubscriptionInHomePage:26 - Send Subscription email
-2025-11-16 19:07:57.536 [main] INFO 
-			testCases.TC009_Verify_SubscriptionInHomePage:28 - Click Subscribe
-2025-11-16 19:07:57.865 [main] INFO 
-			testCases.TC009_Verify_SubscriptionInHomePage:30 - Verify success message 'You have been successfully subscribed!' is visible
-2025-11-16 19:07:57.918 [main] INFO 
-			testCases.TC009_Verify_SubscriptionInHomePage:42 - Test Case TC009_Verify_SubscriptionInHomePage Executed Successfully
-2025-11-16 19:07:58.737 [main] INFO 
-			testCases.TC010_Verify_SubscriptionInCartPage:45 - Launch browser
-2025-11-16 19:08:00.514 [main] INFO 
-			testCases.TC010_Verify_SubscriptionInCartPage:59 - Navigate to url 'http://automationexercise.com'
-2025-11-16 19:08:05.814 [main] INFO 
-			testCases.TC010_Verify_SubscriptionInCartPage:19 - Strted Executing TC010_Verify_SubscriptionInCartPage
-2025-11-16 19:08:05.814 [main] INFO 
-			testCases.TC010_Verify_SubscriptionInCartPage:20 - Navigate to Home Page
-2025-11-16 19:08:05.819 [main] INFO 
-			testCases.TC010_Verify_SubscriptionInCartPage:22 - Click on Cart
-2025-11-16 19:08:07.312 [main] INFO 
-			testCases.TC010_Verify_SubscriptionInCartPage:24 -  Scroll down to subscription
-2025-11-16 19:08:07.408 [main] INFO 
-			testCases.TC010_Verify_SubscriptionInCartPage:28 -  Enter email address in input and click arrow button
-2025-11-16 19:08:08.312 [main] INFO 
-			testCases.TC010_Verify_SubscriptionInCartPage:31 - Verify Subscription Success message
-2025-11-16 19:08:08.344 [main] INFO 
-			testCases.TC010_Verify_SubscriptionInCartPage:44 - Executed TC010_Verify_SubscriptionInCartPage Successfully
-2025-11-16 19:13:52.015 [main] DEBUG
-			org.testng.TestNG:82 - suiteXmlPath: "C:\Users\RAHUL\git\repository\Hybrid_AutomationPractise\target\surefire-reports\testng-failed.xml"
-2025-11-16 19:14:02.334 [main] DEBUG
-			org.testng.TestNG:82 - suiteXmlPath: "C:\Users\RAHUL\git\repository\Hybrid_AutomationPractise\target\surefire-reports\testng-failed.xml"
-2025-11-16 19:15:24.309 [main] DEBUG
-			org.testng.TestNG:82 - suiteXmlPath: "C:\Users\RAHUL\git\repository\Hybrid_AutomationPractise\TC.xml"
-2025-11-16 19:15:25.257 [main] INFO 
+Command: [b9d5fa81e0e16346e4b82777479a2e28, clickElement {id=f.C070565A69EA76C08D257616AD9C9796.d.56CBA6B73685E0C4A83736DD517F236D.e.75}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 142.0.7444.163, chrome: {chromedriverVersion: 142.0.7444.162 (c076baf266c..., userDataDir: C:\Users\RAHUL\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:52877}, goog:processID: 19244, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:52877/devtoo..., se:cdpVersion: 142.0.7444.163, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (b9d5fa81e0e16346e4b82777479a2e28)] -> xpath: //div[@class='col-sm-4']//ul[@class='nav nav-pills nav-justified']//a[@href='/product_details/2']]
+Session ID: b9d5fa81e0e16346e4b82777479a2e28
+2025-11-17 14:42:35.930 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:41 - Test Case failed
+2025-11-17 14:43:33.064 [main] DEBUG
+			org.testng.TestNG:82 - suiteXmlPath: "C:\Users\RAHUL\git\repository\Hybrid_AutomationPractise\testngTC11.xml"
+2025-11-17 14:43:33.919 [main] INFO 
 			org.testng.internal.Utils:112 - [TestNG] Running:
-  C:\Users\RAHUL\git\repository\Hybrid_AutomationPractise\TC.xml
+  C:\Users\RAHUL\git\repository\Hybrid_AutomationPractise\testngTC11.xml
 
-2025-11-16 19:15:25.802 [main] INFO 
-			testCases.TC005_VerifyContactUsForm:45 - Launch browser
-2025-11-16 19:15:28.930 [main] INFO 
-			testCases.TC005_VerifyContactUsForm:59 - Navigate to url 'http://automationexercise.com'
-2025-11-16 19:15:39.937 [main] INFO 
-			testCases.TC005_VerifyContactUsForm:30 - Send Name
-2025-11-16 19:15:40.590 [main] INFO 
-			testCases.TC005_VerifyContactUsForm:32 - Send Email
-2025-11-16 19:15:40.993 [main] INFO 
-			testCases.TC005_VerifyContactUsForm:34 - Send Subject
-2025-11-16 19:15:41.620 [main] INFO 
-			testCases.TC005_VerifyContactUsForm:36 - Send Message
-2025-11-16 19:15:42.141 [main] INFO 
-			testCases.TC005_VerifyContactUsForm:38 - Upload File
-2025-11-16 19:15:42.536 [main] ERROR
-			testCases.TC005_VerifyContactUsForm:58 - Exception occurred while verifying product details
-org.openqa.selenium.InvalidArgumentException: invalid argument: File not found : C:\Users\RAHUL\HybridAutomationFramework\Hybrid_AutomationPractise\testData\index.txt.txt
-  (Session info: chrome=142.0.7444.163)
-Build info: version: '4.35.0', revision: '1c58e5028b'
-System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.7'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Command: [5f37603200cc6746ece3f20f60847f9d, sendKeysToElement {value=[Ljava.lang.CharSequence;@22a0d4ea, id=f.53E1EB0D1F129E7DF2234AACEB2A10F0.d.E943A1EC87F77329AF0EEE72B301F208.e.70}]
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 142.0.7444.163, chrome: {chromedriverVersion: 142.0.7444.162 (c076baf266c..., userDataDir: C:\Users\RAHUL\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:52251}, goog:processID: 21012, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:52251/devtoo..., se:cdpVersion: 142.0.7444.163, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
-Element: [[ChromeDriver: chrome on windows (5f37603200cc6746ece3f20f60847f9d)] -> xpath: //input[@name='upload_file']]
-Session ID: 5f37603200cc6746ece3f20f60847f9d
-	at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62)
-	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:502)
-	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:486)
-	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167)
-	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138)
-	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50)
-	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:215)
-	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216)
-	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174)
-	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:557)
-	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:223)
-	at org.openqa.selenium.remote.RemoteWebElement.sendKeys(RemoteWebElement.java:110)
-	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
-	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
-	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:51)
-	at jdk.proxy2/jdk.proxy2.$Proxy33.sendKeys(Unknown Source)
-	at pageObjects.ContactUsPage.click_upload(ContactUsPage.java:56)
-	at testCases.TC005_VerifyContactUsForm.verify_ContactUsPage(TC005_VerifyContactUsForm.java:39)
-	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
-	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
-	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
-	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:664)
-	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:227)
-	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
-	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:957)
-	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:200)
-	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
-	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
-	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
-	at org.testng.TestRunner.privateRun(TestRunner.java:848)
-	at org.testng.TestRunner.run(TestRunner.java:621)
-	at org.testng.SuiteRunner.runTest(SuiteRunner.java:443)
-	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:437)
-	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:397)
-	at org.testng.SuiteRunner.run(SuiteRunner.java:336)
-	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
-	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
-	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1280)
-	at org.testng.TestNG.runSuitesLocally(TestNG.java:1200)
-	at org.testng.TestNG.runSuites(TestNG.java:1114)
-	at org.testng.TestNG.run(TestNG.java:1082)
-	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
-	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
-	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
-2025-11-16 19:15:44.029 [main] INFO 
-			testCases.TC001_AccountRegistrationTest:45 - Launch browser
-2025-11-16 19:15:45.793 [main] INFO 
-			testCases.TC001_AccountRegistrationTest:59 - Navigate to url 'http://automationexercise.com'
-2025-11-16 19:15:51.103 [main] INFO 
-			testCases.TC001_AccountRegistrationTest:17 - *** Starting TC001_AccountRegistrationTest ***
-2025-11-16 19:15:51.108 [main] INFO 
-			testCases.TC001_AccountRegistrationTest:21 - Verify that home page is visible successfully
-2025-11-16 19:15:52.683 [main] INFO 
-			testCases.TC001_AccountRegistrationTest:24 - Click on 'Signup / Login' button
-2025-11-16 19:15:52.692 [main] INFO 
-			testCases.TC001_AccountRegistrationTest:27 - Verify 'New User Signup!' is visible
-2025-11-16 19:15:52.757 [main] INFO 
-			testCases.TC001_AccountRegistrationTest:30 -  Enter name and email address
-2025-11-16 19:15:58.580 [main] INFO 
-			testCases.TC001_AccountRegistrationTest:35 - Click 'Signup' button
-2025-11-16 19:16:06.658 [main] INFO 
-			testCases.TC001_AccountRegistrationTest:56 - Verify Enter Account information Message
-2025-11-16 19:16:06.779 [main] INFO 
-			testCases.TC001_AccountRegistrationTest:61 - Select Title Mr/Mrs
-2025-11-16 19:16:07.166 [main] INFO 
-			testCases.TC001_AccountRegistrationTest:63 - Send password
-2025-11-16 19:16:07.477 [main] INFO 
-			testCases.TC001_AccountRegistrationTest:65 - Select Day
-2025-11-16 19:16:07.999 [main] INFO 
-			testCases.TC001_AccountRegistrationTest:67 - Select Month
-2025-11-16 19:16:08.253 [main] INFO 
-			testCases.TC001_AccountRegistrationTest:69 - Select Year
-2025-11-16 19:16:08.554 [main] INFO 
-			testCases.TC001_AccountRegistrationTest:71 - Check newsletter checkbox
-2025-11-16 19:16:08.741 [main] INFO 
-			testCases.TC001_AccountRegistrationTest:73 - Check partner checkbox
-2025-11-16 19:16:08.887 [main] INFO 
-			testCases.TC001_AccountRegistrationTest:75 - Enter First Name
-2025-11-16 19:16:09.062 [main] INFO 
-			testCases.TC001_AccountRegistrationTest:77 - Enter Last Name
-2025-11-16 19:16:09.238 [main] INFO 
-			testCases.TC001_AccountRegistrationTest:79 - Enter Company
-2025-11-16 19:16:09.429 [main] INFO 
-			testCases.TC001_AccountRegistrationTest:81 - Enter Address
-2025-11-16 19:16:09.684 [main] INFO 
-			testCases.TC001_AccountRegistrationTest:83 - Enter Address2
-2025-11-16 19:16:09.871 [main] INFO 
-			testCases.TC001_AccountRegistrationTest:85 - Select Country
-2025-11-16 19:16:10.066 [main] INFO 
-			testCases.TC001_AccountRegistrationTest:87 - Select State
-2025-11-16 19:16:10.248 [main] INFO 
-			testCases.TC001_AccountRegistrationTest:89 - Select city
-2025-11-16 19:16:10.422 [main] INFO 
-			testCases.TC001_AccountRegistrationTest:91 - Enter Zipcode
-2025-11-16 19:16:10.582 [main] INFO 
-			testCases.TC001_AccountRegistrationTest:93 - Enter Mobile number
-2025-11-16 19:16:10.779 [main] INFO 
-			testCases.TC001_AccountRegistrationTest:95 - Click on Create Account
-2025-11-16 19:16:13.570 [main] INFO 
-			testCases.TC001_AccountRegistrationTest:97 - Verify Account Created Message
-2025-11-16 19:16:13.632 [main] INFO 
-			testCases.TC001_AccountRegistrationTest:99 - Verify Congratulation message
-2025-11-16 19:16:13.733 [main] INFO 
-			testCases.TC001_AccountRegistrationTest:103 - Click on Continue
-2025-11-16 19:16:16.130 [main] INFO 
-			testCases.TC001_AccountRegistrationTest:106 - Verify LoggedInAsUsername is displayed
-2025-11-16 19:16:16.165 [main] INFO 
-			testCases.TC001_AccountRegistrationTest:109 - Click delete Account button
-2025-11-16 19:16:18.728 [main] INFO 
-			testCases.TC001_AccountRegistrationTest:112 - Verify that 'ACCOUNT DELETED!' is visible 
-2025-11-16 19:16:18.780 [main] INFO 
-			testCases.TC001_AccountRegistrationTest:116 - Click continue button
-2025-11-16 19:26:58.980 [main] DEBUG
-			org.testng.TestNG:82 - suiteXmlPath: "C:\Users\RAHUL\git\repository\Hybrid_AutomationPractise\testngTC005.xml"
-2025-11-16 19:26:59.855 [main] INFO 
+2025-11-17 14:43:34.452 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:45 - Launch browser
+2025-11-17 14:43:42.263 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:59 - Navigate to url 'http://automationexercise.com'
+2025-11-17 14:44:03.771 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:21 - Click on product
+2025-11-17 14:44:13.461 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:25 - Click on View product 1
+2025-11-17 14:44:15.592 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:27 - Add product 1 to cart
+2025-11-17 14:44:15.848 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:29 - Click on Continue Shpping
+2025-11-17 14:44:17.647 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:31 - Click on View product 2
+2025-11-17 14:46:27.069 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:33 - Add product 2 to cart
+2025-11-17 14:46:27.305 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:36 - Click on View product
+2025-11-17 14:48:43.793 [main] DEBUG
+			org.testng.TestNG:82 - suiteXmlPath: "C:\Users\RAHUL\git\repository\Hybrid_AutomationPractise\testngTC11.xml"
+2025-11-17 14:48:45.244 [main] INFO 
 			org.testng.internal.Utils:112 - [TestNG] Running:
-  C:\Users\RAHUL\git\repository\Hybrid_AutomationPractise\testngTC005.xml
+  C:\Users\RAHUL\git\repository\Hybrid_AutomationPractise\testngTC11.xml
 
-2025-11-16 19:26:59.970 [main] INFO 
-			testCases.TC005_VerifyContactUsForm:45 - Launch browser
-2025-11-16 19:27:03.064 [main] INFO 
-			testCases.TC005_VerifyContactUsForm:59 - Navigate to url 'http://automationexercise.com'
-2025-11-16 19:27:15.184 [main] INFO 
-			testCases.TC005_VerifyContactUsForm:30 - Send Name
-2025-11-16 19:27:15.631 [main] INFO 
-			testCases.TC005_VerifyContactUsForm:32 - Send Email
-2025-11-16 19:27:15.905 [main] INFO 
-			testCases.TC005_VerifyContactUsForm:34 - Send Subject
-2025-11-16 19:27:16.218 [main] INFO 
-			testCases.TC005_VerifyContactUsForm:36 - Send Message
-2025-11-16 19:27:16.721 [main] INFO 
-			testCases.TC005_VerifyContactUsForm:38 - Upload File
-2025-11-16 19:27:17.330 [main] ERROR
-			testCases.TC005_VerifyContactUsForm:58 - Exception occurred while verifying product details
-org.openqa.selenium.InvalidArgumentException: invalid argument: File not found : C:\Users\RAHUL\HybridAutomationFramework\Hybrid_AutomationPractise\testData\index.txt.txt
-  (Session info: chrome=142.0.7444.163)
-Build info: version: '4.35.0', revision: '1c58e5028b'
-System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.7'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Command: [985dd111f19040f8e75d51662b5d61c4, sendKeysToElement {id=f.D79E21F09BF6D33389789930BE20D7A2.d.1787BD29E11BBBB282C1518A3CADFB8D.e.57, value=[Ljava.lang.CharSequence;@4bafe935}]
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 142.0.7444.163, chrome: {chromedriverVersion: 142.0.7444.162 (c076baf266c..., userDataDir: C:\Users\RAHUL\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:52818}, goog:processID: 22212, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:52818/devtoo..., se:cdpVersion: 142.0.7444.163, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
-Element: [[ChromeDriver: chrome on windows (985dd111f19040f8e75d51662b5d61c4)] -> xpath: //input[@name='upload_file']]
-Session ID: 985dd111f19040f8e75d51662b5d61c4
-	at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62)
-	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:502)
-	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:486)
-	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167)
-	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138)
-	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50)
-	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:215)
-	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216)
-	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174)
-	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:557)
-	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:223)
-	at org.openqa.selenium.remote.RemoteWebElement.sendKeys(RemoteWebElement.java:110)
-	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
-	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
-	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:51)
-	at jdk.proxy2/jdk.proxy2.$Proxy32.sendKeys(Unknown Source)
-	at pageObjects.ContactUsPage.click_upload(ContactUsPage.java:56)
-	at testCases.TC005_VerifyContactUsForm.verify_ContactUsPage(TC005_VerifyContactUsForm.java:39)
-	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
-	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
-	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
-	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:664)
-	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:227)
-	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
-	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:957)
-	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:200)
-	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
-	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
-	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
-	at org.testng.TestRunner.privateRun(TestRunner.java:848)
-	at org.testng.TestRunner.run(TestRunner.java:621)
-	at org.testng.SuiteRunner.runTest(SuiteRunner.java:443)
-	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:437)
-	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:397)
-	at org.testng.SuiteRunner.run(SuiteRunner.java:336)
-	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
-	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
-	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1280)
-	at org.testng.TestNG.runSuitesLocally(TestNG.java:1200)
-	at org.testng.TestNG.runSuites(TestNG.java:1114)
-	at org.testng.TestNG.run(TestNG.java:1082)
-	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
-	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
-	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
-2025-11-16 19:28:34.567 [main] DEBUG
-			org.testng.TestNG:82 - suiteXmlPath: "C:\Users\RAHUL\git\repository\Hybrid_AutomationPractise\testngTC005.xml"
-2025-11-16 19:28:35.413 [main] INFO 
+2025-11-17 14:48:46.045 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:45 - Launch browser
+2025-11-17 14:48:53.956 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:59 - Navigate to url 'http://automationexercise.com'
+2025-11-17 14:49:00.000 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:21 - Click on product
+2025-11-17 14:50:09.011 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:25 - Click on View product 1
+2025-11-17 14:50:11.941 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:27 - Add product 1 to cart
+2025-11-17 14:50:12.181 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:29 - Click on Continue Shpping
+2025-11-17 14:50:15.539 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:31 - Click on View product 2
+2025-11-17 14:50:20.904 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:33 - Add product 2 to cart
+2025-11-17 14:50:21.271 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:36 - Click on View product
+2025-11-17 14:52:48.532 [main] DEBUG
+			org.testng.TestNG:82 - suiteXmlPath: "C:\Users\RAHUL\git\repository\Hybrid_AutomationPractise\testngTC11.xml"
+2025-11-17 14:52:49.420 [main] INFO 
 			org.testng.internal.Utils:112 - [TestNG] Running:
-  C:\Users\RAHUL\git\repository\Hybrid_AutomationPractise\testngTC005.xml
+  C:\Users\RAHUL\git\repository\Hybrid_AutomationPractise\testngTC11.xml
 
-2025-11-16 19:28:35.538 [main] INFO 
-			testCases.TC005_VerifyContactUsForm:45 - Launch browser
-2025-11-16 19:28:38.504 [main] INFO 
-			testCases.TC005_VerifyContactUsForm:59 - Navigate to url 'http://automationexercise.com'
-2025-11-16 19:29:14.330 [main] DEBUG
-			org.testng.TestNG:82 - suiteXmlPath: "C:\Users\RAHUL\git\repository\Hybrid_AutomationPractise\testngTC005.xml"
-2025-11-16 19:29:15.205 [main] INFO 
+2025-11-17 14:52:49.906 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:45 - Launch browser
+2025-11-17 14:52:52.858 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:59 - Navigate to url 'http://automationexercise.com'
+2025-11-17 14:53:11.802 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:21 - Click on product
+2025-11-17 14:53:23.492 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:25 - Click on View product 1
+2025-11-17 14:53:24.614 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:27 - Add product 1 to cart
+2025-11-17 14:53:25.914 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:29 - Click on Continue Shpping
+2025-11-17 14:53:28.144 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:31 - Click on View product 2
+2025-11-17 14:53:31.102 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:33 - Add product 2 to cart
+2025-11-17 14:53:31.715 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:36 - Click on View product
+2025-11-17 15:00:03.548 [main] DEBUG
+			org.testng.TestNG:82 - suiteXmlPath: "C:\Users\RAHUL\git\repository\Hybrid_AutomationPractise\testngTC11.xml"
+2025-11-17 15:00:04.456 [main] INFO 
 			org.testng.internal.Utils:112 - [TestNG] Running:
-  C:\Users\RAHUL\git\repository\Hybrid_AutomationPractise\testngTC005.xml
+  C:\Users\RAHUL\git\repository\Hybrid_AutomationPractise\testngTC11.xml
 
-2025-11-16 19:29:15.321 [main] INFO 
-			testCases.TC005_VerifyContactUsForm:45 - Launch browser
-2025-11-16 19:29:18.339 [main] INFO 
-			testCases.TC005_VerifyContactUsForm:59 - Navigate to url 'http://automationexercise.com'
-2025-11-16 19:29:27.519 [main] INFO 
-			testCases.TC005_VerifyContactUsForm:30 - Send Name
-2025-11-16 19:29:27.777 [main] INFO 
-			testCases.TC005_VerifyContactUsForm:32 - Send Email
-2025-11-16 19:29:29.344 [main] INFO 
-			testCases.TC005_VerifyContactUsForm:34 - Send Subject
-2025-11-16 19:29:29.681 [main] INFO 
-			testCases.TC005_VerifyContactUsForm:36 - Send Message
-2025-11-16 19:29:31.173 [main] INFO 
-			testCases.TC005_VerifyContactUsForm:38 - Upload File
-2025-11-16 19:29:31.491 [main] ERROR
-			testCases.TC005_VerifyContactUsForm:58 - Exception occurred while verifying product details
-org.openqa.selenium.InvalidArgumentException: invalid argument: File not found : C:\Users\RAHUL\HybridAutomationFramework\Hybrid_AutomationPractise\testData\index
-  (Session info: chrome=142.0.7444.163)
-Build info: version: '4.35.0', revision: '1c58e5028b'
-System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.7'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Command: [74ddc2245658d55ceabde99ee593bb9b, sendKeysToElement {value=[Ljava.lang.CharSequence;@87b5b49, id=f.121371318F49AD2FD8C6D6E791BA5FD2.d.BF5525ABBA43EA8B168E38D51658E710.e.64}]
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 142.0.7444.163, chrome: {chromedriverVersion: 142.0.7444.162 (c076baf266c..., userDataDir: C:\Users\RAHUL\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53084}, goog:processID: 22260, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53084/devtoo..., se:cdpVersion: 142.0.7444.163, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
-Element: [[ChromeDriver: chrome on windows (74ddc2245658d55ceabde99ee593bb9b)] -> xpath: //input[@name='upload_file']]
-Session ID: 74ddc2245658d55ceabde99ee593bb9b
-	at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62)
-	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:502)
-	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:486)
-	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167)
-	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138)
-	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50)
-	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:215)
-	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216)
-	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174)
-	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:557)
-	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:223)
-	at org.openqa.selenium.remote.RemoteWebElement.sendKeys(RemoteWebElement.java:110)
-	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
-	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
-	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:51)
-	at jdk.proxy2/jdk.proxy2.$Proxy32.sendKeys(Unknown Source)
-	at pageObjects.ContactUsPage.click_upload(ContactUsPage.java:56)
-	at testCases.TC005_VerifyContactUsForm.verify_ContactUsPage(TC005_VerifyContactUsForm.java:39)
-	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
-	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
-	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
-	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:664)
-	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:227)
-	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
-	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:957)
-	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:200)
-	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
-	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
-	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
-	at org.testng.TestRunner.privateRun(TestRunner.java:848)
-	at org.testng.TestRunner.run(TestRunner.java:621)
-	at org.testng.SuiteRunner.runTest(SuiteRunner.java:443)
-	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:437)
-	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:397)
-	at org.testng.SuiteRunner.run(SuiteRunner.java:336)
-	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
-	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
-	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1280)
-	at org.testng.TestNG.runSuitesLocally(TestNG.java:1200)
-	at org.testng.TestNG.runSuites(TestNG.java:1114)
-	at org.testng.TestNG.run(TestNG.java:1082)
-	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
-	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
-	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
-2025-11-16 19:30:43.585 [main] DEBUG
-			org.testng.TestNG:82 - suiteXmlPath: "C:\Users\RAHUL\git\repository\Hybrid_AutomationPractise\testngTC005.xml"
-2025-11-16 19:30:44.456 [main] INFO 
+2025-11-17 15:00:04.979 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:45 - Launch browser
+2025-11-17 15:00:07.940 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:59 - Navigate to url 'http://automationexercise.com'
+2025-11-17 15:01:43.297 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:22 - Click on product
+2025-11-17 15:02:14.258 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:26 - Click on View product 1
+2025-11-17 15:02:19.747 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:28 - Add product 1 to cart
+2025-11-17 15:02:19.920 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:30 - Click on Continue Shpping
+2025-11-17 15:02:24.726 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:32 - Click on View product 2
+2025-11-17 15:02:26.762 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:34 - Add product 2 to cart
+2025-11-17 15:02:27.588 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:37 - Click on View product
+2025-11-17 15:09:53.280 [main] DEBUG
+			org.testng.TestNG:82 - suiteXmlPath: "C:\Users\RAHUL\git\repository\Hybrid_AutomationPractise\testngTC11.xml"
+2025-11-17 15:09:54.353 [main] INFO 
 			org.testng.internal.Utils:112 - [TestNG] Running:
-  C:\Users\RAHUL\git\repository\Hybrid_AutomationPractise\testngTC005.xml
+  C:\Users\RAHUL\git\repository\Hybrid_AutomationPractise\testngTC11.xml
 
-2025-11-16 19:30:44.584 [main] INFO 
-			testCases.TC005_VerifyContactUsForm:45 - Launch browser
-2025-11-16 19:30:47.485 [main] INFO 
-			testCases.TC005_VerifyContactUsForm:59 - Navigate to url 'http://automationexercise.com'
-2025-11-16 19:31:12.005 [main] INFO 
-			testCases.TC005_VerifyContactUsForm:30 - Send Name
-2025-11-16 19:31:17.847 [main] INFO 
-			testCases.TC005_VerifyContactUsForm:32 - Send Email
-2025-11-16 19:31:18.977 [main] INFO 
-			testCases.TC005_VerifyContactUsForm:34 - Send Subject
-2025-11-16 19:31:19.434 [main] INFO 
-			testCases.TC005_VerifyContactUsForm:36 - Send Message
-2025-11-16 19:31:19.770 [main] INFO 
-			testCases.TC005_VerifyContactUsForm:38 - Upload File
-2025-11-16 19:31:20.075 [main] ERROR
-			testCases.TC005_VerifyContactUsForm:58 - Exception occurred while verifying product details
-org.openqa.selenium.InvalidArgumentException: invalid argument: File not found : C:\Users\RAHUL\HybridAutomationFramework\Hybrid_AutomationPractise\testData\index.txt
-  (Session info: chrome=142.0.7444.163)
-Build info: version: '4.35.0', revision: '1c58e5028b'
-System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.7'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Command: [cf80ab25ce742fdfc47a2cffc2f9d822, sendKeysToElement {value=[Ljava.lang.CharSequence;@4bafe935, id=f.79A29B1536C3E856FDD4DA66685AA0FE.d.CCC7EF5F611B00DF152D896CCEA55D87.e.114}]
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 142.0.7444.163, chrome: {chromedriverVersion: 142.0.7444.162 (c076baf266c..., userDataDir: C:\Users\RAHUL\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53245}, goog:processID: 11196, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53245/devtoo..., se:cdpVersion: 142.0.7444.163, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
-Element: [[ChromeDriver: chrome on windows (cf80ab25ce742fdfc47a2cffc2f9d822)] -> xpath: //input[@name='upload_file']]
-Session ID: cf80ab25ce742fdfc47a2cffc2f9d822
-	at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62)
-	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:502)
-	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:486)
-	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167)
-	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138)
-	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50)
-	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:215)
-	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216)
-	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174)
-	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:557)
-	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:223)
-	at org.openqa.selenium.remote.RemoteWebElement.sendKeys(RemoteWebElement.java:110)
-	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
-	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
-	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:51)
-	at jdk.proxy2/jdk.proxy2.$Proxy32.sendKeys(Unknown Source)
-	at pageObjects.ContactUsPage.click_upload(ContactUsPage.java:56)
-	at testCases.TC005_VerifyContactUsForm.verify_ContactUsPage(TC005_VerifyContactUsForm.java:39)
-	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
-	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
-	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
-	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:664)
-	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:227)
-	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
-	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:957)
-	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:200)
-	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
-	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
-	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
-	at org.testng.TestRunner.privateRun(TestRunner.java:848)
-	at org.testng.TestRunner.run(TestRunner.java:621)
-	at org.testng.SuiteRunner.runTest(SuiteRunner.java:443)
-	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:437)
-	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:397)
-	at org.testng.SuiteRunner.run(SuiteRunner.java:336)
-	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
-	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
-	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1280)
-	at org.testng.TestNG.runSuitesLocally(TestNG.java:1200)
-	at org.testng.TestNG.runSuites(TestNG.java:1114)
-	at org.testng.TestNG.run(TestNG.java:1082)
-	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
-	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
-	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
-2025-11-16 19:32:25.285 [main] DEBUG
-			org.testng.TestNG:82 - suiteXmlPath: "C:\Users\RAHUL\git\repository\Hybrid_AutomationPractise\testngTC005.xml"
-2025-11-16 19:32:26.146 [main] INFO 
+2025-11-17 15:09:55.006 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:45 - Launch browser
+2025-11-17 15:09:58.210 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:59 - Navigate to url 'http://automationexercise.com'
+2025-11-17 15:10:05.669 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:22 - Click on product
+2025-11-17 15:11:11.845 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:26 - Click on View product 1
+2025-11-17 15:11:16.771 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:28 - Add product 1 to cart
+2025-11-17 15:11:16.923 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:30 - Click on Continue Shpping
+2025-11-17 15:11:18.999 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:32 - Click on View product 2
+2025-11-17 15:11:21.483 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:34 - Add product 2 to cart
+2025-11-17 15:11:22.184 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:37 - Click on View product
+2025-11-17 15:11:25.398 [main] ERROR
+			testCases.TC011_Verify_Add_Products_in_Cart:49 - Error occured while validating product 1 details in Cart
+2025-11-17 15:11:25.473 [main] ERROR
+			testCases.TC011_Verify_Add_Products_in_Cart:59 - Error occured while validating product 2 details in Cart
+2025-11-17 15:11:25.959 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:82 - Remove Product 1 from cart
+2025-11-17 15:11:26.319 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:84 - Remove Product 2 from cart
+2025-11-17 15:12:18.231 [main] DEBUG
+			org.testng.TestNG:82 - suiteXmlPath: "C:\Users\RAHUL\git\repository\Hybrid_AutomationPractise\testngTC11.xml"
+2025-11-17 15:12:19.124 [main] INFO 
 			org.testng.internal.Utils:112 - [TestNG] Running:
-  C:\Users\RAHUL\git\repository\Hybrid_AutomationPractise\testngTC005.xml
+  C:\Users\RAHUL\git\repository\Hybrid_AutomationPractise\testngTC11.xml
 
-2025-11-16 19:32:26.267 [main] INFO 
-			testCases.TC005_VerifyContactUsForm:45 - Launch browser
-2025-11-16 19:32:29.360 [main] INFO 
-			testCases.TC005_VerifyContactUsForm:59 - Navigate to url 'http://automationexercise.com'
-2025-11-16 19:32:39.024 [main] INFO 
-			testCases.TC005_VerifyContactUsForm:30 - Send Name
-2025-11-16 19:32:39.431 [main] INFO 
-			testCases.TC005_VerifyContactUsForm:32 - Send Email
-2025-11-16 19:32:39.603 [main] INFO 
-			testCases.TC005_VerifyContactUsForm:34 - Send Subject
-2025-11-16 19:32:39.802 [main] INFO 
-			testCases.TC005_VerifyContactUsForm:36 - Send Message
-2025-11-16 19:32:40.019 [main] INFO 
-			testCases.TC005_VerifyContactUsForm:38 - Upload File
-2025-11-16 19:32:40.097 [main] ERROR
-			testCases.TC005_VerifyContactUsForm:58 - Exception occurred while verifying product details
-org.openqa.selenium.InvalidArgumentException: invalid argument: File not found : C:\Users\RAHUL\HybridAutomationFramework\Hybrid_AutomationPractise\testData\index.txt
-  (Session info: chrome=142.0.7444.163)
-Build info: version: '4.35.0', revision: '1c58e5028b'
-System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.7'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Command: [4067dba48a8645177a05bf9992e671e9, sendKeysToElement {value=[Ljava.lang.CharSequence;@681e144, id=f.43A0CFD6D23E864DC573E8A1D5051284.d.8DD6EDF36FB00AE8F8FD21E7CF3BADA4.e.60}]
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 142.0.7444.163, chrome: {chromedriverVersion: 142.0.7444.162 (c076baf266c..., userDataDir: C:\Users\RAHUL\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53436}, goog:processID: 22496, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53436/devtoo..., se:cdpVersion: 142.0.7444.163, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
-Element: [[ChromeDriver: chrome on windows (4067dba48a8645177a05bf9992e671e9)] -> xpath: //input[@name='upload_file']]
-Session ID: 4067dba48a8645177a05bf9992e671e9
-	at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62)
-	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:502)
-	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:486)
-	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167)
-	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138)
-	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50)
-	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:215)
-	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216)
-	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174)
-	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:557)
-	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:223)
-	at org.openqa.selenium.remote.RemoteWebElement.sendKeys(RemoteWebElement.java:110)
-	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
-	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
-	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:51)
-	at jdk.proxy2/jdk.proxy2.$Proxy32.sendKeys(Unknown Source)
-	at pageObjects.ContactUsPage.click_upload(ContactUsPage.java:55)
-	at testCases.TC005_VerifyContactUsForm.verify_ContactUsPage(TC005_VerifyContactUsForm.java:39)
-	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
-	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
-	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
-	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:664)
-	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:227)
-	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
-	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:957)
-	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:200)
-	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
-	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
-	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
-	at org.testng.TestRunner.privateRun(TestRunner.java:848)
-	at org.testng.TestRunner.run(TestRunner.java:621)
-	at org.testng.SuiteRunner.runTest(SuiteRunner.java:443)
-	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:437)
-	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:397)
-	at org.testng.SuiteRunner.run(SuiteRunner.java:336)
-	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
-	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
-	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1280)
-	at org.testng.TestNG.runSuitesLocally(TestNG.java:1200)
-	at org.testng.TestNG.runSuites(TestNG.java:1114)
-	at org.testng.TestNG.run(TestNG.java:1082)
-	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
-	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
-	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
-2025-11-16 19:34:05.683 [main] DEBUG
-			org.testng.TestNG:82 - suiteXmlPath: "C:\Users\RAHUL\git\repository\Hybrid_AutomationPractise\testngTC005.xml"
-2025-11-16 19:34:06.655 [main] INFO 
+2025-11-17 15:12:19.645 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:45 - Launch browser
+2025-11-17 15:12:22.743 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:59 - Navigate to url 'http://automationexercise.com'
+2025-11-17 15:12:29.802 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:22 - Click on product
+2025-11-17 15:12:37.254 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:26 - Click on View product 1
+2025-11-17 15:12:39.382 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:28 - Add product 1 to cart
+2025-11-17 15:12:40.054 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:30 - Click on Continue Shpping
+2025-11-17 15:12:42.923 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:32 - Click on View product 2
+2025-11-17 15:12:49.065 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:34 - Add product 2 to cart
+2025-11-17 15:12:49.258 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:37 - Click on View product
+2025-11-17 15:12:51.352 [main] ERROR
+			testCases.TC011_Verify_Add_Products_in_Cart:49 - Error occured while validating product 1 details in Cart
+2025-11-17 15:12:51.394 [main] ERROR
+			testCases.TC011_Verify_Add_Products_in_Cart:59 - Error occured while validating product 2 details in Cart
+2025-11-17 15:12:51.934 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:82 - Remove Product 1 from cart
+2025-11-17 15:12:52.257 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:84 - Remove Product 2 from cart
+2025-11-17 15:18:03.014 [main] DEBUG
+			org.testng.TestNG:82 - suiteXmlPath: "C:\Users\RAHUL\git\repository\Hybrid_AutomationPractise\testngTC11.xml"
+2025-11-17 15:18:03.915 [main] INFO 
 			org.testng.internal.Utils:112 - [TestNG] Running:
-  C:\Users\RAHUL\git\repository\Hybrid_AutomationPractise\testngTC005.xml
+  C:\Users\RAHUL\git\repository\Hybrid_AutomationPractise\testngTC11.xml
 
-2025-11-16 19:34:06.778 [main] INFO 
-			testCases.TC005_VerifyContactUsForm:45 - Launch browser
-2025-11-16 19:34:09.854 [main] INFO 
-			testCases.TC005_VerifyContactUsForm:59 - Navigate to url 'http://automationexercise.com'
-2025-11-16 19:34:23.336 [main] INFO 
-			testCases.TC005_VerifyContactUsForm:30 - Send Name
-2025-11-16 19:34:23.529 [main] INFO 
-			testCases.TC005_VerifyContactUsForm:32 - Send Email
-2025-11-16 19:34:24.051 [main] INFO 
-			testCases.TC005_VerifyContactUsForm:34 - Send Subject
-2025-11-16 19:34:24.329 [main] INFO 
-			testCases.TC005_VerifyContactUsForm:36 - Send Message
-2025-11-16 19:34:24.901 [main] INFO 
-			testCases.TC005_VerifyContactUsForm:38 - Upload File
-2025-11-16 19:34:25.034 [main] ERROR
-			testCases.TC005_VerifyContactUsForm:58 - Exception occurred while verifying product details
-org.openqa.selenium.InvalidArgumentException: invalid argument: File not found : C:\Users\RAHUL\HybridAutomationFramework\Hybrid_AutomationPractise\testData\index.txt
-  (Session info: chrome=142.0.7444.163)
-Build info: version: '4.35.0', revision: '1c58e5028b'
-System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.7'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Command: [f2c4614e81fdcd1f9d96bd0244006132, sendKeysToElement {id=f.3D7DEBA8906780A851E7C1552127EA75.d.EE2321FFD4F0D63133C535BA45AA6254.e.74, value=[Ljava.lang.CharSequence;@681e144}]
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 142.0.7444.163, chrome: {chromedriverVersion: 142.0.7444.162 (c076baf266c..., userDataDir: C:\Users\RAHUL\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53649}, goog:processID: 12232, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53649/devtoo..., se:cdpVersion: 142.0.7444.163, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
-Element: [[ChromeDriver: chrome on windows (f2c4614e81fdcd1f9d96bd0244006132)] -> xpath: //input[@type='file']]
-Session ID: f2c4614e81fdcd1f9d96bd0244006132
-	at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62)
-	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:502)
-	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:486)
-	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167)
-	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138)
-	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50)
-	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:215)
-	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216)
-	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174)
-	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:557)
-	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:223)
-	at org.openqa.selenium.remote.RemoteWebElement.sendKeys(RemoteWebElement.java:110)
-	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
-	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
-	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:51)
-	at jdk.proxy2/jdk.proxy2.$Proxy32.sendKeys(Unknown Source)
-	at pageObjects.ContactUsPage.click_upload(ContactUsPage.java:55)
-	at testCases.TC005_VerifyContactUsForm.verify_ContactUsPage(TC005_VerifyContactUsForm.java:39)
-	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
-	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
-	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
-	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:664)
-	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:227)
-	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
-	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:957)
-	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:200)
-	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
-	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
-	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
-	at org.testng.TestRunner.privateRun(TestRunner.java:848)
-	at org.testng.TestRunner.run(TestRunner.java:621)
-	at org.testng.SuiteRunner.runTest(SuiteRunner.java:443)
-	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:437)
-	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:397)
-	at org.testng.SuiteRunner.run(SuiteRunner.java:336)
-	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
-	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
-	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1280)
-	at org.testng.TestNG.runSuitesLocally(TestNG.java:1200)
-	at org.testng.TestNG.runSuites(TestNG.java:1114)
-	at org.testng.TestNG.run(TestNG.java:1082)
-	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
-	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
-	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
-2025-11-16 19:37:09.505 [main] DEBUG
-			org.testng.TestNG:82 - suiteXmlPath: "C:\Users\RAHUL\git\repository\Hybrid_AutomationPractise\testngTC005.xml"
-2025-11-16 19:37:11.504 [main] INFO 
+2025-11-17 15:18:04.477 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:45 - Launch browser
+2025-11-17 15:18:07.658 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:59 - Navigate to url 'http://automationexercise.com'
+2025-11-17 15:24:08.220 [main] DEBUG
+			org.testng.TestNG:82 - suiteXmlPath: "C:\Users\RAHUL\git\repository\Hybrid_AutomationPractise\testngTC11.xml"
+2025-11-17 15:24:09.108 [main] INFO 
 			org.testng.internal.Utils:112 - [TestNG] Running:
-  C:\Users\RAHUL\git\repository\Hybrid_AutomationPractise\testngTC005.xml
+  C:\Users\RAHUL\git\repository\Hybrid_AutomationPractise\testngTC11.xml
 
-2025-11-16 19:37:11.718 [main] INFO 
-			testCases.TC005_VerifyContactUsForm:45 - Launch browser
-2025-11-16 19:37:15.357 [main] INFO 
-			testCases.TC005_VerifyContactUsForm:59 - Navigate to url 'http://automationexercise.com'
-2025-11-16 19:37:25.799 [main] INFO 
-			testCases.TC005_VerifyContactUsForm:30 - Send Name
-2025-11-16 19:37:26.592 [main] INFO 
-			testCases.TC005_VerifyContactUsForm:32 - Send Email
-2025-11-16 19:37:26.768 [main] INFO 
-			testCases.TC005_VerifyContactUsForm:34 - Send Subject
-2025-11-16 19:37:26.993 [main] INFO 
-			testCases.TC005_VerifyContactUsForm:36 - Send Message
-2025-11-16 19:37:27.205 [main] INFO 
-			testCases.TC005_VerifyContactUsForm:38 - Upload File
-2025-11-16 19:37:27.262 [main] ERROR
-			testCases.TC005_VerifyContactUsForm:58 - Exception occurred while verifying product details
-org.openqa.selenium.InvalidArgumentException: invalid argument: File not found : C:\Users\RAHUL\HybridAutomationFramework\Hybrid_AutomationPractise\testData\index.txt
-  (Session info: chrome=142.0.7444.163)
-Build info: version: '4.35.0', revision: '1c58e5028b'
-System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.7'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Command: [feca9cf4ea5431f36dca46e7722fa3a5, sendKeysToElement {value=[Ljava.lang.CharSequence;@681e144, id=f.80A9115A6215FC153E42AEE3D95619A3.d.6415EB71F42B903934290C8DB968118D.e.47}]
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 142.0.7444.163, chrome: {chromedriverVersion: 142.0.7444.162 (c076baf266c..., userDataDir: C:\Users\RAHUL\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53948}, goog:processID: 17548, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53948/devtoo..., se:cdpVersion: 142.0.7444.163, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
-Element: [[ChromeDriver: chrome on windows (feca9cf4ea5431f36dca46e7722fa3a5)] -> xpath: //input[@type='file']]
-Session ID: feca9cf4ea5431f36dca46e7722fa3a5
-	at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62)
-	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:502)
-	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:486)
-	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167)
-	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138)
-	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50)
-	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:215)
-	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216)
-	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174)
-	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:557)
-	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:223)
-	at org.openqa.selenium.remote.RemoteWebElement.sendKeys(RemoteWebElement.java:110)
-	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
-	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
-	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:51)
-	at jdk.proxy2/jdk.proxy2.$Proxy32.sendKeys(Unknown Source)
-	at pageObjects.ContactUsPage.click_upload(ContactUsPage.java:55)
-	at testCases.TC005_VerifyContactUsForm.verify_ContactUsPage(TC005_VerifyContactUsForm.java:39)
-	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
-	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
-	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
-	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:664)
-	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:227)
-	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
-	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:957)
-	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:200)
-	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
-	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
-	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
-	at org.testng.TestRunner.privateRun(TestRunner.java:848)
-	at org.testng.TestRunner.run(TestRunner.java:621)
-	at org.testng.SuiteRunner.runTest(SuiteRunner.java:443)
-	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:437)
-	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:397)
-	at org.testng.SuiteRunner.run(SuiteRunner.java:336)
-	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
-	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
-	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1280)
-	at org.testng.TestNG.runSuitesLocally(TestNG.java:1200)
-	at org.testng.TestNG.runSuites(TestNG.java:1114)
-	at org.testng.TestNG.run(TestNG.java:1082)
-	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
-	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
-	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
-2025-11-16 19:39:13.083 [main] DEBUG
-			org.testng.TestNG:82 - suiteXmlPath: "C:\Users\RAHUL\git\repository\Hybrid_AutomationPractise\testngTC005.xml"
-2025-11-16 19:39:14.017 [main] INFO 
+2025-11-17 15:24:09.643 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:45 - Launch browser
+2025-11-17 15:24:12.768 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:59 - Navigate to url 'http://automationexercise.com'
+2025-11-17 15:25:51.309 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:22 - Click on product
+2025-11-17 15:26:44.677 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:26 - Click on View product 1
+2025-11-17 15:26:47.510 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:28 - Add product 1 to cart
+2025-11-17 15:26:47.726 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:30 - Click on Continue Shpping
+2025-11-17 15:26:49.897 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:32 - Click on View product 2
+2025-11-17 15:28:24.723 [main] DEBUG
+			org.testng.TestNG:82 - suiteXmlPath: "C:\Users\RAHUL\git\repository\Hybrid_AutomationPractise\testngTC11.xml"
+2025-11-17 15:28:25.580 [main] INFO 
 			org.testng.internal.Utils:112 - [TestNG] Running:
-  C:\Users\RAHUL\git\repository\Hybrid_AutomationPractise\testngTC005.xml
+  C:\Users\RAHUL\git\repository\Hybrid_AutomationPractise\testngTC11.xml
 
-2025-11-16 19:39:14.141 [main] INFO 
-			testCases.TC005_VerifyContactUsForm:45 - Launch browser
-2025-11-16 19:39:18.946 [main] INFO 
-			testCases.TC005_VerifyContactUsForm:59 - Navigate to url 'http://automationexercise.com'
-2025-11-16 19:39:30.496 [main] INFO 
-			testCases.TC005_VerifyContactUsForm:30 - Send Name
-2025-11-16 19:39:31.175 [main] INFO 
-			testCases.TC005_VerifyContactUsForm:32 - Send Email
-2025-11-16 19:39:31.826 [main] INFO 
-			testCases.TC005_VerifyContactUsForm:34 - Send Subject
-2025-11-16 19:39:32.134 [main] INFO 
-			testCases.TC005_VerifyContactUsForm:36 - Send Message
-2025-11-16 19:39:37.459 [main] INFO 
-			testCases.TC005_VerifyContactUsForm:41 - Click on Submit button
-2025-11-16 19:39:37.951 [main] INFO 
-			testCases.TC005_VerifyContactUsForm:43 - Click Ok on PopUp
-2025-11-16 19:39:43.158 [main] INFO 
-			testCases.TC005_VerifyContactUsForm:46 - Verify success message
-2025-11-16 19:39:43.307 [main] INFO 
-			testCases.TC005_VerifyContactUsForm:48 - Navigate to Home Page
+2025-11-17 15:28:26.089 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:45 - Launch browser
+2025-11-17 15:28:29.064 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:59 - Navigate to url 'http://automationexercise.com'
+2025-11-17 15:28:36.348 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:22 - Click on product
+2025-11-17 15:28:41.450 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:26 - Click on View product 1
+2025-11-17 15:28:43.800 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:28 - Add product 1 to cart
+2025-11-17 15:28:44.065 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:30 - Click on Continue Shpping
+2025-11-17 15:28:46.719 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:32 - Click on View product 2
+2025-11-17 15:28:48.908 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:34 - Add product 2 to cart
+2025-11-17 15:28:49.633 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:37 - Click on View product
+2025-11-17 15:28:52.736 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:52 - Remove Product 1 from cart
+2025-11-17 15:28:54.084 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:54 - Remove Product 2 from cart
+2025-11-17 15:30:32.363 [main] DEBUG
+			org.testng.TestNG:82 - suiteXmlPath: "C:\Users\RAHUL\git\repository\Hybrid_AutomationPractise\testngTC11.xml"
+2025-11-17 15:30:33.336 [main] INFO 
+			org.testng.internal.Utils:112 - [TestNG] Running:
+  C:\Users\RAHUL\git\repository\Hybrid_AutomationPractise\testngTC11.xml
+
+2025-11-17 15:30:33.858 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:45 - Launch browser
+2025-11-17 15:30:36.896 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:59 - Navigate to url 'http://automationexercise.com'
+2025-11-17 15:31:02.880 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:22 - Click on product
+2025-11-17 15:31:08.275 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:26 - Click on View product 1
+2025-11-17 15:31:10.732 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:28 - Add product 1 to cart
+2025-11-17 15:31:11.308 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:30 - Click on Continue Shpping
+2025-11-17 15:31:13.893 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:32 - Click on View product 2
+2025-11-17 15:31:16.589 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:34 - Add product 2 to cart
+2025-11-17 15:31:18.038 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:37 - Click on View product
+2025-11-17 15:31:23.410 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:42 - Verify Product1 Details in Cart
+2025-11-17 15:31:24.063 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:47 - Verify Product2 Details in Cart
+2025-11-17 15:31:24.900 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:53 - Remove Product 1 from cart
+2025-11-17 15:31:25.397 [main] INFO 
+			testCases.TC011_Verify_Add_Products_in_Cart:55 - Remove Product 2 from cart
