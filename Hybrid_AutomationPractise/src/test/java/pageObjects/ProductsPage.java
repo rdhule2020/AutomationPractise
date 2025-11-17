@@ -184,4 +184,18 @@ public class ProductsPage extends BasePage {
 		wait.until(ExpectedConditions.elementToBeClickable(product2_AddToCart)).click();
 
 	}
+	
+	
+	
+	// TC012 :
+		@FindBy(xpath="//input[@type='number']")WebElement num_quantity;
+		
+		
+		public void send_quantity()
+		{
+			num_quantity.clear();
+			
+			num_quantity.sendKeys("4");
+		}
+
 }

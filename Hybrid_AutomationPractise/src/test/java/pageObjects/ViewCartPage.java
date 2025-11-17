@@ -119,4 +119,8 @@ public class ViewCartPage extends BasePage{
 		wait.until(ExpectedConditions.elementToBeClickable(cart2_Delete)).click();
 		
 	}
+
+//TC012 :
+	
+
 }

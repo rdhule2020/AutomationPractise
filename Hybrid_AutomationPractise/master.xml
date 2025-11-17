@@ -19,6 +19,7 @@
 			<class name="testCases.TC009_Verify_SubscriptionInHomePage" />
 			<class name="testCases.TC010_Verify_SubscriptionInCartPage" />
 			<class name="testCases.TC011_Verify_Add_Products_in_Cart" />
+			<class name="testCases.TC012_Verify_ProductQuantityInCart"/>
 		</classes>
 	</test> <!-- Test -->
 </suite> <!-- Suite -->

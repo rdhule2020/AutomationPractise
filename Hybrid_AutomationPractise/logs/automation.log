@@ -885,3 +885,89 @@ Session ID: b9d5fa81e0e16346e4b82777479a2e28
 			testCases.TC011_Verify_Add_Products_in_Cart:53 - Remove Product 1 from cart
 2025-11-17 15:31:25.397 [main] INFO 
 			testCases.TC011_Verify_Add_Products_in_Cart:55 - Remove Product 2 from cart
+2025-11-17 16:34:46.056 [main] DEBUG
+			org.testng.TestNG:82 - suiteXmlPath: "C:\Users\RAHUL\git\repository\Hybrid_AutomationPractise\TC012.xml"
+2025-11-17 16:34:46.963 [main] INFO 
+			org.testng.internal.Utils:112 - [TestNG] Running:
+  C:\Users\RAHUL\git\repository\Hybrid_AutomationPractise\TC012.xml
+
+2025-11-17 16:34:47.087 [main] INFO 
+			testCases.TC012_Verify_ProductQuantityInCart:45 - Launch browser
+2025-11-17 16:34:59.009 [main] INFO 
+			testCases.TC012_Verify_ProductQuantityInCart:59 - Navigate to url 'http://automationexercise.com'
+2025-11-17 16:35:16.062 [main] INFO 
+			testCases.TC012_Verify_ProductQuantityInCart:20 - Click on View product 1
+2025-11-17 16:35:17.940 [main] INFO 
+			testCases.TC012_Verify_ProductQuantityInCart:22 - Add product qunatity for current product
+2025-11-17 16:36:07.467 [main] DEBUG
+			org.testng.TestNG:82 - suiteXmlPath: "C:\Users\RAHUL\git\repository\Hybrid_AutomationPractise\TC012.xml"
+2025-11-17 16:36:08.360 [main] INFO 
+			org.testng.internal.Utils:112 - [TestNG] Running:
+  C:\Users\RAHUL\git\repository\Hybrid_AutomationPractise\TC012.xml
+
+2025-11-17 16:36:08.485 [main] INFO 
+			testCases.TC012_Verify_ProductQuantityInCart:45 - Launch browser
+2025-11-17 16:36:12.378 [main] INFO 
+			testCases.TC012_Verify_ProductQuantityInCart:59 - Navigate to url 'http://automationexercise.com'
+2025-11-17 16:36:28.851 [main] INFO 
+			testCases.TC012_Verify_ProductQuantityInCart:20 - Click on View product 1
+2025-11-17 16:36:30.843 [main] INFO 
+			testCases.TC012_Verify_ProductQuantityInCart:22 - Add product qunatity for current product
+2025-11-17 16:38:45.137 [main] DEBUG
+			org.testng.TestNG:82 - suiteXmlPath: "C:\Users\RAHUL\git\repository\Hybrid_AutomationPractise\TC012.xml"
+2025-11-17 16:38:45.994 [main] INFO 
+			org.testng.internal.Utils:112 - [TestNG] Running:
+  C:\Users\RAHUL\git\repository\Hybrid_AutomationPractise\TC012.xml
+
+2025-11-17 16:38:46.110 [main] INFO 
+			testCases.TC012_Verify_ProductQuantityInCart:45 - Launch browser
+2025-11-17 16:38:49.224 [main] INFO 
+			testCases.TC012_Verify_ProductQuantityInCart:59 - Navigate to url 'http://automationexercise.com'
+2025-11-17 16:39:06.305 [main] INFO 
+			testCases.TC012_Verify_ProductQuantityInCart:20 - Click on View product 1
+2025-11-17 16:39:08.387 [main] INFO 
+			testCases.TC012_Verify_ProductQuantityInCart:22 - Add product qunatity for current product
+2025-11-17 16:47:52.053 [main] DEBUG
+			org.testng.TestNG:82 - suiteXmlPath: "C:\Users\RAHUL\git\repository\Hybrid_AutomationPractise\TC012.xml"
+2025-11-17 16:47:53.017 [main] INFO 
+			org.testng.internal.Utils:112 - [TestNG] Running:
+  C:\Users\RAHUL\git\repository\Hybrid_AutomationPractise\TC012.xml
+
+2025-11-17 16:47:53.147 [main] INFO 
+			testCases.TC012_Verify_ProductQuantityInCart:45 - Launch browser
+2025-11-17 16:47:56.215 [main] INFO 
+			testCases.TC012_Verify_ProductQuantityInCart:59 - Navigate to url 'http://automationexercise.com'
+2025-11-17 16:48:09.348 [main] INFO 
+			testCases.TC012_Verify_ProductQuantityInCart:21 - Click on View product 1
+2025-11-17 16:48:13.882 [main] INFO 
+			testCases.TC012_Verify_ProductQuantityInCart:23 - Add product qunatity for current product
+2025-11-17 16:48:14.368 [main] INFO 
+			testCases.TC012_Verify_ProductQuantityInCart:25 - Click on Add To Cart
+2025-11-17 16:48:14.540 [main] INFO 
+			testCases.TC012_Verify_ProductQuantityInCart:27 - Click 'View Cart' button
+2025-11-17 16:48:16.939 [main] INFO 
+			testCases.TC012_Verify_ProductQuantityInCart:30 - Verify that product is displayed in cart page 
+2025-11-17 16:48:17.015 [main] INFO 
+			testCases.TC012_Verify_ProductQuantityInCart:33 - Verify product1 quantity is 4 in cart 
+2025-11-17 16:50:08.204 [main] DEBUG
+			org.testng.TestNG:82 - suiteXmlPath: "C:\Users\RAHUL\git\repository\Hybrid_AutomationPractise\TC012.xml"
+2025-11-17 16:50:09.142 [main] INFO 
+			org.testng.internal.Utils:112 - [TestNG] Running:
+  C:\Users\RAHUL\git\repository\Hybrid_AutomationPractise\TC012.xml
+
+2025-11-17 16:50:09.277 [main] INFO 
+			testCases.TC012_Verify_ProductQuantityInCart:45 - Launch browser
+2025-11-17 16:50:12.331 [main] INFO 
+			testCases.TC012_Verify_ProductQuantityInCart:59 - Navigate to url 'http://automationexercise.com'
+2025-11-17 16:50:24.282 [main] INFO 
+			testCases.TC012_Verify_ProductQuantityInCart:22 - Click on View product 1
+2025-11-17 16:50:26.465 [main] INFO 
+			testCases.TC012_Verify_ProductQuantityInCart:24 - Add product qunatity for current product
+2025-11-17 16:50:27.031 [main] INFO 
+			testCases.TC012_Verify_ProductQuantityInCart:26 - Click on Add To Cart
+2025-11-17 16:50:27.204 [main] INFO 
+			testCases.TC012_Verify_ProductQuantityInCart:28 - Click 'View Cart' button
+2025-11-17 16:50:28.740 [main] INFO 
+			testCases.TC012_Verify_ProductQuantityInCart:31 - Verify that product is displayed in cart page 
+2025-11-17 16:50:28.807 [main] INFO 
+			testCases.TC012_Verify_ProductQuantityInCart:34 - Verify product1 quantity is 4 in cart 
